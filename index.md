@@ -9,5 +9,8 @@ This website will always be under construction, because I've got better things t
 
 Like, for instance, working on videos!!
 
+# It's all about the videos!
 
-[![The Newbie Woodworker]({{ "/images/logo48.png" | absolute_url }})](https://youtube.com/c/thenewbiewoodworker) Visit my [YouTube channel](https://youtube.com/c/thenewbiewoodworker).
+The Newbie Woodworker is all about the videos. So what are you waiting for?
+
+## [![The Newbie Woodworker]({{ "/images/logo48.png" | absolute_url }})](https://youtube.com/c/thenewbiewoodworker) [Go See the Videos](https://youtube.com/c/thenewbiewoodworker)! [![The Newbie Woodworker]({{ "/images/logo48.png" | absolute_url }})](https://youtube.com/c/thenewbiewoodworker)
