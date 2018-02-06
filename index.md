@@ -10,4 +10,4 @@ This website will always be under construction, because I've got better things t
 Like, for instance, working on videos!!
 
 
-[![The Newbie Woodworker]({{ "/images/logo48.png" | absolute_url }})](https://youtube.com/c/thenewbiewoodworker) Visit my YouTube channel.
+[![The Newbie Woodworker]({{ "/images/logo48.png" | absolute_url }})](https://youtube.com/c/thenewbiewoodworker) Visit my [YouTube channel](https://youtube.com/c/thenewbiewoodworker).
