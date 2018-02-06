@@ -23,11 +23,11 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & prtotocol for your site, e.g. http://example.com
 author:
   name: Daniel Thomas
+  picture: /assets/images/me.jpg
 
 # Build settings
 markdown: kramdown
 plugins: # previously gems
-  - jekyll-feed
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
