@@ -10,7 +10,8 @@ layout: default
   {{ content }}
 
   {% if site.posts.size > 0 %}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
+  <p></p>
+    <h3 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h3>
     <ul class="post-list">
       {% for post in site.posts %}
       <li>
