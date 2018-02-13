@@ -21,6 +21,9 @@ description: >- # this means to ignore newlines until "baseurl:"
 logo: /assets/icons/logo48.png
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & prtotocol for your site, e.g. http://example.com
+google_analytics: UA-114090150-1
+disqus:
+    shortname: thenewbiewoodworker
 author:
   name: Daniel Thomas
   picture: /assets/images/me.jpg
