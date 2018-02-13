@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   The Newbie Woodworker
 logo: /assets/icons/logo48.png
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & prtotocol for your site, e.g. http://example.com
+url: "http://thenewbiewoodworker.com" # the base hostname & prtotocol for your site, e.g. http://example.com
 google_analytics: UA-114090150-1
 disqus:
     shortname: thenewbiewoodworker
