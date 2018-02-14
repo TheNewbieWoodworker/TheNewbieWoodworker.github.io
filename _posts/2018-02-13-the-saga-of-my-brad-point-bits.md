@@ -4,6 +4,8 @@ title: "The Saga of My Brad Point Drill Bit Set"
 
 This is the saga of my trying to buy a decent Brad Point drill bet set. Eventually, I ended up with a fairly decent set of bits. But it didn't start out that way. Let me tell you the story...
 
+Reference video: [Newbie Tool Tip: Brad Point Drill Bits & Other Twist Bits](https://youtu.be/Xrhrr0lpSUI){:target="_blank"}
+
 ### The Beginning
 
 This was my first set of Brad Point drill bits:
