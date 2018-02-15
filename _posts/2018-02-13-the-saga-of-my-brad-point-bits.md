@@ -1,5 +1,11 @@
 ---
 title: "The Saga of My Brad Point Drill Bit Set"
+categories:
+  - Rockler
+  - Brad Point Drill Bits
+  - Woodworking
+tags:
+  - product search
 ---
 
 This is the saga of my trying to buy a decent Brad Point drill bet set. Eventually, I ended up with a fairly decent set of bits. But it didn't start out that way. Let me tell you the story...
