@@ -1,12 +1,6 @@
 ---
 title: "Dust Collection with Many Drops"
 comments: false
-categories:
-  - Dust Collection
-  - Dust Collector
-  - Woodworking
-tags:
-  - efficiency
 ---
 
 This is actually a reply to a question I got on my YouTube video [Dust Collection for Newbies: Introduction to Dust Collection](https://youtu.be/c2sWwWbAayM), but I thought I'd post it here in case I needed to refer to it again.

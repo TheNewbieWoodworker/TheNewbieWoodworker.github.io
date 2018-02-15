@@ -1,10 +1,5 @@
 ---
 title: "YouTube Thumbs Down"
-categories:
-  - YouTube
-tags:
-  - comments
-  - thumbs down
 ---
 
 I'll <span style="color:red"><strong>never understand</strong></span> why some people give a YouTube video a "<span style="color:red"><strong>thumbs down</strong></span>" <span style="color:red"><strong>without</strong></span> leaving a comment <span style="color:red"><strong>explaining why</strong></span>.
