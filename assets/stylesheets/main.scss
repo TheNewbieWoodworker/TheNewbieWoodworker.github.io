@@ -8,3 +8,7 @@
 @import "basically-basic/themes/{{ site.data.theme.skin | default: 'default' }}";
 
 @import "basically-basic";
+
+td, th {
+   border: 0;
+ }

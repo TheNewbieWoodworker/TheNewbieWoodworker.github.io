@@ -1,6 +1,7 @@
 ---
 title: "SketchUp"
-permalink: "sketchup"
+image: /assets/images/sketchup_image.jpg
+permalink: "/sketchup/"
 ---
 
 ## My SketchUp models
