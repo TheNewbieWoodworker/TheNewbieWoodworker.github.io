@@ -1,7 +1,8 @@
 ---
-title: "SketchUp"
-image: /assets/images/sketchup_image.jpg
+layout: page
+title: "SketchUp" 
 permalink: "/sketchup/"
+#image: /assets/images/sketchup_image.jpg
 ---
 
 ## My SketchUp models
