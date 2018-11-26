@@ -16,7 +16,12 @@ If you have comments, questions, or suggestions, you can either use the [comment
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 <div class="gumroad-product-embed" data-gumroad-product-id="uqFKi"><a href="https://gumroad.com/l/uqFKi">Loading...</a></div>
 
+<br/>
 ### IF YOU HAVE PROBLEMS BUYING THE PLANS:
+
+Try ordering from here: <https://gumroad.com/thenewbiewoodworker>{:target="_blank"}. If this solves your problem, I'd like to hear about it, if you don't mind. Totally optional, though. Click to send me an email: <dan@dagware.com>
+
+### If that doesn't work:
 
 I'm working very hard to solve any purchasing issues you might have. But I need your help to accomplish this.
 
