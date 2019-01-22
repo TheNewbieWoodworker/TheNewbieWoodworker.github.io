@@ -1,5 +1,5 @@
 ---
-title: "On second thought... Powered Up! Day 2"
+title: "On second thought... Powered Up! Day 2.1"
 ---
 
 Yesterday, I [talked a lot]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}) about whether I thought the [“Powered Up” online course](https://theweekendwoodworker.com/powered-up){:target="_blank"}  was worth the money or not. Last night I realized that I had the wrong price in my head. Long story - short version: **Never trust the memory of a 62-year-old.** Or at least this 62-year-old.
@@ -16,4 +16,5 @@ For me, there's 2 or 3 projects I don't need. However, **I'm still glad I'm goin
 
 More later.
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
+[Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
+[Powered Up<br/>Next Post >>]({{ site.baseurl }}{% post_url 2019-01-21-powered-up-day-2-2 %}){: .btn}
