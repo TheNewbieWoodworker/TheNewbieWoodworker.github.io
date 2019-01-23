@@ -1,5 +1,5 @@
 ---
-title: "Planning, & SketchUp Tips - Powered Up! Day 3"
+title: "Planning, & SketchUp Tips - Powered Up! Day 3.1"
 ---
 Yes, I’m still tweaking the SketchUp model for this project. First of all, I’m extremely anal when it comes to stuff like this. For instance, a while ago I made [Baltic Birch textures](https://3dwarehouse.sketchup.com/model/4f11e7b6-57ec-4591-9710-18164f6fc242/Baltic-Birch-Plywood-Materials-vol-1){:target="_blank"}, including the end grain, running both vertically and horizontally. If you want to download them, let me know because I’ve got updated textures I haven’t uploaded to 3D Warehouse.
 
@@ -57,5 +57,5 @@ Time for a break, then hopefully I’ll really be cutting wood today.
 
 More to come.
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
 [Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-21-powered-up-day-2-2 %}){: .btn}
+[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-22-powered-up-day-3-2 %}){: .btn}
