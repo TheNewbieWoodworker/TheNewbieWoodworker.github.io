@@ -19,6 +19,10 @@ If you have comments, questions, or suggestions, you can either use the [comment
 <br/>
 ### IF YOU HAVE PROBLEMS BUYING THE PLANS:
 
+#### Try a different web browser
+Try Chrome, or Firefox. 9 times out of 10, this is the problem.
+
+#### Try a different URL
 Try ordering from here: <https://gumroad.com/thenewbiewoodworker>{:target="_blank"}. If this solves your problem, I'd like to hear about it, if you don't mind. Totally optional, though. Click to send me an email: <dan@thenewbiewoodworker.com>
 
 ### If that doesn't work:
