@@ -17,5 +17,5 @@ In either case, the rest of the story will play out in the next post. Which I ma
 
 More to come.
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
 [Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-22-powered-up-day-3-1 %}){: .btn}
+[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-23-powered-up-day-4-1 %}){: .btn}
