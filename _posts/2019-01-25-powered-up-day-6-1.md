@@ -1,5 +1,5 @@
 ---
-title: "An Actual Review! - Powered Up! Day 6"
+title: "An Actual Review! - Powered Up! Day 6.1"
 ---
 I'm finally starting to do actual work on Steve Ramsey's [“Powered Up” online course](https://theweekendwoodworker.com/powered-up){:target="_blank"}. Here's some of my thoughts and impressions so far. Both the good and... the could be better.
 
@@ -47,5 +47,5 @@ I'm going to try and glue them up next. Hopefully that'll be the next post.
 
 Later.
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
 [Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-24-powered-up-day-5-1 %}){: .btn}
+[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-25-powered-up-day-6-2 %}){: .btn}
