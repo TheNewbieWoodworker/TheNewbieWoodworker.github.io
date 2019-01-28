@@ -1,0 +1,59 @@
+---
+title: "Clamping Brainstorming - Powered Up! Day 7"
+---
+Sorry I haven't posted in a couple of days. I had a video to get out. And I feel another video coming on...
+
+One of the reasons it takes me a long time to do some things, is that my mind is always trying to come up with different, and hopefully better ways to do them. Case in point:
+
+In [my last post](({{ site.baseurl }}{% post_url 2019-01-25-powered-up-day-6-2 %})) I talked about possibly using my box joint jig, but it turns out it won't work with stock this wide. So I'm stuck with using the half-laps.
+
+So I'm getting ready to do my glue-up, and I don't have enough clamps of the required size. I *could* go to Harbor Freight and get more clamps, but even at a cheap $8 per clamp, I need 8 more of them, so that's a lot of money. Not to mention that I don't want to figure out where to store them.
+
+So here's where my clamping brainstorming comes in, and here's the progression:
+
+## Corner Clamps
+
+![](/assets/images-posts/powered-up-day-7-1-01.jpg)
+
+My [corner clamps](https://youtu.be/X4BSyZuc-ak){:target="_blank"} aren't really for compressing parts together like you do when gluing. But they really help in getting everything aligned, and keeping them that way.
+
+## Bar Clamps
+
+![](/assets/images-posts/powered-up-day-7-1-02.jpg)
+
+Here's the bar clamps, and as I said, I only have 4 this size.
+
+## Bessey Strap Clamp
+
+![](/assets/images-posts/powered-up-day-7-1-03.jpg)
+
+I have one of these Bessey Strap Clamps, but it's not nearly long enough. However, that led me to:
+
+## HF Ratcheting Tie Down Straps
+
+![](/assets/images-posts/powered-up-day-7-1-04.jpg)
+
+I have a couple of these Harbor Freight ratcheting tie-down strap thingies, which ***are*** long enough. So the question is, how best to use them to clamp the cabinet?
+
+## Using the Bessey Strap Clips
+
+![](/assets/images-posts/powered-up-day-7-1-05.jpg)
+
+Turns out the Bessey strap clips fit on the HF straps, so this looks like a good option. Except, of course, that I'll have to loosen the strap to apply the glue, and then I'll have to re-position the clips again afterwards.
+
+## Custom Strap Clips
+
+![](/assets/images-posts/powered-up-day-7-1-06.jpg)
+
+So I made these wooden clips, and I'm using double-sided tape to stick them in place. I think this is going to make it easy to get the straps back on, after applying the glue.
+
+## A Little Bit of Everything
+
+![](/assets/images-posts/powered-up-day-7-1-07.jpg)
+
+So I'm going to try all three clamping options, plus I'll still use my corner clamps to hold everything in place. Wish me luck!
+
+More later.
+
+[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
+[Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-25-powered-up-day-6-2 %}){: .btn}
