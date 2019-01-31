@@ -43,4 +43,4 @@ Tomorrow, hopefully, I'll be cutting wood.
 More to come.
 
 [Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-21-powered-up-day-2-1 %}){: .btn}
-[Powered Up<br/>Next Post >>]({{ site.baseurl }}{% post_url 2019-01-22-powered-up-day-3-1 %}){: .btn}
+[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-22-powered-up-day-3-1 %}){: .btn}
