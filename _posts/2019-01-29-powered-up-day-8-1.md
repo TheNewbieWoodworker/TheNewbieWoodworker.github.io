@@ -59,5 +59,7 @@ I cut the door stiles and rails, and tomorrow I'll probably finish up the doors 
 
 More to come.
 
+[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
 [Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-28-powered-up-day-7-1 %}){: .btn}
 [Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-30-powered-up-day-9-1 %}){: .btn}
+[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-01-30-powered-up-day-9-1 %}){: .btn}

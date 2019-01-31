@@ -57,5 +57,7 @@ Time for a break, then hopefully I’ll really be cutting wood today.
 
 More to come.
 
+[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
 [Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-21-powered-up-day-2-2 %}){: .btn}
 [Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-22-powered-up-day-3-2 %}){: .btn}
+[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-01-30-powered-up-day-9-1 %}){: .btn}

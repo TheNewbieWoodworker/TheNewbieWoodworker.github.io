@@ -16,5 +16,7 @@ For me, there's 2 or 3 projects I don't need. However, **I'm still glad I'm goin
 
 More later.
 
+[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
 [Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
 [Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-21-powered-up-day-2-2 %}){: .btn}
+[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-01-30-powered-up-day-9-1 %}){: .btn}
