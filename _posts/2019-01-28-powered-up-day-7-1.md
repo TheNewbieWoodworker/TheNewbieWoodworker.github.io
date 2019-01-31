@@ -13,43 +13,43 @@ So here's where my clamping brainstorming comes in, and here's the progression:
 
 ## Corner Clamps
 
-![](/assets/images-posts/powered-up-day-7-1-01.jpg)
+![](/assets/images-posts/powered-up-day-07-1-01.jpg)
 
 My [corner clamps](https://youtu.be/X4BSyZuc-ak){:target="_blank"} aren't really for compressing parts together like you do when gluing. But they really help in getting everything aligned, and keeping them that way.
 
 ## Bar Clamps
 
-![](/assets/images-posts/powered-up-day-7-1-02.jpg)
+![](/assets/images-posts/powered-up-day-07-1-02.jpg)
 
 Here's the bar clamps, and as I said, I only have 4 this size.
 
 ## Bessey Strap Clamp
 
-![](/assets/images-posts/powered-up-day-7-1-03.jpg)
+![](/assets/images-posts/powered-up-day-07-1-03.jpg)
 
 I have one of these Bessey Strap Clamps, but it's not nearly long enough. However, that led me to:
 
 ## HF Ratcheting Tie Down Straps
 
-![](/assets/images-posts/powered-up-day-7-1-04.jpg)
+![](/assets/images-posts/powered-up-day-07-1-04.jpg)
 
 I have a couple of these Harbor Freight ratcheting tie-down strap thingies, which ***are*** long enough. So the question is, how best to use them to clamp the cabinet?
 
 ## Using the Bessey Strap Clips
 
-![](/assets/images-posts/powered-up-day-7-1-05.jpg)
+![](/assets/images-posts/powered-up-day-07-1-05.jpg)
 
 Turns out the Bessey strap clips fit on the HF straps, so this looks like a good option. Except, of course, that I'll have to loosen the strap to apply the glue, and then I'll have to re-position the clips again afterwards.
 
 ## Custom Strap Clips
 
-![](/assets/images-posts/powered-up-day-7-1-06.jpg)
+![](/assets/images-posts/powered-up-day-07-1-06.jpg)
 
 So I made these wooden clips, and I'm using double-sided tape to stick them in place. I think this is going to make it easy to get the straps back on, after applying the glue.
 
 ## A Little Bit of Everything
 
-![](/assets/images-posts/powered-up-day-7-1-07.jpg)
+![](/assets/images-posts/powered-up-day-07-1-07.jpg)
 
 So I'm going to try all three clamping options, plus I'll still use my corner clamps to hold everything in place. Wish me luck!
 

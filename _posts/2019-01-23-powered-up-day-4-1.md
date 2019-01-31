@@ -7,19 +7,19 @@ In case you missed [yesterday's post]({{ site.baseurl }}{% post_url 2019-01-22-p
 
 So today I had to deal with that, so it wouldn't happen again. Here's my cluttered cubby hole:
 
-![](/assets/images-posts/powered-up-day-4-1-01.jpg)
+![](/assets/images-posts/powered-up-day-04-1-01.jpg)
 
 And here it is, emptied out so I could clean it up:
 
-![](/assets/images-posts/powered-up-day-4-1-02.jpg)
+![](/assets/images-posts/powered-up-day-04-1-02.jpg)
 
 Here's a SketchUp model of what I'm building:
 
-![](/assets/images-posts/powered-up-day-4-1-03.jpg)
+![](/assets/images-posts/powered-up-day-04-1-03.jpg)
 
 I finished cutting the 2x4s for the foundation, but not without an unbelievable amount of stupidity. I'm using half-lap joints:
 
-![](/assets/images-posts/powered-up-day-4-1-04.jpg)
+![](/assets/images-posts/powered-up-day-04-1-04.jpg)
 
 
 If there was a chance to cut something wrong the first time, I did it. Fortunately, none of the mistakes I made hurt anything in the long run - it just meant I had to cut it again.
