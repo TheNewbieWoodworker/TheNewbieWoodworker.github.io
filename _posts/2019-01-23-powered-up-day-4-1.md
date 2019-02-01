@@ -33,4 +33,4 @@ More to come.
 [Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
 [Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-22-powered-up-day-3-2 %}){: .btn}
 [Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-24-powered-up-day-5-1 %}){: .btn}
-[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-01-31-powered-up-day-10-1 %}){: .btn}
+[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-01-31-powered-up-day-10-2 %}){: .btn}
