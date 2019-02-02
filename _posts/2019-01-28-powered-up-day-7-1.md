@@ -1,5 +1,7 @@
 ---
 title: "Clamping Brainstorming - Powered Up! Day 7"
+layout: powered-up-post
+category: PoweredUp
 ---
 Sorry I haven't posted in a couple of days. I had a video to get out. And I feel another video coming on...
 
@@ -55,7 +57,3 @@ So I'm going to try all three clamping options, plus I'll still use my corner cl
 
 More later.
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
-[Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-25-powered-up-day-6-2 %}){: .btn}
-[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-29-powered-up-day-8-1 %}){: .btn}
-[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-02-01-powered-up-day-11-1 %}){: .btn}

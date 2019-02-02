@@ -1,5 +1,7 @@
 ---
 title: "It's a Cabinet! - Powered Up! Day 10.2"
+layout: powered-up-post
+category: PoweredUp
 ---
 Got lots of good work done today. It's starting to look an awful lot like a cabinet!
 
@@ -58,7 +60,3 @@ Then I'll glue them up, and start working on the hinges.
 
 Later.
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
-[Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-31-powered-up-day-10-1 %}){: .btn}
-[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-02-01-powered-up-day-11-1 %}){: .btn}
-[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-02-01-powered-up-day-11-1 %}){: .btn}

@@ -1,5 +1,7 @@
 ---
 title: "Baby Got Back - Powered Up! Day 8"
+layout: powered-up-post
+category: PoweredUp
 ---
 Anyone else feel like this is taking me forever? Part of the problem is I have other things that I need to do at the same time. Even so, I still can't believe this isn't done yet. Sigh.
 
@@ -59,7 +61,3 @@ I cut the door stiles and rails, and tomorrow I'll probably finish up the doors 
 
 More to come.
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
-[Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-28-powered-up-day-7-1 %}){: .btn}
-[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-30-powered-up-day-9-1 %}){: .btn}
-[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-02-01-powered-up-day-11-1 %}){: .btn}

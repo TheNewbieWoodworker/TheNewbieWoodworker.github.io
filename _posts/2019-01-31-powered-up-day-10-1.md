@@ -1,5 +1,7 @@
 ---
 title: "Why Change? - Powered Up! Day 10.1"
+layout: powered-up-post
+category: PoweredUp
 ---
 It dawned on me yesterday that I may not have completely explained why I'm changing the plans. There's nothing wrong with the plans for the first project in Steve Ramsey’s [“Powered Up”](https://theweekendwoodworker.com/powered-up){:target="_blank"} online course, but I'm changing them anyway, to fit my needs. Steve has even said that he encourages it.
 
@@ -27,7 +29,3 @@ Because of this, I'm just going to butt join the door stiles and rails. When glu
 
 Time to get to work. More later.
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
-[Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-30-powered-up-day-9-1 %}){: .btn}
-[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-31-powered-up-day-10-2 %}){: .btn}
-[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-02-01-powered-up-day-11-1 %}){: .btn}

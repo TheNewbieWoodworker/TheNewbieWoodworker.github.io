@@ -1,5 +1,7 @@
 ---
 title: "A [S]crappy Day - Powered Up! Day 5"
+layout: powered-up-post
+category: PoweredUp
 ---
 Because of the moisture problem I found in my stack of plywood [yesterday]({{ site.baseurl }}{% post_url 2019-01-23-powered-up-day-4-1 %}) (actually, it was the [day before]({{ site.baseurl }}{% post_url 2019-01-22-powered-up-day-3-2 %})):<br/>
 ![](/assets/images-posts/powered-up-day-05-1-01.jpg)
@@ -45,7 +47,3 @@ Eventually I'll build one or two big drawers underneath, but (unfortunately) thi
 
 I promise. 😄
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
-[Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-23-powered-up-day-4-1 %}){: .btn}
-[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-25-powered-up-day-6-1 %}){: .btn}
-[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-02-01-powered-up-day-11-1 %}){: .btn}

@@ -1,5 +1,7 @@
 ---
 title: "Storage Cabinet: Change of Plans - Powered Up! Day 2.2"
+layout: powered-up-post
+category: PoweredUp
 ---
 Don't worry, "change of plans" doesn't mean I'm not going to continue blogging or anything. It literally means I changed the plans. The project plans.
 
@@ -42,7 +44,3 @@ Tomorrow, hopefully, I'll be cutting wood.
 
 More to come.
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
-[Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-21-powered-up-day-2-1 %}){: .btn}
-[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-22-powered-up-day-3-1 %}){: .btn}
-[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-02-01-powered-up-day-11-1 %}){: .btn}

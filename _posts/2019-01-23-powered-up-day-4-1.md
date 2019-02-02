@@ -1,5 +1,7 @@
 ---
 title: "A Day of Stupidity - Powered Up! Day 4"
+layout: powered-up-post
+category: PoweredUp
 ---
 In case you missed [yesterday's post]({{ site.baseurl }}{% post_url 2019-01-22-powered-up-day-3-2 %}), I discovered moisture damage to my stock of plywood:
 
@@ -30,7 +32,3 @@ I'll finish the rest tomorrow, knock on plywood, and hopefully get back into the
 
 More to come.
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
-[Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-22-powered-up-day-3-2 %}){: .btn}
-[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-24-powered-up-day-5-1 %}){: .btn}
-[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-02-01-powered-up-day-11-1 %}){: .btn}

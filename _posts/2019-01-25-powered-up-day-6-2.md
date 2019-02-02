@@ -1,5 +1,7 @@
 ---
 title: "Questioning Integrity - Powered Up! Day 6.2"
+layout: powered-up-post
+category: PoweredUp
 ---
 I'm starting to question the structural integrity of the changes I'm making to this cabinet. What, you thought I was questioning Steve's integrity? Perish the thought! I don't know Steve personally, but he strikes me ~~as incredibly integral~~ as having boatloads of integrity. It's ***my*** choices that are under scrutiny here.
 
@@ -35,7 +37,3 @@ So I'm going to close up shop for the day, and think about it.
 
 Later.
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
-[Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-25-powered-up-day-6-1 %}){: .btn}
-[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-28-powered-up-day-7-1 %}){: .btn}
-[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-02-01-powered-up-day-11-1 %}){: .btn}

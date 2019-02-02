@@ -1,5 +1,7 @@
 ---
 title: "S...tuff Happens - Powered Up! Day 9"
+layout: powered-up-post
+category: PoweredUp
 ---
 Yes, "stuff" happens, and it happened a lot today.
 
@@ -72,7 +74,3 @@ And now I'm ready to ~~mis~~cut the door panels and pegboard, tomorrow.
 {:style="clear: left"}
 
 
-[Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
-[Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-29-powered-up-day-8-1 %}){: .btn}
-[Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-31-powered-up-day-10-1 %}){: .btn}
-[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-02-01-powered-up-day-11-1 %}){: .btn}

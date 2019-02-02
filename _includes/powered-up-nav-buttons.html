@@ -1,0 +1,12 @@
+<div class="powered-up-nav-buttons">
+    <p>
+      {% if oldestPostUrl != page.url %}
+        <a href="{{ oldestPostUrl }}" class="btn">&lt;&lt; First</a>
+        <a href="{{ page.previous.url }}" class="btn">&lt; Previous</a>
+      {% endif %}
+      {% if newestPostUrl != page.url %}
+        <a href="{{ page.next.url }}" class="btn">Next &gt;</a>
+        <a href="{{ newestPostUrl }}" class="btn">Newest &gt;&gt;</a>
+      {% endif %}
+    </p>
+</div>
