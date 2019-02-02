@@ -30,4 +30,4 @@ Time to get to work. More later.
 [Powered Up<br/><< First Post]({{ site.baseurl }}{% post_url 2019-01-20-powered-up-1 %}){: .btn}
 [Powered Up<br/>< Previous Post]({{ site.baseurl }}{% post_url 2019-01-30-powered-up-day-9-1 %}){: .btn}
 [Powered Up<br/>Next Post >]({{ site.baseurl }}{% post_url 2019-01-31-powered-up-day-10-2 %}){: .btn}
-[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-01-31-powered-up-day-10-2 %}){: .btn}
+[Powered Up<br/>Newest Post >>]({{ site.baseurl }}{% post_url 2019-02-01-powered-up-day-11-1 %}){: .btn}
