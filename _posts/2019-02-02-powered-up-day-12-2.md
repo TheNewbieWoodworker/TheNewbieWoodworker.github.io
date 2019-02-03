@@ -5,6 +5,8 @@ category: PoweredUp
 ---
 I'm not sure if this is a review of a portion of Steve Ramsey’s [“Powered Up”](https://theweekendwoodworker.com/powered-up){:target="_blank"} online course, **or a rant from someone who's just frustrated**. Also, to be clear, Steve is a better YouTuber than I'll ever hope to be, but that doesn't mean I can't criticize, right? I mean, I'd criticize myself in the exact same way, so why cut Steve some slack?
 
+**EDIT:** *See [the next post]({{ site.baseurl }}{% post_url 2019-02-03-powered-up-day-13-1 %}) for one of the reasons I had problems. It doesn't negate this post, but at least I know part of the reason for the problems. I think.*
+
 As I mentioned in [today's earlier post]({{ site.baseurl }}{% post_url 2019-02-02-powered-up-day-12-1 %}), I've been trying to attach the doors to the cabinet using piano hinges:
 
 ![](/assets/images-posts/powered-up-day-12-2-01.jpg)
