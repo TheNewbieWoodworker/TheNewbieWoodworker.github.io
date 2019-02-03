@@ -1,5 +1,5 @@
 ---
-title: "When In Doubt, Screw It! - Powered Up! Day 12"
+title: "When In Doubt, Screw It! - Powered Up! Day 12.1"
 layout: powered-up-post
 category: PoweredUp
 ---
