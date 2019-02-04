@@ -15,12 +15,15 @@ layout: default
       <div class="entry-content">
         {{ content }}
       </div>
+
+      {% include powered-up-nav-buttons.html %}
+
+      {% include contact-list.html exclude_email='Y' %}
+
       {% if site.disqus.shortname %}
         {% include disqus_comments.html %}
       {% endif %}
     </article>
-
-    {% include powered-up-nav-buttons.html %}
 
     {% include footer.html %}
   </div>
