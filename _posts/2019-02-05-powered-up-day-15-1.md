@@ -1,0 +1,120 @@
+---
+title: "It's Alive!!! - Powered Up! Day 15"
+layout: powered-up-post
+category: PoweredUp
+---
+**NOTE:** This post is intentionally long, to give you some feel for how many details there are in some seemingly simple tasks. If you don't want to wade through everything, just scroll to the bottom to see the results. But you'll be missing out on all the fun!
+
+
+## Yesterday
+
+![](/assets/images-posts/powered-up-day-15-1-01.jpg){: .align-left}
+
+Yesterday, I had problems mounting the hinges so there wasn't a gap when the doors closed.
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-15-1-02.jpg){: .align-left}
+
+Eventually I got it right, but it took longer than it should have. Don't I say that every day?
+
+{:style="clear: left"}
+
+## Today
+
+![](/assets/images-posts/powered-up-day-15-1-03.jpg){: .align-left}
+
+I had actually overcompensated yesterday, so today I did some sanding to get the doors to close without any problems.
+
+I used a piece of paper to find out where the door was hitting the cabinet, so I knew where to sand. Eventually, to doors closed pretty close to perfectly.
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-15-1-04.jpg){: .align-left}
+
+Then I glued on a bunch of 2" long pieces of hardwood, to help keep the back from coming off, just in case.
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-15-1-05.jpg){: .align-left}
+
+I needed to figure out how I was going to get the cabinet over to the wall...
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-15-1-06.jpg){: .align-left}
+
+So I took the melamine top off my router table, and that looks like it'll work, since it has wheels.
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-15-1-07.jpg){: .align-left}
+
+Steve has us using a french cleat system to mount the cabinet to the wall. It's basically two pieces of wood with opposing 45-degree cuts. The piece in my hand gets attached to the wall...
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-15-1-08.jpg){: .align-left}
+
+...and the one on the cabinet back slides over it, making a very secure mount.
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-15-1-09.jpg){: .align-left}
+
+So I figured out where the studs were. No relying on some electronic gizmo here, because I needed to be exact...
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-15-1-10.jpg){: .align-left}
+
+...in order to make sure I got the lag bolts relatively close to the center of the 2x4s.
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-15-1-11.jpg){: .align-left}
+
+Then I had to drill holes in the wall cleat, that hopefully lined up with the studs. I had to get the counterbores the right depth so the heads of the lag bots would be below the surface...
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-15-1-12.jpg){: .align-left}
+
+...and, miracle of miracles, I got it right.
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-15-1-13.jpg){: .align-left}
+
+Now all we had to do was lift the cabinet up onto the cleat on the wall.
+
+A couple of problems here. First, the cabinet is very heavy. Second, where are we going to stand?
+
+{:style="clear: left"}
+
+### Important tip:
+
+Even if you think something isn't going to work, turn on the camera!
+
+I didn't think we'd be able to lift it up to the wall, but we got ourselves situated and gave it a shot, and not only did we get it up on the wall, we nailed it. Got the cleats aligned perfectly.
+
+![](/assets/images-posts/powered-up-day-15-1-14.jpg){: .align-left}
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-15-1-15.jpg){: .align-left}
+
+{:style="clear: left"}
+
+
+![](/assets/images-posts/powered-up-day-15-1-16.jpg){: .align-left}
+
+Now all I have to do is figure out where to put the logo.
+
+Oh, and paint, add door magnets, add shelves, figure out what tools to put here...
+
+But who cares? It's ON THE WALL!!
+
+{:style="clear: left"}
+
+Woo hoo!!
