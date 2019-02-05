@@ -1,0 +1,16 @@
+---
+title: "Locked & Loaded - Powered Up! Day 14"
+layout: powered-up-post
+category: PoweredUp
+---
+Short post today. Things took longer than I'd hoped, but here we are:
+
+![](/assets/images-posts/powered-up-day-14-1-01.jpg)
+
+![](/assets/images-posts/powered-up-day-14-1-02.jpg)
+
+Tomorrow I've got a little sanding to do to get the doors to close perfectly, then up on the wall it goes.
+
+Assuming we can lift it up there. If not, we'll be knocking on doors for a hand.
+
+Later.
