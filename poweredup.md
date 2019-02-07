@@ -4,4 +4,4 @@ title: "Powered Up Blog Posts"
 permalink: "/poweredup/"
 ---
 
-{% include powered-up-posts.md sortOrder="asc" %}
+{% include powered-up-posts.html sortOrder="asc" %}
