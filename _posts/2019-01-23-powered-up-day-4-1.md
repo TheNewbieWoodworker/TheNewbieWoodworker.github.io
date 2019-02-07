@@ -5,7 +5,7 @@ category: PoweredUp
 ---
 In case you missed [yesterday's post]({{ site.baseurl }}{% post_url 2019-01-22-powered-up-day-3-2 %}), I discovered moisture damage to my stock of plywood:
 
-![](/assets/images-posts/powered-up-day-3-2-moisture-damage.jpg)
+![](/assets/images-posts/powered-up-day-03-2-moisture-damage.jpg)
 
 So today I had to deal with that, so it wouldn't happen again. Here's my cluttered cubby hole:
 
