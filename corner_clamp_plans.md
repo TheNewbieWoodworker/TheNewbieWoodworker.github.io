@@ -47,7 +47,3 @@ I'll do my best to help solve the problem as quickly as possible. So please chec
 If you don't receive a response within 24 hours, please leave a message in the comments below, because there may be an email issue of some sort.
 
 Thanks!
-
-<a name="comments"></a>
-## Comments
-You can sign in using your Google account, and if you have a YouTube account, you have a Google account. Click ![the "G" icon](/assets/images/google_g_icon_36.png) (below) to sign in.

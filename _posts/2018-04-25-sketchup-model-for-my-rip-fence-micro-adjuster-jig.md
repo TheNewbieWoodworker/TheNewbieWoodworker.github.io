@@ -18,4 +18,4 @@ Also, in this model, I intentionally hid all the screws, so you might have to th
 
 If you don't have SketchUp, it's free. You can use [the web version](https://www.sketchup.com/products/sketchup-free){:target="_blank"}, or if you prefer, [the desktop version](https://www.sketchup.com/download/make){:target="_blank"}.
 
-If you have problems deciphering the model, or figuring out how to build it, just leave a comment. Yes, you have to register to leave comments (it's a spam deterrent), but you can register with your Google (e.g. YouTube) account, or Facebook, or whatever, so it's not that big of a deal. 
+If you have problems deciphering the model, or figuring out how to build it, just leave a comment.
