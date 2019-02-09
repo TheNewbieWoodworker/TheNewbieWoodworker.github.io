@@ -1,0 +1,55 @@
+---
+title: "Hanging Up My Tools - Powered Up! Day 18"
+layout: powered-up-post
+category: PoweredUp
+---
+I finally hung up my tools. Not like I'm quitting - I actually hung them up... on the pegboard. But you already knew that, in spite of my poor attempt at being clever. 😏
+
+![](/assets/images-posts/powered-up-day-18-1-01.jpg){: .align-left}
+
+One of the problems with pegboard hooks is that they come out really easily, when you remove a tool.
+
+So I'm trying two different methods to keep that from happening.
+
+The red arrow points to a strip of pegboard that I've put over the bottoms of the hooks. This works well, but looks a little funny.
+
+The yellow arrow points to some white duct tape covering the bottoms of the hooks. You might have to look closely, because it blends in, which is good. It also comes off without hurting the pegboard, even after being there for years.
+
+The downside is that it doesn't hold the hooks quite as securely. But I'm leaning towards this method anyway.
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-18-1-02.jpg){: .align-left}
+
+I added a 24" power strip underneath. The power strip has a lot of space between outlets, so I can plug any kind of wonky adapter in it without affecting the other outlets.
+
+{:style="clear: left"}
+
+![](/assets/images-posts/powered-up-day-18-1-03.jpg){: .align-left}
+
+Had a bit of irony when I was drilling the holes for the power cords for the battery charger. The battery in my drill died and I had to recharge it.
+
+{:style="clear: left"}
+<br/>
+
+---
+
+<br/>
+
+### It's Pretty-Much Done
+
+![](/assets/images-posts/powered-up-day-18-1-04.jpg)
+
+I have some power-cord management to do underneath, and I have a short power extension on order so I can charge my camera batteries here also.
+
+I added door magnets, so the doors don't wander open on their own.
+
+We'll paint it some day, but not today. 😄
+
+### What's Next?
+
+I'm probably going to take a few days off to decide which project to start next. I may or may not blog for the next couple of days either. But I'll get back to it soon, and I'll post on Instagram when I'm back up and running.
+
+Thanks everyone for coming along on this journey with me. We've only just begun.
+
+Later.
