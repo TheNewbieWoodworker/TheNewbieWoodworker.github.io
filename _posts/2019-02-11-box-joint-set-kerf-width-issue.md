@@ -13,4 +13,14 @@ If you look closely, you can see that the Kreg 1/4" block won't *quite* fit in t
 
 Oh, and I've used calipers to measure it also, but this is better for the picture.
 
+## Mystery Solved (sort-of)
+
+It turns out that the teeth on one of the blades of the box joint set are chipped:
+
+![](/assets/images-posts/box-joint-kerf-width-issue-02.jpg)]
+
+This doesn't explain why the dado stack also cuts too narrow, because its teeth are pristine. But perhaps the dado stack comes that way, knowing you can always add shims.
+
+---
+
 I only posted this in a blog post, because I wanted to upload the picture here so I could reference it on the Lumberjocks forum, and I figured if I was going to upload the pic, I might as well add an explanation.
