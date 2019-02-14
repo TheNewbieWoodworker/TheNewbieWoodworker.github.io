@@ -1,0 +1,12 @@
+<div class="post-nav-buttons">
+    <p>
+      {% if site.posts.first.url != page.url %}
+        <a href="{{ site.posts.first.url }}" class="btn">&lt;&lt; First Post</a>
+        <a href="{{ page.previous.url }}" class="btn">&lt; Previous Post</a>
+      {% endif %}
+      {% if site.posts.last.url != page.url %}
+        <a href="{{ page.next.url }}" class="btn">Next Post &gt;</a>
+        <a href="{{ site.posts.last.url }}" class="btn">Newest Post &gt;&gt;</a>
+      {% endif %}
+    </p>
+</div>

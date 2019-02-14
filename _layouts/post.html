@@ -4,12 +4,22 @@ layout: default
 
 {% include page-intro.html %}
 
+{% include post-nav-buttons-setup.html %}
+
 <main id="main" class="page-content" aria-label="Content">
   <div class="inner">
+
+    {% include post-nav-buttons.html %}
+
     <article class="entry-wrap">
       <div class="entry-content">
         {{ content }}
       </div>
+
+      {% include post-nav-buttons.html %}
+
+      {% include contact-list.html exclude_email='Y' %}
+
       {% if site.disqus.shortname %}
         {% include disqus_comments.html %}
       {% endif %}
