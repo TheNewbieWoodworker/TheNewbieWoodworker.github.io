@@ -1,12 +1,17 @@
 <div class="post-nav-buttons">
+
+  {% if page.categories contains "PoweredUp" %}
     <p>
-      {% if site.posts.first.url != page.url %}
-        <a href="{{ site.posts.first.url }}" class="btn">&lt;&lt; First Post</a>
-        <a href="{{ page.previous.url }}" class="btn">&lt; Previous Post</a>
-      {% endif %}
-      {% if site.posts.last.url != page.url %}
-        <a href="{{ page.next.url }}" class="btn">Next Post &gt;</a>
-        <a href="{{ site.posts.last.url }}" class="btn">Newest Post &gt;&gt;</a>
-      {% endif %}
+      <a href="{{ site.baseurl }}{% link poweredup.md %}" class="btn no-bold">Powered Up Posts</a>
     </p>
+  {% endif %}
+
+  <p>
+    {% if page.previous != nil %}
+      <a href="{{ page.previous.url }}" class="btn no-bold"><span class="icon icon-left">{% include icon-arrow-left.svg %}</span> Older: <i>"{{ page.previous.title | truncate: 35 }}"</i></a>
+    {% endif %}
+    {% if page.next != nil %}
+      <a href="{{ page.next.url }}" class="btn no-bold">Newer: <i>"{{ page.next.title | truncate: 35 }}"</i> <span class="icon icon-right">{% include icon-arrow-right.svg %}</span></a>
+    {% endif %}
+  </p>
 </div>
