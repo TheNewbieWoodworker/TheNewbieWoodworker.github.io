@@ -36,6 +36,7 @@ plugins: # previously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-feed
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 20
