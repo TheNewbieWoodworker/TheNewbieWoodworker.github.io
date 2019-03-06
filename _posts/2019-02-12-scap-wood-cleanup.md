@@ -27,4 +27,10 @@ And here's what I have now:
 
 Back to Powered Up stuff tomorrow.
 
+### Addendum
+
+I posted a YouTube video about all this. Check it out:
+
+{% include youtube-player.html id="BG-HGjoGvhE" %}
+
 Later.
