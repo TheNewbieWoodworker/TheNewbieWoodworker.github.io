@@ -2,9 +2,7 @@
 title: "Woodworking and ADD"
 layout: post
 ---
-This post is about how my ADD affects my woodworking, and a revelation I just had that I think will have a huge positive impact on my woodworking life, and hopefully others. If you agree, please share this post.
-
-I don't have obvious "share" buttons right now (unless I do, and forgot to update this post), so you'll have to do it the old-fashioned way: by copying the URL and posting to Facebook, or wherever.
+This post is about how my ADD affects my woodworking, and a revelation I just had that I think will have a huge positive impact on my woodworking life, and hopefully others. If you agree, please [share](#Share) this post.
 
 ## Preface
 
