@@ -1,5 +1,5 @@
 ---
-title: "Quick Update. and a Troll Sighting"
+title: "Quick Update, and a Troll Sighting"
 layout: post
 ---
 It's been a busy day. I uploaded a quick tip video, then I received some comments that made me realize I didn't explain it very well. So I uploaded an updated video, in which I managed to... well, you can [watch the video](https://youtu.be/uK-GRSDt8RM){:target="_blank"}.
