@@ -1,5 +1,5 @@
 ---
-title: "Saying Goodbye to a Friend"
+title: "Saying Goodbye to a Dear Friend"
 layout: post
 ---
 It was time to say goodbye to a dearly beloved friend today - someone who had been there for me from the beginning, but always put me in place when I got out of line. Yes, it was time to say goodbye...
