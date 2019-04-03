@@ -6,6 +6,8 @@ It's been a busy day. I uploaded a quick tip video, then I received some comment
 
 At about the same time, my Craftsman shop vac died. I don't have time to mess around with it, so I went to Home Depot and bought something to replace it. As of right now, I haven't even taken it out of the box yet, because of the video and this blog post.
 
-As an aside, if you've ever wondered what a troll looks like, [check out this comment thread from my SawStop accident video](https://www.youtube.com/watch?v=OouPywNRZJ8&lc=Ugx9lGhPKBJs-NdCyL94AaABAg){:target="_blank"}. I'm just too nice. I'll let one of you take him to task, if you want.
+~~As an aside, if you've ever wondered what a troll looks like, check out this comment thread from my SawStop accident video. I'm just too nice. I'll let one of you take him to task, if you want.~~
+
+See my [Troll Update blog post]({{ site.baseurl }}{% post_url 2019-04-02-troll-update %}) for the latest on the troll.
 
 Later.
