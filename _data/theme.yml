@@ -14,7 +14,7 @@ t:
   email: "Email"
   subscribe: "Subscribe"
   read_more: "Read More"
-  posts: "Posts"
+  posts: "Blog Posts"
   page: "Page"
   of: "of"
   min_read: "min read"
@@ -30,8 +30,9 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
+  - blog-ascending.md
+  - poweredup.md
   - plans.md
   - sketchup.md
-  - poweredup.md
   - about.md
 #  - cv.md
