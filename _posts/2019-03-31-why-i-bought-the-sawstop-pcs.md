@@ -1,7 +1,7 @@
 ---
 title: "Why I replaced my SawStop JSS with a SawStop PCS"
 layout: post
-permalink: /blog/why-pcs/
+permalink: /blog/pcs-why/
 ---
 If you saw my [most recent video](https://youtu.be/OouPywNRZJ8){:target="_blank"}, or you've been following along in this blog, you know I replaced my [SawStop JobSite Saw (JSS)](http://amzn.to/2HkawNh){:target="_blank"} with a [SawStop Professional Cabinet Saw (PCS)](https://www.woodcraft.com/products/sawstop-1-75-hp-professional-cabinet-saw-with-36-professional-t-glide-fence-system-pcs175-tgp236){:target="_blank"}. People have been asking me why I did it. I'll be putting out a video explaining it, but until then, I thought I'd give you an explanation here.
 

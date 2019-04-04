@@ -1,6 +1,7 @@
 ---
 title: "New SawStop PCS pt. 1: Purchasing, Delivery, & Unloading"
 layout: post
+permalink: /blog/pcs-specs/
 ---
 I mentioned in [yesterday's post]({{ site.baseurl }}{% post_url 2019-03-23-sawstop-pcs %}) that I bought a new SawStop PCS (Professional Cabinet Saw), but I didn't have a lot of time to elaborate. So I'll bring you up to speed here, even though I still have a lot of assembling left to do. But if I wait until later tonight, I'll be too tired to write.
 
