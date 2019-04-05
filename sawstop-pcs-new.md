@@ -44,3 +44,9 @@ Perfect.
 So I called the Woodcraft in Fountain Valley, CA, and mentioned the problem, and before I could say anything more, they told me about how they'd send me home with a saw and a base. So I took them up on it, and paid for the saw that evening (it was right before closing).
 
 The next day I went and picked it up. And let me tell you, the owners there (I assume they're a married couple) are the nicest people you'll ever want to meet.
+
+## The Box Dimensions
+
+For anybody who wants to know the box dimensions, here they are. I rounded up to the nearest inch:
+
+![](/assets/images-posts/2019-03-24-05.jpg)
