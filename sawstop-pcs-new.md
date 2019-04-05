@@ -3,6 +3,8 @@ title: "New SawStop PCS Details"
 layout: post
 permalink: "/sawstop/pcs-new/"
 ---
+*Updated: April 5, 2019*
+
 Here's the details on the new SawStop Professional Cabinet Saw (PCS) I bought recently.
 
 ## The Saw
@@ -41,4 +43,4 @@ Perfect.
 
 So I called the Woodcraft in Fountain Valley, CA, and mentioned the problem, and before I could say anything more, they told me about how they'd send me home with a saw and a base. So I took them up on it, and paid for the saw that evening (it was right before closing).
 
-The next day (yesterday), I went and picked it up. And let me tell you, the owners there (I assume they're a married couple) are the nicest people you'll ever want to meet.
+The next day I went and picked it up. And let me tell you, the owners there (I assume they're a married couple) are the nicest people you'll ever want to meet.
