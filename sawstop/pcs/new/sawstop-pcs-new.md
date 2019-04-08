@@ -1,7 +1,7 @@
 ---
 title: "New SawStop PCS Details"
 layout: post
-permalink: "/sawstop/pcs-new/"
+permalink: "/sawstop/pcs/new/"
 ---
 *Updated: April 5, 2019*
 
