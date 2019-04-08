@@ -3,6 +3,8 @@ title: "Setting Up a SawStop PCS T-Glide Fence"
 layout: post
 permalink: "/sawstop/pcs/fence/setup/"
 ---
+![](2019-04-08-00.jpg)
+
 It took me a while to get my SawStop PCS's fence set up exactly the way I wanted. So I thought I'd explain the process, for anyone else struggling to get it "just right".
 
 ## My Goals
