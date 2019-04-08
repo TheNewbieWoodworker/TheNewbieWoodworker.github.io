@@ -7,6 +7,8 @@ permalink: "/sawstop/pcs/fence/setup/"
 
 It took me a while to get my SawStop PCS's fence set up exactly the way I wanted. So I thought I'd explain the process, for anyone else struggling to get it "just right".
 
+NOTE: If you've been here before, check out the [change log](#change-log) to see what's new.
+
 ## My Goals
 
 1. The fence should be parallel to the miter slot, or perhaps slightly toed out.
@@ -189,3 +191,9 @@ So make sure you re-check the cursors to be sure they're still accurate, or adju
 
 If you have any questions or comments, please feel free to leave them below, or email me directly using the Menu in the upper right-hand corner.
 
+
+## Change Log
+
+> 2019-04-08 16:20 PDT: First release with this change log.
+
+-end of document-
