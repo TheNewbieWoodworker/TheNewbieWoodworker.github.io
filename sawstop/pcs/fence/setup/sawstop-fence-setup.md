@@ -39,7 +39,7 @@ Just so we're on the same page, here's a few definitions:
 {:style="clear: left"}
 
 ![](2019-04-08-05.jpg){:width="400px"}{: .image-border}{: .align-left}
-The Tube sites on the Rail, and is attached by 6 (or more) bolts.
+The Tube sits on the Rail, and is attached by 6 (or more) bolts.
 
 ***The holes in the Rail are oversized, which allows you to position the Tube closer to the table, or further away.***
 
