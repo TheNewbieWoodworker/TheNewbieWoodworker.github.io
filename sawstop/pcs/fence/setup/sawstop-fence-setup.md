@@ -175,6 +175,11 @@ If not, you'll need to redo some of the procedure. But normally you won't need t
 Re-read the [Goals](#my-goals) section, and make sure all the goals have been met.
 
 <br/>
+### 12) IMPORTANT! Re-check your Indicator Cursors!
+
+![](2019-04-08-19.jpg)
+
+<br/>
 ## Conclusion
 
 If you have any questions or comments, please feel free to leave them below, or email me directly using the Menu in the upper right-hand corner.
