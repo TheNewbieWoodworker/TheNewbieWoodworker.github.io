@@ -177,7 +177,12 @@ Re-read the [Goals](#my-goals) section, and make sure all the goals have been me
 <br/>
 ### 12) IMPORTANT! Re-check your Indicator Cursors!
 
-![](2019-04-08-19.jpg)
+![](2019-04-08-19.jpg){:width="500px"}{: .align-left}
+Since you've moved the tube, the ruler may have changed position.
+
+So make sure you re-check the cursors to be sure they're still accurate, or adjust as needed.
+
+{:style="clear: left"}
 
 <br/>
 ## Conclusion
