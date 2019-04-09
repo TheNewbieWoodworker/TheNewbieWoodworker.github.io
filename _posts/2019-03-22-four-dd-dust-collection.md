@@ -14,10 +14,10 @@ Here's the original text from hist post:
 
 Here's the first set of pictures:
 
-[![](/assets/images-posts/2019-03-22-01.jpg)](/assets/images-posts/2019-03-22-01.jpg){:target="_blank"}
+[![](/assets/images-posts/2019-03-22.1.01.jpg)](/assets/images-posts/2019-03-22.1.01.jpg){:target="_blank"}
 *Click image to view full sized*
 
-[![](/assets/images-posts/2019-03-22-02.jpg)](/assets/images-posts/2019-03-22-02.jpg){:target="_blank"}
+[![](/assets/images-posts/2019-03-22.1.02.jpg)](/assets/images-posts/2019-03-22.1.02.jpg){:target="_blank"}
 *Click image to view full sized*
 
 ## "Smart" Stuff
@@ -44,10 +44,10 @@ Here's a comment and series of replies that might (or might not) help explain th
 >
 >[Grizzly G0785 - 1 HP Wall-Mount Dust Collector with Canister Filter](https://www.grizzly.com/products/Grizzly-1-HP-Wall-Mount-Dust-Collector-with-Canister-Filter/G0785){:target="_blank"}
 
-[![](/assets/images-posts/2019-03-22-03.jpg)](/assets/images-posts/2019-03-22-03.jpg){:target="_blank"}
+[![](/assets/images-posts/2019-03-22.1.03.jpg)](/assets/images-posts/2019-03-22.1.03.jpg){:target="_blank"}
 *Click image to view full sized*
 
-[![](/assets/images-posts/2019-03-22-04.jpg)](/assets/images-posts/2019-03-22-04.jpg){:target="_blank"}
+[![](/assets/images-posts/2019-03-22.1.04.jpg)](/assets/images-posts/2019-03-22.1.04.jpg){:target="_blank"}
 *Click image to view full sized*
 
 >**Owen Howlett** [snip] in terms of construction, the layout of the cyclones was determined by the ABS connectors. So I connected them all up and then traced the outlines of the cyclone bases on to the MDF, then cut the 3" holes and the 1/4" bolt holes. Then I cut the MDF down to the smallest rectangle that would fit around all those holes The cyclones aren't symmetrically laid out, because the input connectors are off to one side.

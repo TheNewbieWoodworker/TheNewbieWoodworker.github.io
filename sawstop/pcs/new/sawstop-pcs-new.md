@@ -11,7 +11,7 @@ Here's the details on the new SawStop Professional Cabinet Saw (PCS) I bought re
 
 I ended up buying the [1.75hp SawStop Professional Cabinet Saw with the 36" top and T-Glide fence](https://www.woodcraft.com/products/sawstop-1-75-hp-professional-cabinet-saw-with-36-professional-t-glide-fence-system-pcs175-tgp236){:target="_blank"}.
 
-![](/assets/images-posts/2019-03-24-01.jpg)
+![](/assets/images-posts/2019-03-24.1.01.jpg)
 
 I don't think I need the 3hp model, and it's $430 more. I don't have room for anything bigger - I barely have room enough for this.
 
@@ -19,11 +19,11 @@ I don't think I need the 3hp model, and it's $430 more. I don't have room for an
 
 SawStop had a deal through April 30, 2019, where if you buy a PCS, you can get a free [Integrated Mobile Base](https://www.sawstop.com/table-saws/by-model/professional-cabinet-saw-mobilty){:target="_blank"}:
 
-![](/assets/images-posts/2019-03-24-02.jpg)
+![](/assets/images-posts/2019-03-24.1.02.jpg)
 
 or a free [Overarm Dust Collector](https://www.sawstop.com/table-saws/by-model/overarm-dust-collection){:target="_blank"}:
 
-![](/assets/images-posts/2019-03-24-03.jpg)
+![](/assets/images-posts/2019-03-24.1.03.jpg)
 
 #### The Dilemma
 
@@ -49,4 +49,4 @@ The next day I went and picked it up. And let me tell you, the owners there (I a
 
 For anybody who wants to know the box dimensions, here they are. I rounded up to the nearest inch:
 
-![](/assets/images-posts/2019-03-24-05.jpg)
+![](/assets/images-posts/2019-03-24.1.05.jpg)

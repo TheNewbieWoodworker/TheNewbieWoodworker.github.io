@@ -6,7 +6,7 @@ Most of you who read this blog already know this from my social media posts, but
 
 Well, the truth is, the blade was already spinning down, so I can't say for sure how much damage would have been done without the brake. ***But***, here's what happened while I was taking the blade out, and this blade wasn't even spinning:
 
-![](/assets/images-posts/2019-03-11-08.jpg){: .align-left}
+![](/assets/images-posts/2019-03-11.1.08.jpg){: .align-left}
 Bled like a mutha too, even with a bandage.
 
 The point being, blades are sharp, no batter how fast they're spinning.
@@ -17,16 +17,16 @@ I'm not going to go into details in this post. I'll do that in another post, whe
 
 Here's a few pics to tide you over:
 
-![](/assets/images-posts/2019-03-11-01.jpg){: .align-left}
+![](/assets/images-posts/2019-03-11.1.01.jpg){: .align-left}
 Here's all that happened to my thumb. Broke through one layer of skin. The thumb felt like it was burned.
 
 {:style="clear: left"}
 
 Here's what happened to the blade and the brake. Click the image to view full-sized:
 
-[![](/assets/images-posts/2019-03-11-02.jpg)](/assets/images-posts/2019-03-11-02.jpg){:target="_blank"}
+[![](/assets/images-posts/2019-03-11.1.02.jpg)](/assets/images-posts/2019-03-11.1.02.jpg){:target="_blank"}
 
-![](/assets/images-posts/2019-03-11-03.jpg){: .align-left}
+![](/assets/images-posts/2019-03-11.1.03.jpg){: .align-left}
 Here's how the brake is put together:
 
 1) The blue spring, which is ***extremely*** strong, goes into the hole.
@@ -41,22 +41,22 @@ So when the brake fires, it just yanks the pin out of the tongue, and the spring
 
 {:style="clear: left"}
 
-![](/assets/images-posts/2019-03-11-05.jpg){: .align-left}
+![](/assets/images-posts/2019-03-11.1.05.jpg){: .align-left}
 So I got a new brake at Rockler today, for $79 plus tax...
 
 {:style="clear: left"}
 
-![](/assets/images-posts/2019-03-11-04.jpg){: .align-left}
+![](/assets/images-posts/2019-03-11.1.04.jpg){: .align-left}
 ...and a new blade from Home Depot...
 
 {:style="clear: left"}
 
-![](/assets/images-posts/2019-03-11-06.jpg){: .align-left}
+![](/assets/images-posts/2019-03-11.1.06.jpg){: .align-left}
 ...checked my calibration, which is fine...
 
 {:style="clear: left"}
 
-![](/assets/images-posts/2019-03-11-07.jpg){: .align-left}
+![](/assets/images-posts/2019-03-11.1.07.jpg){: .align-left}
 ...and made a test cut, which was fine...
 
 {:style="clear: left"}

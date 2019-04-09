@@ -46,17 +46,17 @@ This month, SawStop had a deal where if you bought the PCS, you could get a free
 
 I want to cover up the top of the fence that says "SawStop":
 
-![](/assets/images-posts/2019-03-31-01.jpg)
+![](/assets/images-posts/2019-03-31.1.01.jpg)
 
 I want to put a message of some kind on the fence that lets people know "you don't need high end equipment". But I can't use a lot of words, because you won't be able to read it.
 
 Here's one idea, but it's not clever, and I'm not thrilled with it:
 
-![](/assets/images-posts/2019-03-31-02.jpg)
+![](/assets/images-posts/2019-03-31.1.02.jpg)
 
 Of course, I'd like my logo on it also, so that makes the text smaller:
 
-![](/assets/images-posts/2019-03-31-03.jpg)
+![](/assets/images-posts/2019-03-31.1.03.jpg)
 
 But surely you guys can come up with something better? I hope so. Leave it in the comments below, or in the comments for my [SawStop Accident video](https://youtu.be/OouPywNRZJ8){:target="_blank"}.
 

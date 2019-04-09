@@ -6,12 +6,12 @@ This weekend I spent a lot of time trying to decide if I wanted to sell my [SawS
 
 Here's some pics:
 
-![](/assets/images-posts/2019-03-18-01.jpg){: .image-border}{: .align-left}
+![](/assets/images-posts/2019-03-18.1.01.jpg){: .image-border}{: .align-left}
 SawStop JSS
 
 {:style="clear: left"}
 
-![](/assets/images-posts/2019-03-18-02.jpg){: .image-border}{: .align-left}
+![](/assets/images-posts/2019-03-18.1.02.jpg){: .image-border}{: .align-left}
 SawStop PCS, 36", T-Glide fence,<br/>and the integrated mobile base (which is free this month).
 
 {:style="clear: left"}

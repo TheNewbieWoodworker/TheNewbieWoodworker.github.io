@@ -4,7 +4,7 @@ layout: post
 ---
 It was time to say goodbye to a dearly beloved friend today - someone who had been there for me from the beginning, but always put me in place when I got out of line. Yes, it was time to say goodbye...
 
-![](/assets/images-posts/2019-04-02-01.jpg)
+![](/assets/images-posts/2019-04-02.1.01.jpg)
 
 ... to my old SawStop JobSite Saw. It found a new home with a nice lady named Bonnie, who assured me she'd take good care of it. Bye, little guy. 😢
 
@@ -12,7 +12,7 @@ It was time to say goodbye to a dearly beloved friend today - someone who had be
 
 I'm finishing up my new big sled for my new PCS:
 
-[![](/assets/images-posts/2019-04-02-02.jpg)](/assets/images-posts/2019-04-02-02.jpg){:target="_blank"}
+[![](/assets/images-posts/2019-04-02.1.02.jpg)](/assets/images-posts/2019-04-02.1.02.jpg){:target="_blank"}
 *Click image to view full sized*
 
 If you look closely at the handle on the back fence, you may notice it looks a little funny. That's because I cut the handle off my old sled, so I didn't have to make a new one. Part of the old sled's base got cut up and laminated, and it became the front fence (the one closest to the camera).
@@ -23,13 +23,13 @@ I decided to use two runners this time instead of one, just for added stability 
 
 ## PCS Video
 
-![](/assets/images-posts/2019-04-02-03.jpg)
+![](/assets/images-posts/2019-04-02.1.03.jpg)
 
 I started organizing the clips I took while unboxing and assembling the PCS.
 
 I've got 56 separate clips from the unboxing and build...
 
-![](/assets/images-posts/2019-04-02-04.jpg)
+![](/assets/images-posts/2019-04-02.1.04.jpg)
 
 ...so obviously I have some editing to do.
 
