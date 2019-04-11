@@ -3,9 +3,35 @@ layout: page
 title: "SawStop Links"
 permalink: "/sawstop/"
 ---
-This is a work in progress. I'm expecting to add links here that are relevant to my new SawStop PCS (Professional Cabinet Saw).
+## Details on my new PCS
 
-* [New SawStop PCS Details](pcs/new/)
-* [Why I replaced my SawStop JSS with a SawStop PCS](pcs/why/)
-* [Setting Up a SawStop PCS T-Glide Fence](pcs/fence/setup/)
-* [Helpful SawStop Links (Trent Davis)](https://www.trentdavis.net/wp/2018/08/06/helpful-sawstop-links/){:target="_blank"}
+[![](/assets/images-posts/2019-03-24.1.01.jpg){:width="400px"}{: .image-border}](pcs/new/){: .align-left}
+Get all the details about [my new SawStop Professional Cabinet Saw](pcs/new/).
+
+{:style="clear: left"}
+
+<br/>
+## Why I replaced my JSS
+
+[![](pcs/why/2019-04-11.1.01.jpg){:width="400px"}](pcs/why/){: .align-left}
+Find out [why I replaced my SawStop JSS with a SawStop PCS](pcs/why/).
+
+{:style="clear: left"}
+
+<br/>
+## Setting Up a PCS T-Glide Fence
+
+[![](pcs/fence/setup/2019-04-08-00.jpg){:width="400px"}](pcs/fence/setup/){: .align-left}
+It took me awhile to set up my fence the way I wanted it. [Here's how I did it](pcs/fence/setup/).
+
+{:style="clear: left"}
+
+<br/>
+## Helpful SawStop Links (Trent Davis)
+
+[![](sawstop_logo.jpg){:width="400px"}{: .image-border}](https://www.trentdavis.net/wp/2018/08/06/helpful-sawstop-links/){:target="_blank"}{: .align-left}
+[Helpful SawStop links from Trent Davis](https://www.trentdavis.net/wp/2018/08/06/helpful-sawstop-links/){:target="_blank"}.
+
+{:style="clear: left"}
+
+<br/>
