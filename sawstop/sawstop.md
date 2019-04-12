@@ -3,6 +3,7 @@ layout: page
 title: "SawStop Links"
 permalink: "/sawstop/"
 ---
+
 ## Details on my new PCS
 
 [![](/assets/images-posts/2019-03-24.1.01.jpg){:width="400px"}{: .image-border}](pcs/new/){: .align-left}
@@ -32,6 +33,14 @@ Here's some [things I learned while assembling my SawStop PCS](pcs/assembly).
 
 [![](pcs/fence/setup/2019-04-08-00.jpg){:width="400px"}](pcs/fence/setup/){: .align-left}
 It took me awhile to set up my fence the way I wanted it. [Here's how I did it](pcs/fence/setup/).
+
+{:style="clear: left"}
+
+<br/>
+## SawStop Users' Group on Facebook
+
+[![](sawstop_users_group.jpg){:width="400px"}{: .image-border}](https://www.facebook.com/groups/sawstopusersgroup/){:target="_blank"}{: .align-left}
+[SawStop Users' Group on Facebook](https://www.facebook.com/groups/sawstopusersgroup/){:target="_blank"}.
 
 {:style="clear: left"}
 

@@ -126,14 +126,16 @@ Screw them down until they're *almost* sticking out into the hole for the shaft.
 
 ---
 
-### 12) Consider using taped roller stands to hold the wings.
+### 12) Help with attaching the wings.
 
 ![](/sawstop/pcs/assembly/2019-04-12.1.11.jpg){: .align-right}
-The cast iron wings each weight 40 pounds, so it was hard to hold them while attaching the bolts.
+The cast iron wings each weight 40 pounds, so it's hard to hold them while attaching the bolts.
 
-I used a couple of cheap Harbor Freight roller stands (with the rollers duct taped so they wouldn't move) and some 2x4s to help hold them.
+One option someone on the [SawStop Users' Group](https://www.facebook.com/groups/sawstopusersgroup/){:target="_blank"} on Facebook mentioned is to clamp 2x4s underneath the main table, to hold the wings while attaching them. Sounds like a great idea and better than mine. Thanks, Thi!
 
-It was fairly easy to get them to the right height. You could also use some shims to adjust the height of the wings.
+But here's what I did, even if it isn't as good an idea. I used a couple of cheap Harbor Freight roller stands (with the rollers duct taped so they wouldn't move) and some 2x4s to help hold them.
+
+It was fairly easy to get them to the right height.
 
 {:style="clear: right"}
 
