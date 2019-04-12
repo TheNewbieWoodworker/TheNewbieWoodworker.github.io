@@ -2,12 +2,8 @@
 title: "SawStop PCS Assembly Tips"
 layout: post
 permalink: "/sawstop/pcs/assembly/"
-excerpt_separator: <!--more-->
 ---
-![](/sawstop/pcs/assembly/2019-04-12.1.15.jpg)
-
 Here's some tips I came up with while assembling my SawStop PCS. Take them or leave them, but at least read them just in case I have something valuable.
-<!--more-->
 
 ---
 
