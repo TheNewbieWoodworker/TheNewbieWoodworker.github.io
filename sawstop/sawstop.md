@@ -19,6 +19,15 @@ Find out [why I replaced my SawStop JSS with a SawStop PCS](pcs/why/).
 {:style="clear: left"}
 
 <br/>
+## PCS Assembly Tips
+
+[![](pcs/assembly/2019-04-12.1.15.jpg){:width="400px"}](pcs/assembly/){: .align-left}
+Here's some [things I learned while assembling my SawStop PCS](pcs/assembly).
+
+{:style="clear: left"}
+
+
+<br/>
 ## Setting Up a PCS T-Glide Fence
 
 [![](pcs/fence/setup/2019-04-08-00.jpg){:width="400px"}](pcs/fence/setup/){: .align-left}
