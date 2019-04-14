@@ -146,6 +146,8 @@ It was fairly easy to get them to the right height.
 ![](/sawstop/pcs/assembly/2019-04-12.1.12.jpg){: .align-right}
 When you're trying to get the wings aligned to the table top, use a block of wood with nice, sharp corners to see if they're aligned or not.
 
+Slide the block across the joint, in both directions, to make sure it doesn't catch on the seam. When it slides smoothly in both directions, you've got it perfect!
+
 {:style="clear: right"}
 
 ---
