@@ -2,7 +2,7 @@
 title: "You don't know what you don't know."
 layout: post
 ---
-One of my favorite statements is *"You don't know what you don't know."* It's so true, and yet we forget it every day. Here's an example, based on a real life event that happened to me yesterday, on the [SawStop Users' Group on Facebook](https://www.facebook.com/groups/sawstopusersgroup/){:target="_blank"}. [^1]
+One of my favorite statements is *"You don't know what you don't know."* It's so true, and yet we forget it every day. Here's an example, based on a real life event that happened to me yesterday, in the [SawStop Users' Group on Facebook](https://www.facebook.com/groups/sawstopusersgroup/){:target="_blank"}. [^1]
 
 ***This is not verbatim***, because I already deleted the original post and frankly, I don't remember the exact words, but it's close enough to make the point.
 
@@ -12,7 +12,7 @@ And make sure you read the whole story, because it's not how it appears at first
 
 Imagine you're scrolling through the forum, and you come across the following post:
 
-> I just bought a shiny new table saw, with the beautiful cast iron top. I just noticed some scratches, and I don't want to mar the pretty top. What can I do to keep the table saw looking like new?
+> I just bought a shiny new table saw, with a beautiful cast iron top. I just noticed some scratches, and I don't want to mar the pretty top. What can I do to keep the table saw looking like new?
 
 So you reply with something like this:
 
@@ -48,7 +48,7 @@ So I asked about the scratches, and what I should do about them.
 
 #### <span style="color:blue">Always answer the question that was asked.</span>
 
-If you want to [ridicule the poster afterwords](/assets/images-posts/2019-05-11.1.01.jpg){:target="_blank"}, that's up to you. [^4]
+If you want to [ridicule the poster afterwords](/assets/images-posts/2019-05-11.1.01.jpg){:target="_blank"}, that's up to you [^4] [^5] but always answer the question first.
 
 In other words, assuming these are things you believe:
 
@@ -66,7 +66,7 @@ When you attribute motivation to someone's post without actually knowing the fac
 
 1. Posting a useless reply.
 2. Coming off sounding like a troll.
-3. Hurting someone's feelings, who only wanted an honest answer to an honest question. [^5]
+3. Hurting someone's feelings, who only wanted an honest answer to an honest question. [^6]
 
     **But most importantly:**
 
@@ -86,4 +86,6 @@ My job here is done.
 
 [^4]: Yes, "[ridicule](https://en.oxforddictionaries.com/definition/ridicule){:target="_blank"}" is the correct term.
 
-[^5]: You didn't hurt *my* feelings. Unless you consider being pissed off because you didn't bother to answer the question the same as hurt feelings. 🤬
+[^5]: Obviously I'd recommend *against* ridiculing someone, but even *I* have trouble holding back sometimes. Still, taking the high road is preferable. 🙄
+
+[^6]: You didn't hurt *my* feelings. Unless you consider being pissed off because you didn't bother to answer the question the same as hurt feelings. 🤬
