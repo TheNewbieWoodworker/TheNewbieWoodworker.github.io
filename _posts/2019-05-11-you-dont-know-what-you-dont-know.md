@@ -16,7 +16,7 @@ Imagine you're scrolling through the forum, and you come across the following po
 
 So you reply with something like this:
 
-> If you think your saw looks scratched, you'd hate to see mine!
+> If you think your saw looks scratched, you'd hate to see mine! [^7]
 
 Or:
 
@@ -89,3 +89,5 @@ My job here is done.
 [^5]: Obviously I'd recommend *against* ridiculing someone, but even *I* have trouble holding back sometimes. Still, taking the high road is preferable. 🙄
 
 [^6]: You didn't hurt *my* feelings. Unless you consider being pissed off because you didn't bother to answer the question the same as hurt feelings. 🤬
+
+[^7]: *EDIT 13:43 PDT:* I was just reminded that after the person left this reply, he left another with an explanation of why I shouldn't be too worried. So in retrospect, I shouldn't have included this reply. But regardless, the points that follow are still valid.
