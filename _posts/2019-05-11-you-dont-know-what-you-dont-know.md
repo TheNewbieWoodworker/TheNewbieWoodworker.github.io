@@ -36,7 +36,7 @@ Here's the ***actual*** original post: [^2]
 
 ### What you thought you knew:
 
-You assumed I was afraid to mar my pretty-looking new saw. In other words, you read it as if I had made the [first post I talked about](#the-post).
+You thought I was afraid to mar my pretty-looking new saw. In other words, you read it as if I had made the [first post I talked about](#the-post).
 
 ### What you didn't know: [^3]
 
