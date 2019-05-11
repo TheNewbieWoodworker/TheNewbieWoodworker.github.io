@@ -76,7 +76,7 @@ When you attribute motivation to someone's post without actually knowing the fac
 
 If you think I wrote this blog post as a specific response to something you said on the forum, and you're bristling with the need to defend yourself or even fight back, then I have just one thing to say:
 
-My job is done here.
+My job here is done.
 
 [^1]: Paraphrased because I don't remember the exact wording, but this is the gist.
 
