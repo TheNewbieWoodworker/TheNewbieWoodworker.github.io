@@ -2,11 +2,11 @@
 title: "You don't know what you don't know."
 layout: post
 ---
-One of my favorite statements is *"You don't know what you don't know."* It's so true, and yet we forget it every day. Here's an example, based on a real life event that happened to me yesterday, in the [SawStop Users' Group on Facebook](https://www.facebook.com/groups/sawstopusersgroup/){:target="_blank"}. [^1]
+One of my favorite statements is *"You don't know what you don't know."* It's so true, and yet we forget it every day. Here's an example, based on a real life event that happened to me yesterday.
 
-***This is not verbatim***, because I already deleted the original post and frankly, I don't remember the exact words, but it's close enough to make the point.
+This occurred in the [SawStop Users' Group on Facebook](https://www.facebook.com/groups/sawstopusersgroup/){:target="_blank"}. [^1] &nbsp;***This is not verbatim***, because I already deleted the original post and frankly, I don't remember the exact words, but it's close enough to make the point.
 
-And make sure you read the whole story, because it's not how it appears at first glance.
+Make sure you read the whole story, because it's not how it appears at first glance.
 
 ## The Post
 
@@ -60,7 +60,7 @@ Or, if you're Trent Davis, who actually knows what he's talking about, you might
 
 ## In Closing
 
-Remember, ***you don't know what you don't know***.
+Remember, <span style="color:blue">***you don't know what you don't know***</span>.
 
 When you attribute motivation to someone's post without actually knowing the facts, you run the risk of:
 
@@ -78,7 +78,7 @@ If you think I wrote this blog post as a specific response to something you said
 
 My job here is done.
 
-[^1]: I really like the Facebook forum, by the way. This is an anomaly. Well, actually, that's not true. This is the *second* time something like this has happened to me on the forum, when I asked a different question about caring for the cast iron top. But regardless, I still like the forum, and in fact that's why I'm posting this in the first place, so it'll continue to be a good place to hang out.
+[^1]: I really like the SawStop Users' Group on Facebook, by the way. This is an anomaly. Well, actually, that's not true. This is the *second* time something like this has happened to me on the forum. The first time was when I asked a different question about caring for the cast iron top. But regardless, I still like the group, and in fact that's why I'm posting this in the first place, so it'll continue to be a good place to hang out.
 
 [^2]: Paraphrased because I don't remember the exact wording, but this is the gist.
 
