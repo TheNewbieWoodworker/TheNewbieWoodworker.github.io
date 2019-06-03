@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "SawStop Links"
+title: "SawStop"
 permalink: "/sawstop/"
 ---
 
