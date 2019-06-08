@@ -1,5 +1,5 @@
 ---
-title: "New Chisel Plane Sheath video, and free plans"
+title: "New Chisel Plane Sheath Video, and Free Plans"
 layout: post
 ---
 I just uploaded a new video:
