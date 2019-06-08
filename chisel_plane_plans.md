@@ -3,10 +3,16 @@ layout: post
 title: "Chisel Plane & Sheath Plans"
 permalink: "/plans/chisel_plane"
 ---
+I think these are more like *blueprints* than *plans*, but you get what you pay for. 😛
 
 ## Chisel Plane Video
 
 {% include youtube-player.html id="g5unV5jTNI4" %}
+
+<br/>
+## Chisel Plane Sheath Video
+
+{% include youtube-player.html id="IiQ2bv2rH44" %}
 
 <br/>
 ## SketchUp Models
