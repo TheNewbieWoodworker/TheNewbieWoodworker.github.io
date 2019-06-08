@@ -11,7 +11,7 @@ permalink: "/plans/chisel_plane"
 <br/>
 ## SketchUp Models
 
-SketchUp Models can be found [here](https://3dwarehouse.sketchup.com/by/TheNewbieWoodworker).
+SketchUp Models can be found [here](https://3dwarehouse.sketchup.com/by/TheNewbieWoodworker){:target="_blank"}.
 
 <br/>
 ## Chisel Plane (Imperial)
