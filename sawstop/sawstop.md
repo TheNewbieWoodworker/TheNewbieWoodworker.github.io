@@ -36,6 +36,22 @@ It took me awhile to set up my fence the way I wanted it. [Here's how I did it](
 {:style="clear: left"}
 
 <br/>
+## Checking the Gap Between the Brake and the Blade
+
+[![](/assets/images-posts/2019-06-11.1.05.jpg){:width="400px"}{: .image-border}]({{ site.baseurl }}{% post_url 2019-06-11-forrest-blade %}){: .align-left}
+I got a new Forrest blade, and since its diameter is slightly shy of 10", I had to adjust the gap between the brake and the blade. [Here's how I did it]({{ site.baseurl }}{% post_url 2019-06-11-forrest-blade %}).
+
+{:style="clear: left"}
+
+<br/>
+## Adjusting and Aligning the Riving Knife
+
+[![](/assets/images-posts/2019-06-12.1.01.jpg){:width="400px"}{: .image-border}]({{ site.baseurl }}{% post_url 2019-06-12-adjusting-and-aligning-the-riving-knife %}){: .align-left}
+[Here's how to adjust the gap between the blade and the riving knife, and how to align the riving knife]({{ site.baseurl }}{% post_url 2019-06-12-adjusting-and-aligning-the-riving-knife %}).
+
+{:style="clear: left"}
+
+<br/>
 ## Replacing the Stock Insert Plate
 
 [![](pcs/insert/stock/replace/2019-04-26.1.01.jpg){:width="400px"}](pcs/insert/stock/replace/){: .align-left}

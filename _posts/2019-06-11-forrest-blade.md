@@ -26,8 +26,14 @@ Since my table saw is a [SawStop PCS](https://www.woodcraft.com/products/sawstop
 
 {:style="clear: left"}
 
-![](/assets/images-posts/2019-06-11.1.06.jpg){: .align-left}
-SawStop makes it easy to check the gap, with this yellow plastic thingy. The tip (near my bandaged finger) is basically the right size for the gap.
+[![](/assets/images-posts/2019-06-11.1.06.jpg){: width="400px"}{: .image-border}](/assets/images-posts/2019-06-11.1.06.jpg){:target="_blank"}{: .align-left}
+SawStop provides this yellow plastic holder thingy, and an 8mm hex key with a rounded end.
+
+The plastic thingy is magnetic, so you can stick it to the cabinet body.
+
+The tip of the yellow thingy is the right size for the gap.
+
+(You can click on the image to see a larger version.)
 
 {:style="clear: left"}
 
@@ -37,14 +43,14 @@ So you stick the tip between the blade and the brake, and check the gap.
 {:style="clear: left"}
 
 ![](/assets/images-posts/2019-06-11.1.08.jpg){: .align-left}
-If the gap isn't right, you adjust it by turning this yellow nut thingy, using something that looks like a hex key but actually has a rounded end (that's still hex-shaped).
-
-The cool thing is, the hex key fits in the yellow triangle thingy, and it sticks to the side of the cabinet saw with magnets.
+If the gap isn't right, you adjust it by turning this yellow bolt, using the hex key, which moves the brake closer or farther away.
 
 {:style="clear: left"}
 
 ![](/assets/images-posts/2019-06-11.1.09.jpg){: .align-left}
 I also verified that the blade (yellow arrow) and the riving knife (red arrow) were aligned, which they were.
+
+But see [tomorrows post]({{ site.baseurl }}{% post_url 2019-06-12-adjusting-and-aligning-the-riving-knife %}) for more on the riving knife.
 
 {:style="clear: left"}
 
