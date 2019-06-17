@@ -1,0 +1,55 @@
+---
+layout: default
+---
+
+{% include page-intro.html %}
+
+<style type="text/css">
+	.image-border {
+        border:1px solid black;
+    }
+</style>
+
+<main id="main" class="page-content" aria-label="Content">
+  <div class="inner">
+    <article class="entry-wrap">
+      <div class="entry-content">
+        {{ content }}
+      </div>
+    </article>
+
+    <h3 id="categories">Categories</h3>
+
+<span style="padding-right: 1em">
+{% if page.video-category == "all" %}
+  <b>all</b>
+{% else %}
+  <a href="/videos/">all</a>
+{% endif %}
+</span>
+
+{% for category in site.data.video-categories %}
+  <span style="padding-right: 1em">
+  {% if category == page.video-category %}
+    <b>{{ category }}</b>
+  {% else %}
+    <a href="/videos/{{ category }}/">{{ category }}</a>
+  {% endif %}
+  </span>
+{% endfor %}
+
+<hr/>
+
+{% if page.video-category == "all" %}
+  {% for video in site.data.videos  %}
+    {% include video-entry.html %}
+  {% endfor %}
+{% else %}
+  {% for video in site.data.videos-by-category[page.video-category]  %}
+    {% include video-entry.html %}
+  {% endfor %}
+{% endif %}
+
+    {% include footer.html %}
+  </div>
+</main>
