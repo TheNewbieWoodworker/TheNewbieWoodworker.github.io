@@ -7,7 +7,11 @@ I'm having problems when I use my [Infinity Throat Plate](https://www.infinityto
 
 And like an idiot, I've been continuing to use the sled after the light quits flashing. I haven't had any issues, but I finally realized that if this happens while I'm using it, it will trigger the brake and cost me another brake and possibly the blade as well. So I thought I'd better find out why it's happening (duh).
 
-> NOTE: I don't have an answer yet. I'm going to ask some people to look at this post, and see if they can help.
+### UPDATE 2019-06-25:
+
+I noticed that the problem **DOES** happen ***without*** the cross-cut sleds. I have to raise the blade higher, but it does indeed happen without them.
+
+I decided to leave the rest of this post as is, and continue the discussion in a [new blog post]({{ site.baseurl }}{% post_url 2019-06-25-infinity-throat-plate-issue-update %}). But read the rest of this post first.
 
 ### Here's my observations while trying to debug this.
 
