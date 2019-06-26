@@ -559,7 +559,7 @@
         "name": "sanding"
       },
       {
-        "name": "drills"
+        "name": "drill-presses"
       }
     ]
   },
@@ -719,7 +719,7 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/cjdX4k6rsFI/mqdefault.jpg",
     "categories": [
       {
-        "name": "drills"
+        "name": "drill-presses"
       },
       {
         "name": "dust-collection"

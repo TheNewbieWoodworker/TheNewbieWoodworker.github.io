@@ -209,9 +209,7 @@
           "name": "drill-presses"
         }
       ]
-    }
-  ],
-  "drills": [
+    },
     {
       "id": "2liMIqqlhY0",
       "title": "Using Sanding Drums on a Drill Press",
@@ -226,7 +224,7 @@
           "name": "sanding"
         },
         {
-          "name": "drills"
+          "name": "drill-presses"
         }
       ]
     },
@@ -238,13 +236,15 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/cjdX4k6rsFI/mqdefault.jpg",
       "categories": [
         {
-          "name": "drills"
+          "name": "drill-presses"
         },
         {
           "name": "dust-collection"
         }
       ]
-    },
+    }
+  ],
+  "drills": [
     {
       "id": "Xrhrr0lpSUI",
       "title": "Newbie Tool Tip: Brad Point Drill Bits & Other Twist Bits",
@@ -393,7 +393,7 @@
       "thumbnailUrl": "https://i.ytimg.com/vi/cjdX4k6rsFI/mqdefault.jpg",
       "categories": [
         {
-          "name": "drills"
+          "name": "drill-presses"
         },
         {
           "name": "dust-collection"
@@ -1200,7 +1200,7 @@
           "name": "sanding"
         },
         {
-          "name": "drills"
+          "name": "drill-presses"
         }
       ]
     },
@@ -1792,7 +1792,7 @@
           "name": "sanding"
         },
         {
-          "name": "drills"
+          "name": "drill-presses"
         }
       ]
     },
