@@ -37,6 +37,7 @@ plugins: # previously gems
   - jekyll-sitemap
   - jekyll-paginate
   - jekyll-feed
+  - jekyll-redirect-from
 
 # Pagination - https://jekyllrb.com/docs/pagination/
 paginate: 20
