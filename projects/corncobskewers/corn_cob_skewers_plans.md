@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Corn Cob Skewers Blueprints"
-permalink: "/plans/corncobskewers"
+permalink: "/projects/corncobskewers/"
+redirect_from: "/plans/corncobskewers"
 ---
 
 ## Free Blueprints
