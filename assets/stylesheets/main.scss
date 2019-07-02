@@ -13,6 +13,18 @@ td, th {
   border: 0;
  }
 
+.featuredDiv {
+  margin-top: 5px;
+  padding-left: 10px;
+  padding-top: 10px;
+  padding-bottom: 1px;
+  background-size: cover;
+}
+.featuredDiv a {
+  text-decoration: none;
+  color: black;
+}
+
 hr.hr-thick {
   height: 5px;
   border-color: teal;

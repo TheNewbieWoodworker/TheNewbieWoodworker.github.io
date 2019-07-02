@@ -5,19 +5,23 @@ permalink: "/projects/"
 redirect_from: "/plans/"
 image: /projects/projects-splash.jpg
 ---
+{% include pic-and-link-line.html
+  name="Chisel Plane & Sheath"
+  link="/projects/chisel_plane/"
+  image="/projects/chisel_plane/chisel_plane_and_sheath_150.png" %}
 
-<style>
-table.planTable {
-  width: 900px;
-}
-table.planTable td {
-  font-size: 32px;
-}
-</style>
+{% include pic-and-link-line.html
+  name="Router Lift"
+  link="/projects/routerlift/"
+  image="/projects/routerlift/router_lift_150.png" %}
 
-|-----------------------------------------------------------------------------------|---------------------------------------|
-|[![Chisel Plane & Sheath](/projects/chisel_plane/chisel_plane_and_sheath_150.png)](/projects/chisel_plane/) [Chisel Plane & Sheath](/projects/chisel_plane/)||
-|[![Router Lift](/projects/routerlift/router_lift_150.png)](/projects/routerlift/) [Router Lift](/projects/routerlift/)||
-|[![Corner Clamp](/projects/cornerclamp/corner_clamp_150.png)]({/projects/cornerclamp/) [Corner Clamp](/projects/cornerclamp/)||
-|[![Corn Cob Skewers](/projects/corncobskewers/corn_cob_skewers_150.jpg)](/projects/corncobskewers/) [Corn Cob Skewers](/projects/corncobskewers/)||
-{: .planTable}
+{% include pic-and-link-line.html
+  name="Corner Clamp"
+  link="/projects/cornerclamp/"
+  image="/projects/cornerclamp/corner_clamp_150.png" %}
+
+{% include pic-and-link-line.html
+  name="Corn Cob Skewers"
+  link="/projects/corncobskewers/"
+  image="/projects/corncobskewers/corn_cob_skewers_150.jpg" %}
+
