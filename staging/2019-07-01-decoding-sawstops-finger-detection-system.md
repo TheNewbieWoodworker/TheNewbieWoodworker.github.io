@@ -23,7 +23,7 @@ This post is the result of a lot of research, debugging, testing, and general sl
 
 <br/>
 
-<hr class="thick">
+<hr class="hr-thick">
 
 <p></p>
 
@@ -41,7 +41,7 @@ It monitors the signal from ***across the gap*** between the brake and the blade
 
 <br/>
 
-<hr class="thick">
+<hr class="hr-thick">
 
 <p></p>
 
@@ -61,7 +61,7 @@ In addition to those, there's a sub-mode for #2 and #3:
 
 <br/>
 
-<hr class="thick">
+<hr class="hr-thick">
 
 <p></p>
 
@@ -95,7 +95,7 @@ Any other kind of conductive material can also cause the signal to change.
 
 <br/>
 
-<hr class="thick">
+<hr class="hr-thick">
 
 <p></p>
 
@@ -115,7 +115,7 @@ I'll discuss how the **DSP** decides *whether* to take action or not, in a momen
 
 <br/>
 
-<hr class="thick">
+<hr class="hr-thick">
 
 <p></p>
 
@@ -176,7 +176,7 @@ And if you've ever been zapped with static electricity by a door knob, then you'
 
 <br/>
 
-<hr class="thick">
+<hr class="hr-thick">
 
 <p></p>
 
@@ -214,7 +214,7 @@ Here's some things to note, so I don't have to spend a lot of time on them. This
 
 When I use one of my cross-cut sleds with the Infinity insert, and I raise the blade up quickly, I get the flashing light. In this case, it usually flashes for 20-25 seconds, but if you're not looking for it, you may not notice.
 
-{% include youtube-player.html id="Y6a1YTZ7hTI" width="770" height="433" %}
+{% include youtube-player.html id="Y6a1YTZ7hTI" %}
 
 I first noticed this when I tried to start the motor pretty soon after I raised the blade. I didn't see the flashing light at first, but when I turned on the motor and it didn't start running, that's when I noticed the flashing light.
 
@@ -228,7 +228,7 @@ As I mentioned before, at first I thought I could only duplicate the problem whe
 
 But it turns out it's just *easier* to duplicate with the sled. Without the sled, I have to raise the blade quickly and usually almost all the way up before I get the flashing light.
 
-{% include youtube-player.html id="teFxWPjpCvk" width="770" height="433" %}
+{% include youtube-player.html id="teFxWPjpCvk" %}
 
 So I'll use a sled for the rest of the examples, but as I said, you *can* duplicate them without a sled. It's just a little more finicky.
 
@@ -240,7 +240,7 @@ So I'll use a sled for the rest of the examples, but as I said, you *can* duplic
 
 If I raise the blade slowly, and stop as soon as the I get the flashing light, the light stops flashing much more quickly. I can keep repeating it if I'm slow enough.
 
-{% include youtube-player.html id="RvyV0XLbBF8" width="770" height="433" %}
+{% include youtube-player.html id="RvyV0XLbBF8" %}
 
 <p></p>
 
@@ -252,7 +252,7 @@ This case happened while I was creating these short videos. In this clip, it too
 
 I wonder if, when I touched the sled, it restarted the **DSP**'s internal timer. So I started my timer after I released the sled:
 
-{% include youtube-player.html id="7j2flLVxncs" width="770" height="433" %}
+{% include youtube-player.html id="7j2flLVxncs" %}
 
 And yep, that's exactly what happened.
 
@@ -264,19 +264,11 @@ And yep, that's exactly what happened.
 
 This final case shows that if I raise the blade slowly, without a sled, the light never flashes. I can do this *with* a sled also, but I have to raise it excruciatingly slowly, so I won't subject you to that torture.
 
-{% include youtube-player.html id="t8u-vq8rFsk" width="770" height="433" %}
+{% include youtube-player.html id="t8u-vq8rFsk" %}
 
 <br/>
 
-<style>
-hr.thick {
-  height: 5px;
-  border-color: teal;
-  background-color: teal;
-}
-</style>
-
-<hr class="thick">
+<hr class="hr-thick">
 
 <p></p>
 
@@ -309,6 +301,12 @@ So let's look at some of the cases mentioned above.
 4. **Case #4: Touching the Sled:** I don't know why my touching the sled has an effect. But apparently it does.
 
 5. **Case #5: Raising the Blade Slowly:** There's the important one. If the change to the signal happens over a slow enough period of time, the **DSP** apparently isn't too worried about it.
+
+<br/>
+
+<hr class="hr-thick">
+
+<p></p>
 
 ### How Come Nobody Notices This?
 
