@@ -19,7 +19,7 @@
 .entry-title {
   @include fluid-type($min-vw, $max-vw, 18px, 24px);
   margin-bottom: 0.5rem;
-  color: tint($text-color, 25%);
+  // color: tint($text-color, 25%);
   line-height: inherit;
 
   a {
@@ -126,14 +126,15 @@
     line-height: 1.625;
   }
 
-  h1,
-  h2,
-  h3,
-  h4,
-  h5,
-  h6 {
-    color: tint($text-color, 25%);
-  }
+// DWT commented out 2019-07-02
+  // h1,
+  // h2,
+  // h3,
+  // h4,
+  // h5,
+  // h6 {
+  //   color: tint($text-color, 25%);
+  // }
 }
 
 /* Footnotes */

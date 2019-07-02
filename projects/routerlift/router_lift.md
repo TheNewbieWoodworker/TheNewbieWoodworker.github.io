@@ -4,14 +4,20 @@ title: "Router Lift"
 permalink: "/projects/routerlift/"
 redirect_from: "/plans/routerlift"
 ---
+### Router Lift Build Video
 
-For $5 (or the equivalent price in Euros), you can buy and download the plans for my Router Lift, as seen in my YouTube video [Build: Router Lift with Lever & Mini Router Table, for Plunge & Fixed Routers](https://youtu.be/LJqPDADi8MM){:target="_blank"}. Your support really helps!
+{% include youtube-player.html id="LJqPDADi8MM" %}
+
+<p></p>
 
 ### Comments, Questions, etc.
 
 If you have comments, questions, or suggestions, you can either use the [comment section](#comments) below, or leave a comment on the [YouTube video](https://youtu.be/LJqPDADi8MM){:target="_blank"}.
 
-## Purchase (see below if you have problems):
+## Buy the Plans (see below if you have problems):
+
+For $5 (or the equivalent price in Euros), you can buy and download the plans. Your support really helps!
+
 <script src="https://gumroad.com/js/gumroad-embed.js"></script>
 <div class="gumroad-product-embed" data-gumroad-product-id="YqnyJu"><a href="https://gumroad.com/l/YqnyJu">Loading...</a></div>
 
