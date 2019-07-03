@@ -31,6 +31,17 @@ hr.hr-thick {
   background-color: teal;
 }
 
+.entry-font-larger {
+  font-size: 1.125em;
+  line-height: 1.625;
+}
+
+.footnote_title {
+  font-size: 1.5em;
+  color:teal;
+  transform: translateY(40px)
+}
+
 .youtube-iframe-container {
   overflow: hidden;
   padding-top: 56.25%;
