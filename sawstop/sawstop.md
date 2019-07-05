@@ -60,6 +60,15 @@ I replaced the stock insert plate with the above dado insert plate. [Here's why,
 {:style="clear: left"}
 
 <br/>
+## Decoding SawStop's Finger Detection System
+
+[![](/assets/images-posts/2019-07-03.1.01.jpg){:width="400px"}]({{ site.baseurl }}{% post_url 2019-07-03-decoding-sawstops-finger-detection-system %}){: .align-left}
+Lots of good information here on how the SawStop brake logic works. [Check it out]({{ site.baseurl }}{% post_url 2019-07-03-decoding-sawstops-finger-detection-system %}).
+
+{:style="clear: left"}
+
+
+<br/>
 ## SawStop Users' Group on Facebook
 
 [![](sawstop_users_group.jpg){:width="400px"}{: .image-border}](https://www.facebook.com/groups/sawstopusersgroup/){:target="_blank"}{: .align-left}
