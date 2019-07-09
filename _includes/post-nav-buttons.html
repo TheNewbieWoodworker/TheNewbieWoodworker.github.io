@@ -8,10 +8,10 @@
 
   <p>
     {% if page.previous != nil %}
-      <a href="{{ page.previous.url }}" class="btn no-bold"><span class="icon icon-left">{% include icon-arrow-left.svg %}</span> Older: <i>"{{ page.previous.title | truncate: 35 }}"</i></a>
+      <a href="{{ page.previous.url }}" class="btn no-bold"><span class="icon nav-btn-icon-left">{% include icon-arrow-left.svg %}</span> Older: <i>"{{ page.previous.title | truncate: 35 }}"</i></a>
     {% endif %}
     {% if page.next != nil %}
-      <a href="{{ page.next.url }}" class="btn no-bold">Newer: <i>"{{ page.next.title | truncate: 35 }}"</i> <span class="icon icon-right">{% include icon-arrow-right.svg %}</span></a>
+      <a href="{{ page.next.url }}" class="btn no-bold">Newer: <i>"{{ page.next.title | truncate: 35 }}"</i> <span class="icon nav-btn-icon-right">{% include icon-arrow-right.svg %}</span></a>
     {% endif %}
   </p>
 </div>
