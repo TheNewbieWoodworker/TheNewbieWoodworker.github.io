@@ -4,6 +4,8 @@ title: "Router Lift"
 permalink: "/projects/routerlift/"
 redirect_from: "/plans/routerlift"
 ---
+{% include nav-btn-back.html link="/projects/" text="Back to Projects" %}
+
 ### Router Lift Build Video
 
 {% include youtube-player.html id="LJqPDADi8MM" %}
@@ -52,3 +54,5 @@ I'll do my best to help solve the problem as quickly as possible. So please chec
 If you don't receive a response within 24 hours, please leave a message in the comments below, because there may be an email issue of some sort.
 
 Thanks!
+
+{% include nav-btn-back.html link="/projects/" text="Back to Projects" %}

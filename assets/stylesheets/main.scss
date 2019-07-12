@@ -13,6 +13,14 @@ td, th {
   border: 0;
  }
 
+.transform-y-up-small {
+  transform: translateY(-10px)
+}
+
+.transform-y-up-med {
+  transform: translateY(-20px)
+}
+
 .featuredDiv {
   margin-top: 5px;
   padding-left: 10px;
@@ -35,6 +43,11 @@ hr.hr-thick {
 .entry-font-larger {
   font-size: 1.125em;
   line-height: 1.625;
+}
+
+.nav-btn-back {
+  transform: scale(0.8, 0.8) translateY(-20px);
+  transform-origin: left;
 }
 
 .post-nav-buttons {

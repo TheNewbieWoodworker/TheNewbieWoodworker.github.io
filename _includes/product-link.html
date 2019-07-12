@@ -1,0 +1,18 @@
+{% if include.youtube_text %}
+{{ include.title }}: <a href="{{ include.link }}" target="_blank">{{ include.link }}</a>
+{% else %}
+<div>
+<a href="{{ include.link }}" target="_blank" class="align-left">
+  <img src="{{ include.image }}" alt="" width="{{ include.image_width | default: 100 }}px" class="image-border">
+</a>
+
+<span style="display: inline-block; margin-top: {{ include.margin_top | default: 10 }}px; font-size: 115%">
+  <a href="{{ include.link }}" target="_blank">{{ include.title }}</a>
+</span>
+{% if include.text %}
+<br/>
+{{ include.text }}
+{% endif %}
+</div>
+<p style="clear: left; margin: 0"></p>
+{% endif %}

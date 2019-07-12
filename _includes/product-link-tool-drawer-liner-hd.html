@@ -1,0 +1,19 @@
+{% capture default_text %}
+This is a Home Depot link, and it's the liner that I use.
+{% endcapture %}
+
+{% capture my_title %}{{ include.title | default: "Tool Drawer Liner (Home Depot)" }}{% endcapture %}
+{% capture my_image %}{{ include.image | default: "/assets/images-products/tool_drawer_liner_hd.jpg" }}{% endcapture %}
+{% capture my_link %}{{ include.link | default: "https://www.homedepot.com/p/Husky-18-in-x-100-in-Black-Premium-Solid-Drawer-Liner-DTC130001/306136147" }}{% endcapture %}
+{% capture my_margin_top %}{{ include.margin_top | default: 10 }}{% endcapture %}
+{% capture my_text %}{{ include.text | default: default_text }}{% endcapture %}
+
+{% include product-link.html
+  title=my_title
+  image=my_image
+  image_width=include.image_width
+  link=my_link
+  margin_top=my_margin_top
+  text=my_text
+  youtube_text=include.youtube_text
+%}

@@ -6,6 +6,11 @@ redirect_from: "/plans/"
 image: /projects/projects-splash.jpg
 ---
 {% include pic-and-link-line.html
+  name="Micro-Adjuster for Table Saw Fences"
+  link="/projects/microadjuster/"
+  image="/projects/microadjuster/2019-07-08.1.02.jpg" %}
+
+{% include pic-and-link-line.html
   name="Chisel Plane & Sheath"
   link="/projects/chisel_plane/"
   image="/projects/chisel_plane/chisel_plane_and_sheath_150.png" %}

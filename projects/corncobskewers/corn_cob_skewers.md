@@ -4,6 +4,8 @@ title: "Corn Cob Skewers"
 permalink: "/projects/corncobskewers/"
 redirect_from: "/plans/corncobskewers"
 ---
+{% include nav-btn-back.html link="/projects/" text="Back to Projects" %}
+
 ### Corn Cob Skewers Build Video
 
 {% include youtube-player.html id="PSn_jdi-5NA" %}

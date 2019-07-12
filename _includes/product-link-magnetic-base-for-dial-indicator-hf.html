@@ -1,0 +1,19 @@
+{% capture default_text %}
+Always use a <a href="https://shop.harborfreight.com/digitalsavings.html" target="_blank">coupon</a> at Harbor Freight. The 20% off one, or if you're lucky, a 25% off one.
+{% endcapture %}
+
+{% capture my_title %}{{ include.title | default: "Magnetic Base for Dial Indicators" }}{% endcapture %}
+{% capture my_image %}{{ include.image | default: "/assets/images-products/magnetic_base_hf.jpg" }}{% endcapture %}
+{% capture my_link %}{{ include.link | default: "https://www.harborfreight.com/multi-position-magnetic-base-with-fine-adjustment-63663.html" }}{% endcapture %}
+{% capture my_margin_top %}{{ include.margin_top | default: 5 }}{% endcapture %}
+{% capture my_text %}{{ include.text | default: default_text }}{% endcapture %}
+
+{% include product-link.html
+  title=my_title
+  image=my_image
+  image_width=include.image_width
+  link=my_link
+  margin_top=my_margin_top
+  text=my_text
+  youtube_text=include.youtube_text
+%}

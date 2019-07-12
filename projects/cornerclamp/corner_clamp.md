@@ -4,6 +4,8 @@ title: "Corner Clamp"
 permalink: "/projects/cornerclamp/"
 redirect_from: "/plans/cornerclamp"
 ---
+{% include nav-btn-back.html link="/projects/" text="Back to Projects" %}
+
 ### Corner Clamp Build Video
 
 {% include youtube-player.html id="X4BSyZuc-ak" %}
@@ -55,3 +57,5 @@ I'll do my best to help solve the problem as quickly as possible. So please chec
 If you don't receive a response within 24 hours, please leave a message in the comments below, because there may be an email issue of some sort.
 
 Thanks!
+
+{% include nav-btn-back.html link="/projects/" text="Back to Projects" %}

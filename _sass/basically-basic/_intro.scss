@@ -4,14 +4,14 @@
 
 .intro {
   margin: 1rem 0;
-  padding-top: 2rem;
-  padding-bottom: 2rem;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
 
 .intro-image {
   position: relative;
   margin-top: -3rem; /* compensate for intro top margin */
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 
   &::before {
     position: absolute;
@@ -36,9 +36,10 @@
 }
 
 .intro-title {
-  @include fluid-type($min-vw, $max-vw, 26px, 80px);
-  margin-bottom: 1rem;
-  // color: tint($text-color, 25%); // DWT
+  @include fluid-type($min-vw, $max-vw, 22px, 56px);
+//  @include fluid-type($min-vw, $max-vw, 26px, 80px);
+  // margin-bottom: 1rem;
+  // color: tint($text-color, 25%);
   line-height: 1;
 }
 

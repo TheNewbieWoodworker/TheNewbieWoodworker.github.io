@@ -4,7 +4,7 @@ title: "Corner Clamp Plans Preview"
 permalink: "/projects/cornerclamp/preview/"
 redirect_from: "/plans/cornerclamp/preview"
 ---
-[back](/projects/cornerclamp)
+{% include nav-btn-back.html link="/projects/cornerclamp" text="Back to Project" %}
 
 The plans have 36 pages. 31, if you don't count the title page, index, etc.
 
@@ -24,4 +24,4 @@ Here's a few "redacted" pages from the plans, so you can see what you're getting
 
 [![](corner_clamp_plans_preview_26.jpg)](corner_clamp_plans_preview_26.jpg){:target="_blank"}
 
-[back](/projects/cornerclamp)
+{% include nav-btn-back.html link="/projects/cornerclamp" text="Back to Project" %}
