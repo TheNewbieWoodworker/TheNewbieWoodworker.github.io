@@ -595,6 +595,21 @@
   ],
   "projects": [
     {
+      "id": "dGZ_V_zwNMQ",
+      "title": "Micro Adjusters for Table Saw Fences",
+      "description": "Three options for using indicator gauges to help move your table saw fence by small amounts.",
+      "publishedAt": "2019-07-12T19:14:46.000Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dGZ_V_zwNMQ/mqdefault.jpg",
+      "categories": [
+        {
+          "name": "projects"
+        },
+        {
+          "name": "table-saws"
+        }
+      ]
+    },
+    {
       "id": "IiQ2bv2rH44",
       "title": "Making a Sheath for the Chisel Plane",
       "description": "In a previous video I showed you how to build a chisel plane. In this video, I show you how to build a sheath for the chisel plane, so it can be stored safely when you&#x27;re not using it.",
@@ -1332,6 +1347,21 @@
     }
   ],
   "table-saws": [
+    {
+      "id": "dGZ_V_zwNMQ",
+      "title": "Micro Adjusters for Table Saw Fences",
+      "description": "Three options for using indicator gauges to help move your table saw fence by small amounts.",
+      "publishedAt": "2019-07-12T19:14:46.000Z",
+      "thumbnailUrl": "https://i.ytimg.com/vi/dGZ_V_zwNMQ/mqdefault.jpg",
+      "categories": [
+        {
+          "name": "projects"
+        },
+        {
+          "name": "table-saws"
+        }
+      ]
+    },
     {
       "id": "GTVLeeUJFHI",
       "title": "My New SawStop Professional Cabinet Saw (PCS)",
