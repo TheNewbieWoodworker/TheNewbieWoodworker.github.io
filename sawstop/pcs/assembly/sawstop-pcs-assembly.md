@@ -9,7 +9,7 @@ Here's some tips I came up with while assembling my SawStop PCS. Take them or le
 
 ### 1) Box dimensions.
 
-![](/assets/images-posts/2019-03-24.1.05.jpg){:width="300px"}{: .align-right}
+![](/assets/images-posts/2019/03/2019-03-24.1.05.jpg){:width="300px"}{: .align-right}
 Here's the box sizes, for my 1.75hp 36" PCS.
 
 The total weight is over 400 pounds.

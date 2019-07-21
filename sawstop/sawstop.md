@@ -6,7 +6,7 @@ permalink: "/sawstop/"
 
 ## Details on my new PCS
 
-[![](/assets/images-posts/2019-03-24.1.01.jpg){:width="400px"}{: .image-border}](pcs/new/){: .align-left}
+[![](/assets/images-posts/2019/03/2019-03-24.1.01.jpg){:width="400px"}{: .image-border}](pcs/new/){: .align-left}
 Get all the details about [my new SawStop Professional Cabinet Saw](pcs/new/).
 
 {:style="clear: left"}
@@ -38,16 +38,16 @@ It took me awhile to set up my fence the way I wanted it. [Here's how I did it](
 <br/>
 ## Checking the Gap Between the Brake and the Blade
 
-[![](/assets/images-posts/2019-06-11.1.05.jpg){:width="400px"}{: .image-border}]({{ site.baseurl }}{% post_url 2019-06-11-forrest-blade %}){: .align-left}
-I got a new Forrest blade, and since its diameter is slightly shy of 10", I had to adjust the gap between the brake and the blade. [Here's how I did it]({{ site.baseurl }}{% post_url 2019-06-11-forrest-blade %}).
+[![](/assets/images-posts/2019/06/2019-06-11.1.05.jpg){:width="400px"}{: .image-border}]({{ site.baseurl }}{% post_url 2019/06/2019-06-11-forrest-blade %}){: .align-left}
+I got a new Forrest blade, and since its diameter is slightly shy of 10", I had to adjust the gap between the brake and the blade. [Here's how I did it]({{ site.baseurl }}{% post_url 2019/06/2019-06-11-forrest-blade %}).
 
 {:style="clear: left"}
 
 <br/>
 ## Adjusting and Aligning the Riving Knife
 
-[![](/assets/images-posts/2019-06-12.1.01.jpg){:width="400px"}{: .image-border}]({{ site.baseurl }}{% post_url 2019-06-12-adjusting-and-aligning-the-riving-knife %}){: .align-left}
-[Here's how to adjust the gap between the blade and the riving knife, and how to align the riving knife]({{ site.baseurl }}{% post_url 2019-06-12-adjusting-and-aligning-the-riving-knife %}).
+[![](/assets/images-posts/2019/06/2019-06-12.1.01.jpg){:width="400px"}{: .image-border}]({{ site.baseurl }}{% post_url 2019/06/2019-06-12-adjusting-and-aligning-the-riving-knife %}){: .align-left}
+[Here's how to adjust the gap between the blade and the riving knife, and how to align the riving knife]({{ site.baseurl }}{% post_url 2019/06/2019-06-12-adjusting-and-aligning-the-riving-knife %}).
 
 {:style="clear: left"}
 
@@ -62,8 +62,8 @@ I replaced the stock insert plate with the above dado insert plate. [Here's why,
 <br/>
 ## Decoding SawStop's Finger Detection System
 
-[![](/assets/images-posts/2019-07-03.1.01.jpg){:width="400px"}]({{ site.baseurl }}{% post_url 2019-07-03-decoding-sawstops-finger-detection-system %}){: .align-left}
-Lots of good information here on how the SawStop brake logic works. [Check it out]({{ site.baseurl }}{% post_url 2019-07-03-decoding-sawstops-finger-detection-system %}).
+[![](/assets/images-posts/2019/07/2019-07-03.1.01.jpg){:width="400px"}]({{ site.baseurl }}{% post_url 2019/07/2019-07-03-decoding-sawstops-finger-detection-system %}){: .align-left}
+Lots of good information here on how the SawStop brake logic works. [Check it out]({{ site.baseurl }}{% post_url 2019/07/2019-07-03-decoding-sawstops-finger-detection-system %}).
 
 {:style="clear: left"}
 

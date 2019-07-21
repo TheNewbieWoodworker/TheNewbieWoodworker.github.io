@@ -1,9 +1,12 @@
 ---
 title: "Why I replaced my SawStop JSS with a SawStop PCS"
 layout: post
-permalink: "/sawstop/pcs/why/"
 ---
-I replaced my [SawStop JobSite Saw (JSS)](http://amzn.to/2HkawNh){:target="_blank"} with a [SawStop Professional Cabinet Saw (PCS)](https://www.woodcraft.com/products/sawstop-1-75-hp-professional-cabinet-saw-with-36-professional-t-glide-fence-system-pcs175-tgp236){:target="_blank"}. People have been asking me why I did it, so here's my answer.
+If you saw my [most recent video](https://youtu.be/OouPywNRZJ8){:target="_blank"}, or you've been following along in this blog, you know I replaced my [SawStop JobSite Saw (JSS)](http://amzn.to/2HkawNh){:target="_blank"} with a [SawStop Professional Cabinet Saw (PCS)](https://www.woodcraft.com/products/sawstop-1-75-hp-professional-cabinet-saw-with-36-professional-t-glide-fence-system-pcs175-tgp236){:target="_blank"}. People have been asking me why I did it. I'll be putting out a video explaining it, but until then, I thought I'd give you an explanation here.
+
+If I don't answer all your questions here, please leave comments below, so I can make sure I explain everything in the video. Thanks.
+
+By the way, if you haven't been following along in this blog, you might want to go back to my [first post on the subject]({{ site.baseurl }}{% post_url 2019/03/2019-03-18-sawstop-pcs %}) and read forward, so you can catch up.
 
 ## The JobSite Saw is a fine saw
 
@@ -15,7 +18,7 @@ The main reason I bought the PCS was because I can afford it, thanks to all of y
 
 I don't make a ton of money doing these videos. I certainly don't come close to making enough to quit my day job, if I wasn't already retired. But last year you guys bought me a new computer, and this year you bought me this saw. Thanks, everyone, that was so thoughtful of you! 😛
 
-So like I said, I bought it because I could. (And I figured out how to fit it in my workshop.)
+So like I said, I bought it because I could. (And I figured out how to fit it in my workshop, but I'll explain that in the video.)
 
 ## The reasons I almost didn't buy it
 
@@ -39,6 +42,22 @@ But the biggest reason is I discovered that my plan for building a new fence wou
 
 This month, SawStop had a deal where if you bought the PCS, you could get a free mobile base, or free overarm dust collection system. I got the mobile base, worth $250. So that was the incentive for buying it now.
 
-## So what about the "SawStop" on the fence?
+## So I need your help
 
-I'll be covering it up with my logo and probably my website name. I'll add pictures here when I decide what to do.
+I want to cover up the top of the fence that says "SawStop":
+
+![](/assets/images-posts/2019/03/2019-03-31.1.01.jpg)
+
+I want to put a message of some kind on the fence that lets people know "you don't need high end equipment". But I can't use a lot of words, because you won't be able to read it.
+
+Here's one idea, but it's not clever, and I'm not thrilled with it:
+
+![](/assets/images-posts/2019/03/2019-03-31.1.02.jpg)
+
+Of course, I'd like my logo on it also, so that makes the text smaller:
+
+![](/assets/images-posts/2019/03/2019-03-31.1.03.jpg)
+
+But surely you guys can come up with something better? I hope so. Leave it in the comments below, or in the comments for my [SawStop Accident video](https://youtu.be/OouPywNRZJ8){:target="_blank"}.
+
+Thanks!
