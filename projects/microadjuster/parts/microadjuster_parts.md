@@ -16,19 +16,19 @@ I used a scrap piece if maple. See the [beginning of the build article](/project
 {:style="clear: left"}
 
 {::comment}------------------------------Tool Drawer Liner (HD)-----------------------------{:/comment}
-{% include product-link-tool-drawer-liner-hd.html
-  image_width="150"
+{% include product-link-from-data.html data=site.data.products.tool-drawer-liner-hd
+  image-width="150"
 %}
 
 {::comment}------------------------------Tool Drawer Liner (HF)-----------------------------{:/comment}
-{% include product-link-tool-drawer-liner-hf.html
-  image_width="150"
+{% include product-link-from-data.html data=site.data.products.tool-drawer-liner-hf
+  image-width="150"
 %}
 
 
 {::comment}---------------------------------Magnetic Switch---------------------------------{:/comment}
-{% include  product-link-magswitch-magjig-95.html
-  image_width="150"
+{% include product-link-from-data.html data=site.data.products.magswitch-magjig-95
+  image-width="150"
   text="You can buy cheaper switches, but I like this one because it's relatively strong. But you're welcome to try the cheaper versions."
 %}
 
@@ -43,17 +43,17 @@ You need a couple of screws to attach the switch. I just used some I found in a 
 
 
 {::comment}---------------------------------Threaded Insert---------------------------------{:/comment}
-{% include product-link-threaded-insert-1-4x1-2-no-flange-zinc-box-100.html
+{% include product-link-from-data.html data=site.data.products.threaded-insert-1-4x1-2-no-flange-zinc-box-100
   title="Threaded Insert"
   text="I used a 1/4-20&quot; x 1/2&quot; insert. You only need 1 of these, but this is the only link I could find. Buy one at a local hardware store."
-  image_width="150"
+  image-width="150"
 %}
 
 
 {::comment}----------------------------------Machine Screw----------------------------------{:/comment}
-{% include product-link-machine-screw-pan-head-1-4x1-2-box-50.html
+{% include product-link-from-data.html data=site.data.products.machine-screw-pan-head-1-4x1-2-box-50
   title="Machine Screw"
-  image_width="150"
+  image-width="150"
   text="I used a 1/4-20 x 1/2&quot; screw. You only need 1 of these, but this is the only link I could find. Buy one at a local hardware store."
 %}
 
@@ -61,54 +61,53 @@ You need a couple of screws to attach the switch. I just used some I found in a 
 ### Indicator Gauges and Magnetic Bases
 
 {::comment}-----------------------------Digital Dial Indicator-----------------------------{:/comment}
-{% include product-link-digital-dial-indicator.html
+{% include product-link-from-data.html data=site.data.products.digital-dial-indicator
   text="This isn't the one I have, but I think it's better & cheaper, and you don't need to drill the counterbore."
 %}
 
 
 {::comment}------------------------------Analog Dial Indicator------------------------------{:/comment}
-{% include product-link-analog-dial-indicator.html %}
+{% include product-link-from-data.html data=site.data.products.analog-dial-indicator %}
 
 
 {::comment}---------------------Magnetic Base and Analog Dial Indicator---------------------{:/comment}
-{% include product-link-analog-dial-indicator-and-base.html
+{% include product-link-from-data.html data=site.data.products.analog-dial-indicator-and-base
   text="This is actually a good deal, if you don't already have a dial indicator"
 %}
 
 
 {::comment}-------------------------------Magnetic Base (HF)-------------------------------{:/comment}
-{% include product-link-magnetic-base-for-dial-indicator-hf.html %}
+{% include product-link-from-data.html data=site.data.products.magnetic-base-for-dial-indicator-hf %}
 
 <br/>
 ### Various Tools I Used in the Video
 
 {::comment}----------------------------------Incra T-Rule----------------------------------{:/comment}
-{% include product-link-incra-t-rule-12.html %}
-
+{% include product-link-from-data.html data=site.data.products.incra-12-inch-precision-marking-t-rule %}
 
 {::comment}----------------------------------Center Punch----------------------------------{:/comment}
-{% include product-link-center-punch.html %}
+{% include product-link-from-data.html data=site.data.products.center-hole-punch %}
 
 {::comment}-----------------------------------Hex Key Set-----------------------------------{:/comment}
-{% include product-link-hex-key-set.html %}
+{% include product-link-from-data.html data=site.data.products.hex-key-set-workpro %}
 
 {::comment}-----------------------------Wen Belt & Disc Sander-----------------------------{:/comment}
-{% include product-link-wen-belt-and-disc-sander.html %}
+{% include product-link-from-data.html data=site.data.products.wen-belt-and-disc-sander %}
 
 {::comment}------------------------------Sander Cleaning Stick------------------------------{:/comment}
-{% include product-link-sander-cleaning-stick.html %}
+{% include product-link-from-data.html data=site.data.products.abrasive-cleaning-stick %}
 
 {::comment}--------------------------------Radius Quick-Jigs--------------------------------{:/comment}
-{% include product-link-radius-quick-jigs.html
+{% include product-link-from-data.html data=site.data.products.radius-quick-jigs
   text="I know these are designed to use with routers, but I had them handy, and one of them was an ideal size curve, so why not use them?"
-  margin_top="0"
+  margin-top="0"
 %}
 
 {::comment}----------------------------------Makita Drill----------------------------------{:/comment}
-{% include product-link-makita-drill.html %}
+{% include product-link-from-data.html data=site.data.products.makita-drill %}
 
 {::comment}-----------------------------------SawStop PCS-----------------------------------{:/comment}
-{% include product-link-sawstop-pcs.html %}
+{% include product-link-from-data.html data=site.data.products.sawstop-pcs %}
 
 <p></p>
 
