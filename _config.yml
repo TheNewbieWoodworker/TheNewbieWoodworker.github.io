@@ -48,8 +48,8 @@ paginate_path: /page:num/
 # to override the default setting.
 exclude:
   - /videos/_template.md
-  - /products/products-select.md
-  - /products/products-selected.md
+  - /products/_template.md
+  - /products/select/
 
 # Front Matter Defaults
 defaults:
