@@ -18,29 +18,13 @@ layout: default
       </div>
     </article>
 
+{% include nav-btn-back.html link="/products/" text="Back to Products" %}
+
 {% if page.product-category %}
 <p>You can use your browser's search function to search through this list. For most desktop browsers, just tap Control+F or Command+F.</p>
 {% endif %}
 
-    <h3 id="categories">Categories</h3>
-
-<span style="padding-right: 1em">
-{% if page.product-category == "all" %}
-  <b>all</b>
-{% else %}
-  <a href="/products/all">all</a>
-{% endif %}
-</span>
-
-{% for category in site.data.product-categories %}
-  <span style="padding-right: 1em">
-  {% if category == page.product-category %}
-    <b>{{ category }}</b>
-  {% else %}
-    <a href="/products/{{ category }}/">{{ category }}</a>
-  {% endif %}
-  </span>
-{% endfor %}
+{% include product-categories.html %}
 
 <hr class="hr-thick" style="margin-bottom: 30px;">
 

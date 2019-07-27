@@ -30,10 +30,12 @@ google_fonts:
 # pages that have a `title`. Add raw page paths in the order you'd like.
 
 navigation_pages:
+  - videos/videos.md
   - blog-ascending.md
-  - poweredup.md
-  - plans.md
-  - sawstop/sawstop.md
+  - projects/projects.md
+  - products/products.md
   - sketchup/sketchup.md
+  - sawstop/sawstop.md
+  - poweredup.md
   - about.md
 #  - cv.md
