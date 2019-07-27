@@ -8,7 +8,9 @@ image: /products/products-splash.jpg
 
 <hr class="hr-thick" style="margin-bottom: 30px;">
 
-## Featured Products
+## Product Articles
+
+These are products I've written articles about. Click on the links to go to the articles.
 
 {% include pic-and-link-line.html
   name="Wixey Saw Fence Digital Readout"
