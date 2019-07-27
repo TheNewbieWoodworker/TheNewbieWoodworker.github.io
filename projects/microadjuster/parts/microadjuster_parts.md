@@ -3,9 +3,9 @@ layout: post
 title: "Parts & Tools: Micro-Adjuster for Table Saw Fences"
 permalink: "/projects/microadjuster/parts/"
 redirect_from: "/projects/micro-adjuster/parts"
+back_btn_link: "/projects/microadjuster"
+back_btn_text: "Back to the Project"
 ---
-{% include nav-btn-back.html link="/projects/microadjuster" text="Back to the Project" %}
-
 ## Here's the basic parts list:
 
 ![](/projects/microadjuster/parts/2019-07-09.1.01.jpg){: width="150px"}{: .align-left}
@@ -111,4 +111,4 @@ You need a couple of screws to attach the switch. I just used some I found in a 
 
 <p></p>
 
-<a href="/projects/microadjuster" class="btn no-bold"><span class="icon icon-left">{% include icon-arrow-left.svg %}</span> Back to the Project</a>
+<p></p><hr class="hr-thick" style="margin-bottom: 30px;"><p></p>

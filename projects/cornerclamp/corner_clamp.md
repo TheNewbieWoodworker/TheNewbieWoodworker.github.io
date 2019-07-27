@@ -3,9 +3,9 @@ layout: post
 title: "Corner Clamp"
 permalink: "/projects/cornerclamp/"
 redirect_from: "/plans/cornerclamp"
+back_btn_link: "/projects/"
+back_btn_text: "Back to Projects"
 ---
-{% include nav-btn-back.html link="/projects/" text="Back to Projects" %}
-
 ### Corner Clamp Build Video
 
 {% include youtube-player.html id="X4BSyZuc-ak" %}
@@ -58,4 +58,4 @@ If you don't receive a response within 24 hours, please leave a message in the c
 
 Thanks!
 
-{% include nav-btn-back.html link="/projects/" text="Back to Projects" %}
+<p></p><hr class="hr-thick" style="margin-bottom: 30px;"><p></p>

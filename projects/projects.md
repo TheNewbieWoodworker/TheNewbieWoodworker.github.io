@@ -4,9 +4,9 @@ title: "Projects"
 permalink: "/projects/"
 redirect_from: "/plans/"
 image: /projects/projects-splash.jpg
+back_btn_link: "/"
+back_btn_text: "Back to the Main Page"
 ---
-{% include nav-btn-back.html link="/" text="Back to the Main Page" margin-bottom="20" %}
-
 {% include pic-and-link-line.html
   name="Micro-Adjuster for Table Saw Fences"
   link="/projects/microadjuster/"

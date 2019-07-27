@@ -3,9 +3,9 @@ layout: post
 title: "Chisel Plane & Sheath"
 permalink: "/projects/chisel_plane/"
 redirect_from: "/plans/chisel_plane/"
+back_btn_link: "/projects/"
+back_btn_text: "Back to Projects"
 ---
-{% include nav-btn-back.html link="/projects/" text="Back to Projects" %}
-
 ## Chisel Plane Video
 
 {% include youtube-player.html id="g5unV5jTNI4" %}
@@ -44,4 +44,4 @@ I modified the dimensions to come out to nice whole numbers.
 
 ![](chisel_plane_and_sheath_plans.05.jpg){: .image-border}
 
-{% include nav-btn-back.html link="/projects/" text="Back to Projects" %}
+<p></p><hr class="hr-thick" style="margin-bottom: 30px;"><p></p>

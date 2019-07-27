@@ -2,9 +2,9 @@
 layout: post
 title: "How to Calibrate a Saw Fence Digital Readout"
 permalink: "/products/wixey/wr700/calibration/"
+back_btn_link: "/products/wixey/wr700/"
+back_btn_text: "Back to Product"
 ---
-{% include nav-btn-back.html link="/products/wixey/wr700/" text="Back to Product" %}
-
 ![](/products/wixey/wr700/calibration/2019-07-27.1.01.jpg)
 
 This is a quick and easy way to calibrate a [Wixey Saw Digital Readout]({{ site.data.products.wixey-wr700.link }}){:target="_blank"}. If you have easier ways, let me know in the comments.

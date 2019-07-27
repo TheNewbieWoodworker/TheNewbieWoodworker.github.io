@@ -3,9 +3,9 @@ layout: post
 title: "Build: Micro-Adjuster for Table Saw Fences"
 permalink: "/projects/microadjuster/build/"
 redirect_from: "/projects/micro-adjuster/build"
+back_btn_link: "/projects/microadjuster"
+back_btn_text: "Back to the Project"
 ---
-{% include nav-btn-back.html link="/projects/microadjuster" text="Back to the Project" %}
-
 ### 1) Cut the Stock
 
 ![](/projects/microadjuster/build/2019-07-08.1.02.jpg){: .image-border}{: .align-left}
@@ -149,4 +149,4 @@ Reattach the gauge...
 
 ...and you're good to go!
 
-<a href="/projects/microadjuster" class="btn no-bold"><span class="icon icon-left">{% include icon-arrow-left.svg %}</span> Back to the Project</a>
+<p></p><hr class="hr-thick" style="margin-bottom: 30px;"><p></p>

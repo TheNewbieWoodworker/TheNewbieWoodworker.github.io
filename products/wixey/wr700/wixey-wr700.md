@@ -2,10 +2,10 @@
 layout: post
 title: "Wixey Saw Fence Digital Readout"
 permalink: "/products/wixey/wr700/"
+back_btn_link: "/products/"
+back_btn_text: "Back to Products"
 ---
 ![](/products/wixey/wr700/2019-07-27.1.01.jpg)
-
-{% include nav-btn-back.html link="/products/" text="Back to Products" %}
 
 ### Under Construction
 

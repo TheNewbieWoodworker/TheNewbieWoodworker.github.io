@@ -2,9 +2,9 @@
 layout: page
 title: "SawStop"
 permalink: "/sawstop/"
+back_btn_link: "/"
+back_btn_text: "Back to the Main Page"
 ---
-{% include nav-btn-back.html link="/" text="Back to the Main Page" margin-bottom="20" %}
-
 ## Details on my new PCS
 
 [![](/assets/images-posts/2019/03/2019-03-24.1.01.jpg){:width="400px"}{: .image-border}](pcs/new/){: .align-left}

@@ -4,14 +4,12 @@ layout: default
 
 {% include page-intro.html %}
 
-<style type="text/css">
-	.image-border {
-        border:1px solid black;
-    }
-</style>
-
 <main id="main" class="page-content" aria-label="Content">
   <div class="inner">
+
+    {% if page.back_btn_link and page.back_btn_text %}
+      {% include nav-btn-back.html link=page.back_btn_link text=page.back_btn_text %}
+    {% endif %}
 
     {% include post-nav-buttons.html %}
 

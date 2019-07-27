@@ -3,9 +3,9 @@ layout: post
 title: "Micro-Adjuster for Table Saw Fences"
 permalink: "/projects/microadjuster/"
 redirect_from: "/projects/micro-adjuster/"
+back_btn_link: "/projects/"
+back_btn_text: "Back to Projects"
 ---
-{% include nav-btn-back.html link="/projects/" text="Back to Projects" %}
-
 {% include youtube-player.html id="dGZ_V_zwNMQ" %}
 
 <p></p>
