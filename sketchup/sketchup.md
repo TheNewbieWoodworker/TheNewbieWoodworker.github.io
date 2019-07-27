@@ -4,6 +4,8 @@ title: "SketchUp"
 permalink: "/sketchup/"
 #image: /assets/images/sketchup_image.jpg
 ---
+{% include nav-btn-back.html link="/" text="Back to the Main Page" margin-bottom="20" %}
+
 ## My SketchUp models
 
 See [my SketchUp models](https://3dwarehouse.sketchup.com/by/TheNewbieWoodworker).

@@ -3,6 +3,7 @@ layout: page
 title: "SawStop"
 permalink: "/sawstop/"
 ---
+{% include nav-btn-back.html link="/" text="Back to the Main Page" margin-bottom="20" %}
 
 ## Details on my new PCS
 
