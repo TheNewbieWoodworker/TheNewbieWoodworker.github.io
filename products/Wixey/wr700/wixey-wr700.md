@@ -7,7 +7,7 @@ permalink: "/products/wixey/wr700/"
 
 {% include nav-btn-back.html link="/products/" text="Back to Products" %}
 
-### Under Construction
+### Under Construction 
 
 This page is for the [Wixey Saw Digital Readout]({{ site.data.products.wixey-wr700.link }}){:target="_blank"}.
 
