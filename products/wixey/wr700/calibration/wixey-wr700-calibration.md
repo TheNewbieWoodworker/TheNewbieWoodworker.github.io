@@ -23,12 +23,12 @@ If you ever have problems trying to calibrate a [Wixey WR700 Saw Digital Readout
 
 ## About Imperial Decimal Places
 
-![](/products/Wixey/wr700/calibration/2019-07-27.1.18.jpg){:width="150px"}{: .align-left}
+![](/products/wixey/wr700/calibration/2019-07-27.1.18.jpg){:width="150px"}{: .align-left}
 The Wixey gauge's readout has two decimal places, or three if the value rounds to 5 thousands of an inch.
 
 {:style="clear: left"}
 
-![](/products/Wixey/wr700/calibration/2019-07-27.1.19.jpg){:width="150px"}{: .align-left}
+![](/products/wixey/wr700/calibration/2019-07-27.1.19.jpg){:width="150px"}{: .align-left}
 Compare that to my [digital caliper]({{ site.data.products.caliper-digital.link }}){:target="_blank"}, which has *three* decimal places, or *four* if the value rounds to 5 *ten*-thousands of an inch.
 
 {:style="clear: left"}
@@ -75,7 +75,7 @@ If you want to verify the calibration:
 
 ### Adjust
 
-![](/products/Wixey/wr700/calibration/2019-07-27.1.20.jpg){: .image-border}{: .align-right}
+![](/products/wixey/wr700/calibration/2019-07-27.1.20.jpg){: .image-border}{: .align-right}
 <ol><li><p>Subtract the value on the Wixey readout (bottom) from the value on the caliper (top).</p></li></ol>
 
 {:style="clear: right"}
@@ -86,7 +86,7 @@ If you want to verify the calibration:
 <li><p>Press and hold the calibration button to start calibration again.</p></li>
 </ol>
 
-![](/products/Wixey/wr700/calibration/2019-07-27.1.21.jpg){: .image-border}{: .align-right}
+![](/products/wixey/wr700/calibration/2019-07-27.1.21.jpg){: .image-border}{: .align-right}
 <ol start="4"><li><p>Use the "+" or "-" buttons, depending on the whether the value you got in step #1 was positive or negative, to add or subtract increments of .005" until you've made up as much of the difference as possible.</p></li></ol>
 
 {:style="clear: right"}
