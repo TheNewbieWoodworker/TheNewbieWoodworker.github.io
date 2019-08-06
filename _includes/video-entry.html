@@ -4,5 +4,11 @@
   <p><a href="https://youtu.be/{{ video.id }}" target="_blank" class="align-left image-border"><img src="{{ video.thumbnailUrl }}" alt="" /></a>
   {{ video.description }}
   </p>
+  {% if video.articleLink %}
+    <a href="{{ video.articleLink }}" title="View the Article">
+      <span style="margin-right: 10px"><img src="/assets/images/article32.png" alt="Article"></span>
+      <span class="label">View the Article</span>
+    </a>
+  {% endif %}
   <hr style="clear: left" />
 </div>

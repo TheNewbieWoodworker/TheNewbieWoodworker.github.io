@@ -35,11 +35,13 @@ layout: default
 <hr/>
 
 {% if page.video-category == "all" %}
-  {% for video in site.data.videos  %}
+  {% for video_hash in site.data.videos  %}
+    {% assign video = video_hash[1] %}
     {% include video-entry.html %}
   {% endfor %}
 {% else %}
-  {% for video in site.data.videos-by-category[page.video-category]  %}
+  {% for video-id in site.data.videos-by-category[page.video-category]  %}
+    {% assign video = site.data.videos[video-id] %}
     {% include video-entry.html %}
   {% endfor %}
 {% endif %}
