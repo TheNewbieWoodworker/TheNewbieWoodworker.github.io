@@ -1,12 +1,34 @@
 ---
 layout: page
-title: "Projects"
+title: "Projects, Plans & Articles"
 permalink: "/projects/"
-redirect_from: "/plans/"
+redirect_from:
+  - "/plans/"
+  - "/articles/"
 image: /projects/projects-splash.jpg
 back_btn_link: "/"
 back_btn_text: "Back to the Main Page"
 ---
+<hr class="hr-thick" style="margin-bottom: 30px;">
+## Articles
+
+{% for post in site.categories.article %}
+
+{% capture theUrl %}{{ post.url }}?from=articles{% endcapture %}
+
+### [{{ post.title }}]({{ theUrl }})
+
+[![]({{ post.article-image }}){: width="150px"}]({{ theUrl }}){: .align-left}
+{{ post.article-description }}
+
+{:style="clear: left"}
+
+{% endfor %}
+
+<hr class="hr-thick" style="margin-bottom: 30px;">
+
+## Projects (that may have plans)
+
 {% include pic-and-link-line.html
   name="Micro-Adjuster for Table Saw Fences"
   link="/projects/microadjuster/"
