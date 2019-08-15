@@ -9,15 +9,25 @@ article-description: "CutList Optimizer is a great website for generating cut li
 ![](/assets/images-posts/2019/08/2019-08-14.1.01.jpg)
 <br/>
 <br/>
-There's a great website I've been meaning to talk about for quite a while, called [CutList Optimizer](https://www.cutlistoptimizer.com/){:target="_blank"}. As the name says, it generates lists for the optimal way to cut stock into the sizes you need for a project.
+There's a great website I've been meaning to talk about for quite a while, called [CutList Optimizer](https://www.cutlistoptimizer.com/){:target="_blank"}. I'm currently working on a video about it, and this is the accompanying article. As the name says, CutList Optimizer generates lists for the optimal way to cut stock into the sizes you need for a project.
 
 You can save the cut list as a PDF file. [Click here for a simple sample](/assets/downloads/cutlist-optimizer-simple-example.pdf){:target="_blank"}.
 
-<p id="top-note" class="panel-warning">NOTE: Websites change all the time. As far as I know, this information was accurate as of <b>2019-08-13</b>. If something significant changes, I'll try to keep this updated.</p>
-
 <p class="panel-note">I use inches with decimal places throughout this document, but CutList Optimizer supports fractional inches, metric, and other <a href="#units">units</a>.</p>
 
+
+
+<p id="top-note" class="panel-warning" markdown="1">NOTE: Websites change all the time. As far as I know, this information was accurate as of **2019-08-15**. If something significant changes, I'll try to keep this updated.<br/><br/>
+
+**Update History:**<br/><br/>
+
+**2019-08-15:** Changes to the [Error Messages / Bugs](#-error-messages-bugs) section to clarify that the error messages may in fact be legitimate.
+</p>
+
 <hr class="hr-thick" style="margin-bottom: 30px;">
+
+
+
 
 ## Table of Contents
 
@@ -30,7 +40,7 @@ You can save the cut list as a PDF file. [Click here for a simple sample](/asset
 1. [Complicated Example](#complicated-example)
 1. [Export, Save & Load Options](#export-save--load-options)
 1. <span style="color:red; font-size: 1.5em;">**!!**</span> [Other Save/Load Options](#-other-saveload-options)
-1. <span style="color:red; font-size: 1.5em;">**!!**</span> [Bugs/Error Messages](#-bugserror-messages)
+1. <span style="color:red; font-size: 1.5em;">**!!**</span> [Error Messages / Bugs](#-error-messages-bugs)
 1. [Settings](#settings)
    1. [Optimization level](#optimization-level)
    1. [Units](#units)
@@ -40,6 +50,9 @@ You can save the cut list as a PDF file. [Click here for a simple sample](/asset
 1. [YouTube Video](#youtube-video)
 
 <hr class="hr-thick" style="margin-bottom: 30px;">
+
+
+
 
 ## Simple Example
 
@@ -69,6 +82,8 @@ After you enter the above information, click the "Calculate" button, and it gene
 
 <p style="clear: left"> </p>
 ---
+
+
 
 ### The Cut List
 
@@ -108,6 +123,8 @@ And continue along like that.
 
 <br/>
 <hr class="hr-thick" style="clear: left; margin-bottom: 30px;">
+
+
 
 ## Complicated Example
 
@@ -158,6 +175,9 @@ At any point you can click the "Accept" button [^2], which will cause it to stop
 
 <hr class="hr-thick" style="margin-bottom: 30px;">
 
+
+
+
 ## Export, Save & Load Options
 
 ![](/assets/images-posts/2019/08/2019-08-14.1.18.jpg){: .image-border}{: .align-left}
@@ -170,6 +190,9 @@ When you click button as shown, you get this popup menu. Here's some notes:
 {:style="clear: left"}
 
 <hr class="hr-thick">
+
+
+
 
 <h2 id="-other-saveload-options" style="margin-top: 30px"><span style="color:red">!!</span> Other Save/Load Options</h2>
 
@@ -186,24 +209,41 @@ If you click the menu button (red circle) on either the "Panels" or the "Stock s
 
 <hr class="hr-thick">
 
-<h2 id="-bugserror-messages" style="margin-top: 30px"><span style="color:red">!!</span> Bugs/Error Messages</h2>
 
-![](/assets/images-posts/2019/08/2019-08-14.1.20.jpg){: .image-border}{: .align-left}
-At one point or another, you may receive one or both of these messages.
 
-I *think* these messages are ***supposed*** to mean that you're trying to run more than one "Calculation" at a time - for instance, in two browser tabs.
+
+<h2 id="-error-messages-bugs" style="margin-top: 30px"><span style="color:red">!!</span> Error Messages / Bugs</h2>
+
+There's a couple of error messages that you might encounter, and I think <span style="color:red">**sometimes you get them as a result of a bug**</span>.
+
+![](/assets/images-posts/2019/08/2019-08-14.1.20.jpg){: .align-left}
+This one means you can't run "Calculation" in multiple browser windows or tabs at the same time.
 
 {:style="clear: left"}
 
-But I've received these messages a couple of times after I've "canceled" a "calculation", when I was only using one browser tab.
+![](/assets/images-posts/2019/08/2019-08-14.1.24.jpg){: .align-left}
+This one is kind of self-explanatory. I'd like to say this to people myself, sometimes. "*My brain is experiencing some issues. Try again later.*"
 
-* The first time I got the error, I was using Safari, so I switch to Chrome, and the problem went away.
+{:style="clear: left"}
 
-* The second time I got the error, I cleared the cookies for the CutList Optimizer website, and the problem went away. But that also wiped out my "saved" data (this is why I think CutList Optimizer saves data in cookies.) Fortunately, I had [exported both of my "list" panels](#-other-saveload-options), so it didn't take me lomg to get it running again.
+I've received these error messages a couple of times when I'm pretty sure they were the result of a bug of some kind. In other words, they didn't really mean what they said.
+
+I got them after I "canceled" a "calculation", when I was only using one browser tab.
+
+* The first time I got the error, I was using Safari, so I switched to Chrome, and the problem went away.
+
+* The second time I got the error, I cleared the cookies for the CutList Optimizer website, and the problem went away.
+
+  <p class="panel-warning" markdown="1">Clearing cookies wiped out my data (which is why I think CutList Optimizer saves data in cookies).<br/><br/>Fortunately, I had [exported both of my "list" panels](#-other-saveload-options), so it didn't take me long to get it running again.</p>
+
+  [Here's an article](https://www.lifewire.com/clear-cookies-for-one-site-4587347){:target="_blank"} that shows how to delete cookies for a specific website.
 
 So just be aware of these potential problems.
 
-<hr class="hr-thick">
+<hr class="hr-thick" style="margin-bottom: 30px;">
+
+
+
 
 ## Settings
 
@@ -258,7 +298,7 @@ You can guess what most of the settings do. Here's some tips on some of them:
     <span><b>Notes:</b></span><br/>
     <ul>
       <li>I wish there was an option for <b>Fractional Inches (16 1/2")</b>, because I don't like <b>1' 4 1/2"</b>.</li>
-      <li>You can switch units during a project, but for me, it didn't always work right. So decide what units you want before you go to far.</li>
+      <li>You can switch units during a project, but for me, <span style="color:red"><b>it didn't always work right</b></span>. So decide what units you want before you go to far.</li>
     </ul>
   </div>
 </div>
@@ -269,7 +309,7 @@ You can guess what most of the settings do. Here's some tips on some of them:
   <div>
     <span><b>Notes:</b></span><br/>
     <ul>
-      <li>This is nice because not only can you just enter your kerf width, but you could set it to a higher value like 1/2" to give you a little leeway when you make the cuts.</li>
+      <li>This is nice because not only can you just enter your kerf width, you can set it to a higher value like 1/2" to give you a little leeway when you make the cuts.</li>
     </ul>
   </div>
 </div>
@@ -280,7 +320,7 @@ You can guess what most of the settings do. Here's some tips on some of them:
   <div>
     <span><b>Notes:</b></span><br/>
     <ul>
-      <li>If you're only cutting from one kind of stock, then you don't need this. But in my <a href="#complicated-example">Complicated Example</a>, it's how I could do all three materials at once.</li>
+      <li>If you're only cutting from one kind of stock, then you don't need this. But in my <a href="#complicated-example">Complicated Example</a>, it's how I could do all three materials at once. Still, it's probably best to do them one at a time.</li>
     </ul>
   </div>
 </div>
@@ -299,11 +339,14 @@ You can guess what most of the settings do. Here's some tips on some of them:
 
 <hr class="hr-thick" style="margin-bottom: 30px">
 
+
+
+
 ## YouTube Video
 
-I may or may not add more to this article. Right now my plan is to start working on the YouTube video, and that may lead to changes in this article. If I update this article, I'll change the date mentioned in the [top "Note"](#top-note).
+I may or may not add more to this article. Right now my plan is to start working on the YouTube video, and that may lead to changes to this article. If I update this article, I'll change the date mentioned in the [top "Note"](#top-note).
 
 {% include footnote-title.html %}
 
-[^1]: I think there's a bug that sometimes crops up when you do this. See the "[Bugs](##-bugserror-messages)" section.
+[^1]: I think there's a bug that sometimes crops up when you do this. See the "[Error Messages / Bugs](#-error-messages-bugs)" section.
 [^2]: [Ibid](https://research.wou.edu/c.php?g=551307&p=3785494){:target="_blank"}.
