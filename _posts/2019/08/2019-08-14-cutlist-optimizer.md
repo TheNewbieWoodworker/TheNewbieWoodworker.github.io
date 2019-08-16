@@ -2,6 +2,10 @@
 title: "CutList Optimizer"
 layout: post
 permalink: "/articles/cutlistoptimizer/"
+redirect_from:
+  - "/cutlistoptimizer/"
+  - "/CutListOptimizer"
+  - "/CutlistOptimizer"
 category: article
 article-image: "/assets/images-posts/2019/08/2019-08-14.1.05.jpg"
 article-description: "CutList Optimizer is a great website for generating cut lists. This articles explains how to use the site."
@@ -19,8 +23,8 @@ You can save the cut list as a PDF file. [Click here for a simple sample](/asset
 
 <p id="top-note" class="panel-warning" markdown="1">NOTE: Websites change all the time. As far as I know, this information was accurate as of **2019-08-15**. If something significant changes, I'll try to keep this updated.<br/><br/>
 
-**Update History:**<br/><br/>
-
+**Update History:**<br/>
+**2019-08-16:** Re-did the [Simple Example](#simple-example) section to make it a little more clear.<br/>
 **2019-08-15:** Changes to the [Error Messages / Bugs](#-error-messages-bugs) section to clarify that the error messages may in fact be legitimate.
 </p>
 
@@ -63,8 +67,6 @@ The third option generates numbers for the order of the cuts. I'll explain more 
 
 {:style="clear: left"}
 
-Also, you'll see a column called "Material" in the pics below, but it's not enabled by default. More on that later, too.
-
 <hr style="margin-bottom: 40px"/>
 
 ![](/assets/images-posts/2019/08/2019-08-14.1.02.jpg){: .image-border}{: .align-left}
@@ -77,7 +79,7 @@ And here's the stock you want to cut them from.
 
 {:style="clear: left"}
 
-![](/assets/images-posts/2019/08/2019-08-14.1.09.jpg){: .image-border}{: .align-left}
+![](/assets/images-posts/2019/08/2019-08-14.1.09.jpg){: width="500px"}{: .image-border}{: .align-left}
 After you enter the above information, click the "Calculate" button, and it generates the cut list.
 
 <p style="clear: left"> </p>
@@ -94,10 +96,8 @@ So let's break down what we get.
 
 #### The "Cuts" Panel
 
-![](/assets/images-posts/2019/08/2019-08-14.1.06.jpg){: .image-border}{: .align-left}
+![](/assets/images-posts/2019/08/2019-08-14.1.06.jpg){: width="300px"}{: .image-border}{: .align-left}
 The "Cuts" panel shows the cuts you need to make.
-
-I had selected the "Cuts order" option, so these are numbered in the best order to make the cuts.
 
 {:style="clear: left"}
 
@@ -105,19 +105,32 @@ I had selected the "Cuts order" option, so these are numbered in the best order 
 
 ![](/assets/images-posts/2019/08/2019-08-14.1.07.jpg){: .image-border}{: .align-left}
 
-This is the cut sheet, rotated onto its side. Each of the cuts are numbered to match the numbers in the Cuts panel (above).
+This is the cut sheet. Each of the cuts are numbered to match the numbers in the Cuts panel (above).
 
 {:style="clear: left"}
 
+![](/assets/images-posts/2019/08/2019-08-14.1.25.jpg){: .image-border}{: .align-left}
+If you put your mouse over the first cut (**A**), it shows you where the first cut is (**B**).
+
+And of course you can mouse over the other cuts too.
+
+{:style="clear: left"}
+
+
+
 ![](/assets/images-posts/2019/08/2019-08-14.1.08.jpg){: .image-border}{: .align-left}
-#1 is the first cut. The number is blue, and it's right on top of the blue line that goes across the stock. So that's the first cut.
+This is the bottom right of the cut sheet.
+
+#1 is the first cut. The red number is right next to the red cut line.
 
 {:style="clear: left"}
 
 ![](/assets/images-posts/2019/08/2019-08-14.1.10.jpg){: .image-border}{: .align-left}
-Then cut #2, which is along the blue line.
+This is the bottom left of the cut sheet.
 
-And continue along like that.
+#2 is the second cut, and the blue number is right next to the blue cut line.
+
+And it continues like that.
 
 {:style="clear: left"}
 
@@ -135,7 +148,9 @@ I've got 38 pieces, from three different materials:
 
 <p>● Plywood 3/4"<br/>● Plywood 1/4"<br/>● Pine</p>
 
-I actually don't recommend doing this - it's probably easier to do one material type at a time. But this makes a good demo, anyway.
+I've got the option for "Consider Material" turned on, so each piece can come from a different material.<br/>(See ["Settings"](#settings), below.)
+
+I actually don't recommend doing this because it makes "Calculate" take a long time. It's probably better to do one material type at a time.
 
 {:style="clear: left"}
 
