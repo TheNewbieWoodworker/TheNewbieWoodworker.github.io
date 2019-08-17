@@ -24,8 +24,8 @@ You can save the cut list as a PDF file. [Click here for a simple sample](/asset
 <p id="top-note" class="panel-warning" markdown="1">NOTE: Websites change all the time. As far as I know, this information was accurate as of **2019-08-15**. If something significant changes, I'll try to keep this updated.<br/><br/>
 
 **Update History:**<br/>
-**2019-08-16:** Re-did the [Simple Example](#simple-example) section to make it a little more clear.<br/>
-**2019-08-15:** Changes to the [Error Messages / Bugs](#-error-messages-bugs) section to clarify that the error messages may in fact be legitimate.
+**2019-08-16:** Re-did the [Simple Example](#simpleexample) section to make it a little more clear.<br/>
+**2019-08-15:** Changes to the [Error Messages / Bugs](#errormessagesbugs) section to clarify that the error messages may in fact be legitimate.
 </p>
 
 <hr class="hr-thick" style="margin-bottom: 30px;">
@@ -37,26 +37,26 @@ You can save the cut list as a PDF file. [Click here for a simple sample](/asset
 
 <span style="color:red; font-size: 1.5em;">**!!**</span> Please read the sections marked with red exclamation marks <span style="color:red; font-size: 1.5em;">**!!**</span>
 
-1. [Simple Example](#simple-example)
+1. [Simple Example](#simpleexample)
    1. [The Cut List](#the-cut-list)
    1. [The “Cuts” Panel](#the-cuts-panel)
    1. [The Cut Sheet](#the-cut-sheet)
-1. [Complicated Example](#complicated-example)
-1. [Export, Save & Load Options](#export-save--load-options)
-1. <span style="color:red; font-size: 1.5em;">**!!**</span> [Other Save/Load Options](#-other-saveload-options)
-1. <span style="color:red; font-size: 1.5em;">**!!**</span> [Error Messages / Bugs](#-error-messages-bugs)
-1. [Settings](#settings)
+1. [Complicated Example](#complicatedexample)
+1. [Export, Save & Load Options](#exportsaveloadoptions)
+1. <span style="color:red; font-size: 1.5em;">**!!**</span> [Other Save/Load Options](#othersaveloadoptions)
+1. <span style="color:red; font-size: 1.5em;">**!!**</span> [Error Messages / Bugs](#errormessagesbugs)
+1. [Settings](#_settings)
    1. [Optimization level](#optimization-level)
    1. [Units](#units)
    1. [Cut / blade / kerf thickness](#cut--blade--kerf-thickness)
    1. [Consider Material](#consider-material)
    1. [Consider grain direction](#consider-grain-direction)
-1. [YouTube Video](#youtube-video)
-
-<hr class="hr-thick" style="margin-bottom: 30px;">
+1. [YouTube Video](#youtubevideo)
 
 
 
+
+<hr id="simpleexample" class="hr-thick" style="margin-bottom: 30px;">
 
 ## Simple Example
 
@@ -135,9 +135,11 @@ And it continues like that.
 {:style="clear: left"}
 
 <br/>
-<hr class="hr-thick" style="clear: left; margin-bottom: 30px;">
 
 
+
+
+<hr id="complicatedexample" class="hr-thick" style="clear: left; margin-bottom: 30px;">
 
 ## Complicated Example
 
@@ -148,7 +150,7 @@ I've got 38 pieces, from three different materials:
 
 <p>● Plywood 3/4"<br/>● Plywood 1/4"<br/>● Pine</p>
 
-I've got the option for "Consider Material" turned on, so each piece can come from a different material.<br/>(See ["Settings"](#settings), below.)
+I've got the option for "Consider Material" turned on, so each piece can come from a different material.<br/>(See ["Settings"](#_settings), below.)
 
 I actually don't recommend doing this because it makes "Calculate" take a long time. It's probably better to do one material type at a time.
 
@@ -188,10 +190,11 @@ At any point you can click the "Accept" button [^2], which will cause it to stop
 [![](/assets/images-posts/2019/08/2019-08-14.1.17.jpg){: .image-border}](/assets/images-posts/2019/08/2019-08-14.1.17.jpg){:target="_blank"}
 *Click image to view full sized*
 
-<hr class="hr-thick" style="margin-bottom: 30px;">
 
 
 
+
+<hr id="exportsaveloadoptions" class="hr-thick" style="margin-bottom: 30px;">
 
 ## Export, Save & Load Options
 
@@ -204,10 +207,11 @@ When you click button as shown, you get this popup menu. Here's some notes:
 
 {:style="clear: left"}
 
-<hr class="hr-thick">
 
 
 
+
+<hr id="othersaveloadoptions" class="hr-thick">
 
 <h2 id="-other-saveload-options" style="margin-top: 30px"><span style="color:red">!!</span> Other Save/Load Options</h2>
 
@@ -222,10 +226,11 @@ If you click the menu button (red circle) on either the "Panels" or the "Stock s
 
 {:style="clear: left"}
 
-<hr class="hr-thick">
 
 
 
+
+<hr id="errormessagesbugs" class="hr-thick">
 
 <h2 id="-error-messages-bugs" style="margin-top: 30px"><span style="color:red">!!</span> Error Messages / Bugs</h2>
 
@@ -255,10 +260,11 @@ I got them after I "canceled" a "calculation", when I was only using one browser
 
 So just be aware of these potential problems.
 
-<hr class="hr-thick" style="margin-bottom: 30px;">
 
 
 
+
+<hr id="_settings" class="hr-thick" style="margin-bottom: 30px;">
 
 ## Settings
 
@@ -324,7 +330,7 @@ You can guess what most of the settings do. Here's some tips on some of them:
   <div>
     <span><b>Notes:</b></span><br/>
     <ul>
-      <li>This is nice because not only can you just enter your kerf width, you can set it to a higher value like 1/2" to give you a little leeway when you make the cuts.</li>
+      <li>Use this to tell CutList Optimizer the size of your kerf [^3], so it can take that into account. For example, you can’t cut two 16” pieces from one 32” piece, because the kerf eats up some of the available wood.</li>
     </ul>
   </div>
 </div>
@@ -335,7 +341,7 @@ You can guess what most of the settings do. Here's some tips on some of them:
   <div>
     <span><b>Notes:</b></span><br/>
     <ul>
-      <li>If you're only cutting from one kind of stock, then you don't need this. But in my <a href="#complicated-example">Complicated Example</a>, it's how I could do all three materials at once. Still, it's probably best to do them one at a time.</li>
+      <li>If you're only cutting from one kind of stock, then you don't need this. But in my <a href="#complicatedexample">Complicated Example</a>, it's how I could do all three materials at once. Still, it's probably best to do them one at a time.</li>
     </ul>
   </div>
 </div>
@@ -352,10 +358,11 @@ You can guess what most of the settings do. Here's some tips on some of them:
   </div>
 </div>
 
-<hr class="hr-thick" style="margin-bottom: 30px">
 
 
 
+
+<hr id="youtubevideo" class="hr-thick" style="margin-bottom: 30px">
 
 ## YouTube Video
 
@@ -363,5 +370,6 @@ I may or may not add more to this article. Right now my plan is to start working
 
 {% include footnote-title.html %}
 
-[^1]: I think there's a bug that sometimes crops up when you do this. See the "[Error Messages / Bugs](#-error-messages-bugs)" section.
+[^1]: I think there's a bug that sometimes crops up when you do this. See the "[Error Messages / Bugs](#errormessagesbugs)" section.
 [^2]: [Ibid](https://research.wou.edu/c.php?g=551307&p=3785494){:target="_blank"}.
+[^3]: The "kerf" is the size of the slot your blade cuts. Typically this is 1/8", or a little less for thin-kerf blades.
