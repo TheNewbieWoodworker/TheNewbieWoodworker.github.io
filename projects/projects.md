@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Projects, Plans & Articles"
+title: "Articles, Projects & Plans"
 permalink: "/projects/"
 redirect_from:
   - "/plans/"

@@ -44,6 +44,7 @@ You can save the cut list as a PDF file. [Click here for a simple sample](/asset
 1. [Complicated Example](#complicatedexample)
 1. [Export, Save & Load Options](#exportsaveloadoptions)
 1. <span style="color:red; font-size: 1.5em;">**!!**</span> [Other Save/Load Options](#othersaveloadoptions)
+1. [SketchUp](#sketchup1)
 1. <span style="color:red; font-size: 1.5em;">**!!**</span> [Error Messages / Bugs](#errormessagesbugs)
 1. [Settings](#_settings)
    1. [Optimization level](#optimization-level)
@@ -230,6 +231,16 @@ If you click the menu button (red circle) on either the "Panels" or the "Stock s
 
 
 
+<hr id="sketchup1" class="hr-thick" style="margin-bottom: 30px">
+
+## SketchUp
+
+If I learn of any plugins that allow you to export CSV files from SketchUp that can be used with CutList Optimizer, I'll post that here. And if you know of any, leave a comment and let me know. Thanks!
+
+
+
+
+
 <hr id="errormessagesbugs" class="hr-thick">
 
 <h2 id="-error-messages-bugs" style="margin-top: 30px"><span style="color:red">!!</span> Error Messages / Bugs</h2>
@@ -357,7 +368,6 @@ You can guess what most of the settings do. Here's some tips on some of them:
     </ul>
   </div>
 </div>
-
 
 
 
