@@ -33,13 +33,13 @@ For $5 (or the equivalent price in Euros), you can buy and download the plans fo
 Try Chrome, or Firefox. 9 times out of 10, this is the problem.
 
 #### Try a different URL
-Try ordering from here: <https://gumroad.com/thenewbiewoodworker>{:target="_blank"}. If this solves your problem, I'd like to hear about it, if you don't mind. Totally optional, though. Click to send me an email: <dan@thenewbiewoodworker.com>
+Try ordering from here: <https://gumroad.com/thenewbiewoodworker>{:target="_blank"}. If this solves your problem, I'd like to hear about it, if you don't mind. Totally optional, though. Click to send me an email: <{{ site.email }}>
 
 ### If that doesn't work:
 
 I'm working very hard to solve any purchasing issues you might have. But I need your help to accomplish this.
 
-So if you have problems, email me at <dan@thenewbiewoodworker.com>. <br/>
+So if you have problems, email me at <{{ site.email }}>. <br/>
 If you can, please include any or all of the following information:
 
 * What problem are you experiencing?
@@ -52,7 +52,7 @@ If you can, please include any or all of the following information:
 * What Operating System are you using (Windows, Mac, iOS, Android, etc)?
 * Any other information you think might help.
 
-I'll do my best to help solve the problem as quickly as possible. So please check your email for a response from dan@thenewbiewoodworker.com.
+I'll do my best to help solve the problem as quickly as possible.
 
 If you don't receive a response within 24 hours, please leave a message in the comments below, because there may be an email issue of some sort.
 
