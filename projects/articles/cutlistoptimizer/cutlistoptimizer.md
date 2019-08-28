@@ -72,7 +72,7 @@ If you know of any changes, please leave a comment, or contact me at <{{ site.em
 
 ## Video
 
-{% include youtube-player.html id="wPlAxCd0_O0" %}
+{% include youtube-player.html id="kbfnTOzh7_4" %}
 
 Contains most of the information I have on CutList Optimizer.
 
