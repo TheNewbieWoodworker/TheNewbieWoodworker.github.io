@@ -12,17 +12,17 @@ back_btn_text: "Back to the Main Page"
 <hr class="hr-thick" style="margin-bottom: 30px;">
 ## Articles
 
-{% for post in site.categories.article %}
+{% for article in site.pages %}
+{% if article.category == "article" %}
 
-{% capture theUrl %}{{ post.url }}?from=articles{% endcapture %}
+### [{{ article.title }}]({{ article.url }})
 
-### [{{ post.title }}]({{ theUrl }})
-
-[![]({{ post.article-image }}){: width="150px"}]({{ theUrl }}){: .align-left}
-{{ post.article-description }}
+[![]({{ article.article-image }}){: width="150px"}]({{ theUrl }}){: .align-left}
+{{ article.article-description }}
 
 {:style="clear: left"}
 
+{% endif %}
 {% endfor %}
 
 <hr class="hr-thick" style="margin-bottom: 30px;">
