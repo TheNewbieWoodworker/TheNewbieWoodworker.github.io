@@ -37,7 +37,8 @@ If you know of any changes, please leave a comment, or contact me at <{{ site.em
 
 
 <p id="top-note" class="panel-note" markdown="1">**Article Changes:**<br/>
-**2019-08-28:** Initial release (sort-of).
+**2019-08-28:** Major re-write for the video.<br/>
+**2019-08-15:** Pre-release (before finishing the video).
 </p>
 
 
@@ -71,7 +72,7 @@ If you know of any changes, please leave a comment, or contact me at <{{ site.em
 
 ## Video
 
-{% include youtube-player.html id="Q6zOD_U8Qz8" %}
+{% include youtube-player.html id="wPlAxCd0_O0" %}
 
 Contains most of the information I have on CutList Optimizer.
 
@@ -152,8 +153,14 @@ So, by forcing people to sign in before save and loading data from cookies [^3],
 
 ## SketchUp
 
-If I learn of any plugins that allow you to export CSV files from SketchUp that can be used with CutList Optimizer, I'll post that here. And if you know of any, leave a comment and let me know. Thanks!
+![](/projects/articles/cutlistoptimizer/2019-08-28.1.02.jpg){: .align-left}
+If I learn of any way to interface SketchUp with CutList Optimizer, I'll post it here.
 
+As I said in the video, I'm pretty sure there's a way to export CSV files from SketchUp that can be imported into CutList Optimizer.
+
+{:style="clear: left"}
+
+If you have any information about this, please leave a comment below, or in the video, or even email me at <{{ site.email }}>. Thanks!
 
 
 
