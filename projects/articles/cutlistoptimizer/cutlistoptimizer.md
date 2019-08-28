@@ -7,7 +7,7 @@ redirect_from:
   - "/CutListOptimizer"
   - "/CutlistOptimizer"
 category: article
-article-image: "/projects/articles/cutlistoptimizer/2019-08-14.1.01.jpg"
+article-image: "/projects/articles/cutlistoptimizer/2019-08-28.1.01.jpg"
 article-description: "CutList Optimizer is a great website for generating cut lists. This articles explains how to use the site."
 back_btn_link: "/articles/"
 back_btn_text: "Back to Articles"
@@ -37,7 +37,7 @@ If you know of any changes, please leave a comment, or contact me at <{{ site.em
 
 
 <p id="top-note" class="panel-note" markdown="1">**Article Changes:**<br/>
-**2019-08-27:** Initial release (sort-of).
+**2019-08-28:** Initial release (sort-of).
 </p>
 
 
@@ -92,7 +92,7 @@ When you use any of the "Save" menu items, i.e. "Save Project" or "Save List", y
 
 And that means <span style="color:red">**your data could get deleted without you realizing it**</span>. For instance, if you clear your browser's history, it'll probably [^2] clear your CutList Optimizer's saved data.
 
-![](/projects/articles/cutlistoptimizer/2019-08-14.1.04.jpg){: .image-border}{: .align-left}
+![](/projects/articles/cutlistoptimizer/2019-08-28.1.04.jpg){: .image-border}{: .align-left}
 So I recommend that you export your data to CSV files on your computer.
 
 Click each of two menus circled in blue, and use the "Export" option (blue box).
@@ -112,23 +112,23 @@ You can still use the "Save" menu items, just make sure you have a recent copy o
 
 ## Sign In Button
 
-![](/projects/articles/cutlistoptimizer/2019-08-14.1.05.jpg){: .image-border}{: .align-left}
+![](/projects/articles/cutlistoptimizer/2019-08-28.1.05.jpg){: .image-border}{: .align-left}
 A new "Sign In" button was added in the upper right, and I think it was added 2019-08-21.
 
 {:style="clear: left"}
 
-![](/projects/articles/cutlistoptimizer/2019-08-14.1.06.jpg){: .image-border}{: .align-left}
+![](/projects/articles/cutlistoptimizer/2019-08-28.1.06.jpg){: .image-border}{: .align-left}
 You must be signed in to save or load a project (or save or load a list).
 
 {:style="clear: left"}
 
-![](/projects/articles/cutlistoptimizer/2019-08-14.1.07.jpg){: .image-border}{: .align-left}
+![](/projects/articles/cutlistoptimizer/2019-08-28.1.07.jpg){: .image-border}{: .align-left}
 If you're *not* signed in, you'll get a message saying that you must be signed in...
 
 {:style="clear: left"}
 
 
-[![](/projects/articles/cutlistoptimizer/2019-08-14.1.08.jpg){: width="400px"}{: .image-border}](/projects/articles/cutlistoptimizer/2019-08-14.1.08.jpg){:target="_blank"}{: .align-left}
+[![](/projects/articles/cutlistoptimizer/2019-08-28.1.08.jpg){: width="400px"}{: .image-border}](/projects/articles/cutlistoptimizer/2019-08-28.1.08.jpg){:target="_blank"}{: .align-left}
 ...and then you'll get this sign-in form.<br/>
 *Click image to view full sized.*
 
@@ -164,12 +164,12 @@ If I learn of any plugins that allow you to export CSV files from SketchUp that 
 
 There's a couple of error messages that you might encounter, and I think <span style="color:red">**sometimes you get them as a result of a bug**</span>.
 
-![](/projects/articles/cutlistoptimizer/2019-08-14.1.09.jpg){: .align-left}
+![](/projects/articles/cutlistoptimizer/2019-08-28.1.09.jpg){: .align-left}
 I think this one means you can't run "Calculation" in multiple browser windows or tabs at the same time.
 
 {:style="clear: left"}
 
-![](/projects/articles/cutlistoptimizer/2019-08-14.1.10.jpg){: .align-left}
+![](/projects/articles/cutlistoptimizer/2019-08-28.1.10.jpg){: .align-left}
 This one is kind of self-explanatory. I'd like to say this to people myself, sometimes. "*My brain is experiencing some issues. Try again later.*"
 
 {:style="clear: left"}
