@@ -1,4 +1,25 @@
 {
+  "kbfnTOzh7_4": {
+    "id": "kbfnTOzh7_4",
+    "title": "Create Cut Sheets & Cut Lists for Free! With CutList Optimizer",
+    "description": "CutList Optimizer is a free website that creates cut lists and cut sheets for you automatically, with the click of a button. Learn all about it in this video. Index below.",
+    "publishedAt": "2019-08-28T23:09:28.000Z",
+    "thumbnailUrl": "https://i.ytimg.com/vi/kbfnTOzh7_4/mqdefault.jpg",
+    "categories": [
+      {
+        "name": "reviews"
+      },
+      {
+        "name": "measuring-and-marking"
+      },
+      {
+        "name": "sawing"
+      },
+      {
+        "name": "tips-and-techniques"
+      }
+    ]
+  },
   "wUaBOSx4--o": {
     "id": "wUaBOSx4--o",
     "title": "Wixey Saw Fence Digital Readout - Installation, Calibration & Review",
@@ -42,7 +63,7 @@
         "name": "projects"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       }
     ]
   },
@@ -107,7 +128,7 @@
         "name": "sawstop"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       }
     ]
   },
@@ -137,7 +158,7 @@
         "name": "safety"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       }
     ]
   },
@@ -200,7 +221,7 @@
         "name": "tips-and-techniques"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       }
     ]
   },
@@ -227,7 +248,7 @@
         "name": "tips-and-techniques"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       }
     ]
   },
@@ -258,7 +279,7 @@
         "name": "reviews"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       }
     ]
   },
@@ -628,7 +649,7 @@
         "name": "projects"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       },
       {
         "name": "crosscut-sleds"
@@ -646,7 +667,7 @@
         "name": "projects"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       },
       {
         "name": "crosscut-sleds"
@@ -664,7 +685,7 @@
         "name": "crosscut-sleds"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       },
       {
         "name": "runners"
@@ -682,7 +703,7 @@
         "name": "crosscut-sleds"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       },
       {
         "name": "runners"
@@ -718,7 +739,7 @@
         "name": "projects"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       }
     ]
   },
@@ -743,7 +764,7 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/ZUZ8hRm7a8g/mqdefault.jpg",
     "categories": [
       {
-        "name": "table-saws"
+        "name" : "sawing"
       },
       {
         "name": "safety"
@@ -758,7 +779,7 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/01R7796JoQo/mqdefault.jpg",
     "categories": [
       {
-        "name": "table-saws"
+        "name" : "sawing"
       },
       {
         "name": "tips-and-techniques"
@@ -818,7 +839,7 @@
         "name": "reviews"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       }
     ]
   },
@@ -848,7 +869,7 @@
         "name": "crosscut-sleds"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       }
     ]
   },
@@ -1012,7 +1033,7 @@
         "name": "tips-and-techniques"
       },
       {
-        "name": "table-saws"
+        "name" : "sawing"
       },
       {
         "name": "crosscut-sleds"
@@ -1066,7 +1087,7 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/eXt9AW7ZhoM/mqdefault.jpg",
     "categories": [
       {
-        "name": "table-saws"
+        "name" : "sawing"
       }
     ]
   },
@@ -1078,7 +1099,7 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/AignFa1374E/mqdefault.jpg",
     "categories": [
       {
-        "name": "table-saws"
+        "name" : "sawing"
       }
     ]
   },
@@ -1150,7 +1171,7 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/cFxjeDvJhew/mqdefault.jpg",
     "categories": [
       {
-        "name": "table-saws"
+        "name" : "sawing"
       },
       {
         "name": "tips-and-techniques"
