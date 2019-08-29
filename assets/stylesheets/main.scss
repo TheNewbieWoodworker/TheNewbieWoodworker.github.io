@@ -13,6 +13,10 @@ td, th {
   border: 0;
  }
 
+code {
+  white-space : pre-wrap !important;
+}
+
 .hidden {
  display: none;
 }
@@ -114,8 +118,12 @@ hr.hr-thick {
   border-radius: 6px;
   // line-height: 18px;
   overflow: hidden;
-  padding: 15px 20px 15px 65px;
-  min-height: 60px;
+  padding: 13px 20px 15px 65px;
+  min-height: 80px;
+}
+
+.panel-note.top-padding {
+  padding-top: 25px;
 }
 
 .panel-warning
@@ -130,6 +138,10 @@ hr.hr-thick {
   border-radius: 6px;
   // line-height: 18px;
   overflow: hidden;
-  padding: 15px 20px 15px 65px;
-  min-height: 60px;
+  padding: 13px 20px 15px 65px;
+  min-height: 80px;
+}
+
+.panel-warning.top-padding {
+  padding-top: 25px;
 }
