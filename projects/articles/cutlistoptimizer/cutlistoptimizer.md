@@ -27,7 +27,7 @@ back_btn_text: "Back to Articles"
 
 <hr class="hr-medium" style="margin-top: 30px; margin-bottom: 30px;"/>
 
-<p class="panel-warning" markdown="1">**Changes since the Video was released:**<br/>
+<p class="panel-warning" markdown="1">**Changes to CutList Optimizer since the Video was released:**<br/>
 
 No known changes since the video was released.<br/><br/>
 
@@ -37,6 +37,7 @@ If you know of any changes, please leave a comment, or contact me at <{{ site.em
 
 
 <p id="top-note" class="panel-note" markdown="1">**Article Changes:**<br/>
+**2019-08-30:** Added "About the Author of CutList Optimizer"<br/>
 **2019-08-28:** Major re-write for the video.<br/>
 **2019-08-15:** Pre-release (before finishing the video).
 </p>
@@ -55,6 +56,7 @@ If you know of any changes, please leave a comment, or contact me at <{{ site.em
 <span style="color:red; font-size: 1.5em;">**!!**</span> Please read the sections marked with red exclamation marks <span style="color:red; font-size: 1.5em;">**!!**</span>
 
 1. [Video](#video1)
+1. [About the Author of CutList Optimizer](#abouttheauthor)
 1. <span style="color:red; font-size: 1.5em;">**!!**</span> [How NOT to Lose Your Data](#hownottoloseyourdata)
 1. [Sign-In Button](#signinbutton)
 1. [SketchUp](#sketchup1)
@@ -76,6 +78,33 @@ If you know of any changes, please leave a comment, or contact me at <{{ site.em
 
 Contains most of the information I have on CutList Optimizer.
 
+
+
+
+
+
+<hr id="abouttheauthor" class="hr-thick" style="margin-bottom: 30px;">
+
+
+
+## About the Author of CutList Optimizer
+
+About six months ago, I exchanged a few emails with the guy who created CLO. I asked him a few questions, and here's a portion of his reply I think you might find interesting:
+
+> 2019-02-22
+>
+> Sorry for the delayed response, lots of mails to go through! [Edit: It was two weeks before he had a chance to reply]
+>
+> I'm just one guy that started doing this in the free time as an hobby. Didn't know the site would be useful to this many users.
+> Woodworking is not my area of expertise so, I rely heavily on user feedback to add features or fix issues.
+>
+> A friend told me this thing would be useful so, I started by creating a really simple site and, as I've seen it started to get traffic, I began to add features and improve it.
+>
+> For the time being, the site is free to use and, the plans are, to collect feedback, fix issues and add features according the feedback. Perhaps, in the future, I'll implement some monetization strategy and see how it goes.
+
+He also mentioned that he subscribed to my channel, which was nice. But since it's taken me half a year to finally do the video, who knows whether he still bothers with my channel or not. I wish him the best.
+
+And Pedro, if you ever want to drop me an email from a mailbox that isn't so busy, feel free. Who knows, maybe I can help somehow - but not with writing code, I'll leave that to you! 😮
 
 
 
