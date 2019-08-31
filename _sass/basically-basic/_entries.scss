@@ -27,9 +27,31 @@
   }
 }
 
+.entry-image {
+  width: 100%;
+  margin-bottom: 1rem;
+}
+
 .entry-meta {
   @include fluid-type($min-vw, $max-vw, 12px, 16px);
   margin-bottom: 1rem;
+
+  ul {
+    @include list-unstyled();
+
+    @include breakpoint(max-width $medium) {
+      li {
+        display: inline-block;
+        margin-right: 1.5rem;
+      }
+    }
+
+    @include breakpoint($medium) {
+      li {
+        padding-bottom: 0.5rem;
+      }
+    }
+  }
 
   a {
     color: inherit;
@@ -51,7 +73,7 @@
    Entry list
    ========================================================================== */
 
-.entries {
+.entries-list {
   .entry-title {
     word-wrap: break-word; /* break long words that could overflow */
 
@@ -92,23 +114,6 @@
       float: right;
       width: span(5 of 16 last);
       padding-left: gutter(1 of 16);
-    }
-
-    ul {
-      @include list-unstyled();
-
-      @include breakpoint(max-width $medium) {
-        li {
-          display: inline-block;
-          margin-right: 1.5rem;
-        }
-      }
-
-      @include breakpoint($medium) {
-        li {
-          padding-bottom: 0.5rem;
-        }
-      }
     }
   }
 
