@@ -29,8 +29,8 @@ author:
   picture: /assets/images/me.jpg
 instagram_username: thenewbiewoodworker
 youtube_username: thenewbiewoodworker
-search: true
-search_full_content: true
+search: false
+# search_full_content: true
 
 # Build settings
 markdown: kramdown
