@@ -37,7 +37,8 @@ If you know of any changes, please leave a comment, or contact me at <{{ site.em
 
 
 <p id="top-note" class="panel-note" markdown="1">**Article Changes:**<br/>
-**2019-08-30:** Added "About the Author of CutList Optimizer"<br/>
+**2019-09-03:** Added the [SketchUp plugin](#sketchup1) [OpenCutList](https://extensions.sketchup.com/en/content/lair-du-bois-sketchup-toolbox-0){:target="_blank"}.<br/>
+**2019-08-30:** Added "[About the Author of CutList Optimizer](#abouttheauthor)"<br/>
 **2019-08-28:** Major re-write for the video.<br/>
 **2019-08-15:** Pre-release (before finishing the video).
 </p>
@@ -190,6 +191,14 @@ As I said in the video, I'm pretty sure there's a way to export CSV files from S
 {:style="clear: left"}
 
 If you have any information about this, please leave a comment below, or in the video, or even email me at <{{ site.email }}>. Thanks!
+
+### SketchUp Plugins
+
+#### [OpenCutList](https://extensions.sketchup.com/en/content/lair-du-bois-sketchup-toolbox-0){:target="_blank"}
+
+This is a free SketchUp Plugin that's also open source (kudos). I haven't tried it yet, but it looks **very** promising.
+
+
 
 
 
