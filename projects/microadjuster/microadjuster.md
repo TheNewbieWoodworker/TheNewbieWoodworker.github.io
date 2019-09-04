@@ -3,6 +3,10 @@ layout: post
 title: "Micro-Adjuster for Table Saw Fences"
 permalink: "/projects/microadjuster/"
 redirect_from: "/projects/micro-adjuster/"
+category: project
+project-sort-order: "05"
+project-image: "/projects/microadjuster/2019-07-08.1.02.jpg"
+project-description: "How to use a dial indicator to adjust your table saw's fence by small amounts."
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---

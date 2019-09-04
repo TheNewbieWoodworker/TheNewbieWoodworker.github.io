@@ -3,6 +3,10 @@ layout: post
 title: "Corn Cob Skewers"
 permalink: "/projects/corncobskewers/"
 redirect_from: "/plans/corncobskewers"
+category: project
+project-sort-order: "01"
+project-image: "/projects/corncobskewers/corn_cob_skewers_150.jpg"
+project-description: "Corn Cobb Skewers make a great Christmas gift."
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---

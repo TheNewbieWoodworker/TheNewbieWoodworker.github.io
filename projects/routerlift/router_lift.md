@@ -3,6 +3,10 @@ layout: post
 title: "Router Lift"
 permalink: "/projects/routerlift/"
 redirect_from: "/plans/routerlift"
+category: project
+project-sort-order: "03"
+project-image: "/projects/routerlift/router_lift_150.png"
+project-description: "How to build my lever-operated router lift, including plans."
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---

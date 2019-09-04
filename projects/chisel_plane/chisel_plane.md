@@ -3,6 +3,10 @@ layout: post
 title: "Chisel Plane & Sheath"
 permalink: "/projects/chisel_plane/"
 redirect_from: "/plans/chisel_plane/"
+category: project
+project-sort-order: "04"
+project-image: "/projects/chisel_plane/chisel_plane_and_sheath_150.png"
+project-description: "Really useful tool for getting to hard-to-reach areas."
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---
