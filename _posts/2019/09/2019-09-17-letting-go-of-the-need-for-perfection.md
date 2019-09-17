@@ -1,5 +1,5 @@
 ---
-title: "Let go of the need for perfection"
+title: "Letting go of the need for perfection"
 layout: post
 ---
 ![](/assets/images-posts/2019/09/2019-09-017.1.01.jpg)
