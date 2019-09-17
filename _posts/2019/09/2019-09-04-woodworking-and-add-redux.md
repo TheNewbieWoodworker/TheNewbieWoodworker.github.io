@@ -11,7 +11,7 @@ This post is about how my <span style="color:blue">**ADD affects my woodworking*
 
 I run into all sorts of reactions when I try to explain what it's like to live with ADD. Many people are open to learning about it.
 
-But a lot of peopler think "<span style="color:blue"><b>everyone has that</b></span>", and if you just "<span style="color:blue">**stay focused**</span>", or "<span style="color:blue">**try harder**</span>", then it won't be an issue.
+But a lot of people think "<span style="color:blue"><b>everyone has that</b></span>", and if you just "<span style="color:blue">**stay focused**</span>", or "<span style="color:blue">**try harder**</span>", then it won't be an issue.
 
 If that's you, <span style="color:blue">**I'd like to challenge you**</span> to imagine, for the next few minutes, that <span style="color:blue">**maybe not everyone is the same**</span>.
 
