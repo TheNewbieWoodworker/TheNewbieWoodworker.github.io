@@ -10,6 +10,8 @@
     "gooseneck-mirror"
   ],
   "clamping": [
+    "jorgensen-clamp-12",
+    "jorgensen-clamp-18",
     "wood-clamp-10",
     "rockler-clamp-it-corner-clamping-jig",
     "rockler-clamp-it-square",
@@ -18,6 +20,7 @@
     "workmate-225-black-and-decker"
   ],
   "cutting": [
+    "galax-pro-angle-grinder",
     "diamond-sharpener",
     "plane-blade"
   ],
@@ -79,6 +82,9 @@
     "vacuum-craftsman-xsp-12-gallon-5.5-peak-hp",
     "dust-right-vacuum-hose-2-1_2-expandable"
   ],
+  "electronics": [
+    "anti-static-mat"
+  ],
   "gluing": [
     "epoxy-glue-gorilla",
     "glue-stick-repositionable-elmers",
@@ -128,15 +134,18 @@
     "speed-squares-7-12-swanson",
     "straight-edge-clamping-guide-36-e.-emerson",
     "t-square-36-alvin",
-    "tape-measure"
+    "tape-measure",
+    "wixey-wr700"
   ],
   "misc": [
     "emerson-air-conditioner",
+    "panasonic-battery-charger",
     "branding-iron",
     "canary-corrugated-cardboard-cutter",
     "low-profile-casters",
     "coupling-nut-1_4-20-x-1-50",
     "diamond-sharpener",
+    "3m-face-shield",
     "flip-stop-2-1_4-rockler",
     "heat-gun-genesis",
     "heat-gun-steinel",
@@ -189,6 +198,7 @@
   ],
   "sanding": [
     "abrasive-cleaning-stick",
+    "galax-pro-angle-grinder",
     "wen-belt-and-disc-sander",
     "cabinet-scraper",
     "contour-sanding-grips",
@@ -202,6 +212,7 @@
     "sanding-drum-kit-powertec"
   ],
   "sawing": [
+    "galax-pro-angle-grinder",
     "featherboards-drillpro",
     "fence-clamps-milescraft",
     "fence-clamps-powertec",

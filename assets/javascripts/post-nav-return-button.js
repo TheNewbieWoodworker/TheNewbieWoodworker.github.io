@@ -57,6 +57,9 @@ function myParseQueryString() {
     case "articles":
       setupReturnButton("/articles/", "Back to Articles");
       break;
+    case "sawstop":
+      setupReturnButton("/sawstop/", "Back to SawStop");
+      break;
     default:
       console.log("Unknown fromInfo");
   }

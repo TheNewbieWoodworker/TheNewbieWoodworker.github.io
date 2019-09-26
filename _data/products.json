@@ -1,4 +1,16 @@
 {
+  "12v-dc-power-supply": {
+    "id": "12v-dc-power-supply",
+    "title": "12v DC Power Supply",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07KR392XQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2ZS5vUB",
+    "categories": [
+      {
+        "name": "electronics"
+      }
+    ]
+  },
   "abrasive-cleaning-stick": {
     "id": "abrasive-cleaning-stick",
     "title": "Abrasive Cleaning Stick",
@@ -8,6 +20,18 @@
     "categories": [
       {
         "name": "sanding"
+      }
+    ]
+  },
+  "adhesive-pcb-feet": {
+    "id": "adhesive-pcb-feet",
+    "title": "Adhesive PCB Feet",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00R4ZT1FY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2HNFxLz",
+    "categories": [
+      {
+        "name": "electronics"
       }
     ]
   },
@@ -62,6 +86,42 @@
       },
       {
         "name": "sawing"
+      }
+    ]
+  },
+  "anti-static-mat": {
+    "id": "anti-static-mat",
+    "title": "Anti-Static Mat",
+    "text": "A decent, inexpensive anti-static mat.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DFJRQQ7&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2LrUeoz",
+    "categories": [
+      {
+        "name": "electronics"
+      }
+    ]
+  },
+  "aviation-connector-3-pin": {
+    "id": "aviation-connector-3-pin",
+    "title": "Aviation Connector 3-pin",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06XRT2YFV&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2MUVFiu",
+    "categories": [
+      {
+        "name": "electronics"
+      }
+    ]
+  },
+  "aviation-connector-4-pin": {
+    "id": "aviation-connector-4-pin",
+    "title": "Aviation Connector 4-pin",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07JB23RHX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2MUCmpt",
+    "categories": [
+      {
+        "name": "electronics"
       }
     ]
   },
@@ -362,6 +422,18 @@
     "categories": [
       {
         "name": "misc"
+      }
+    ]
+  },
+  "dc-power-jack-socket": {
+    "id": "dc-power-jack-socket",
+    "title": "DC Power Jack Socket",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07LF1193N&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2LiLZw8",
+    "categories": [
+      {
+        "name": "electronics"
       }
     ]
   },
@@ -982,6 +1054,18 @@
       }
     ]
   },
+  "helping-hands": {
+    "id": "helping-hands",
+    "title": "Helping Hands",
+    "text": "An absolute must-have if you're soldering wires.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002PIA6Z4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2MVBAZk",
+    "categories": [
+      {
+        "name": "electronics"
+      }
+    ]
+  },
   "hex-key-set-workpro": {
     "id": "hex-key-set-workpro",
     "title": "Hex Key Set (Workpro)",
@@ -1343,6 +1427,18 @@
       }
     ]
   },
+  "neodymium-magnets-dia-1-26x1-8-w-3m-adhesives": {
+    "id": "neodymium-magnets-dia-1-26x1-8-w-3m-adhesives",
+    "title": "Neodymium Magnets Dia 1.26x1/8\" w/ 3M Adhesives",
+    "text": "Fantastic packaging to help keep the magnets from shattering, and make them easier to get apart.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01I1ZB2SE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2Li3Ljb",
+    "categories": [
+      {
+        "name": "misc"
+      }
+    ]
+  },
   "johnson-paste-wax": {
     "id": "johnson-paste-wax",
     "title": "Paste Wax (Johnson)",
@@ -1355,6 +1451,18 @@
       },
       {
         "name": "sawing"
+      }
+    ]
+  },
+  "photoresistor-relay-module": {
+    "id": "photoresistor-relay-module",
+    "title": "Photoresistor Relay Module",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M67V8AQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2Ls06y7",
+    "categories": [
+      {
+        "name": "electronics"
       }
     ]
   },
@@ -1437,6 +1545,18 @@
     "categories": [
       {
         "name": "sanding"
+      }
+    ]
+  },
+  "red-green-light-tower": {
+    "id": "red-green-light-tower",
+    "title": "Red/Green Light Tower",
+    "text": "This came from China. You might want to find a more local version.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DMZX5RF&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2PMmE1W",
+    "categories": [
+      {
+        "name": "electronics"
       }
     ]
   },
@@ -1979,6 +2099,18 @@
       }
     ]
   },
+  "soldering-iron-stand": {
+    "id": "soldering-iron-stand",
+    "title": "Soldering Iron Stand",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07FP3P74Y&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2LxqVBg",
+    "categories": [
+      {
+        "name": "Electronics"
+      }
+    ]
+  },
   "speed-squares-7-12-swanson": {
     "id": "speed-squares-7-12-swanson",
     "title": "Speed Squares -7\" & 12\" (Swanson)",
@@ -2162,6 +2294,18 @@
       }
     ]
   },
+  "toggle-switch-spst-waterproof": {
+    "id": "toggle-switch-spst-waterproof",
+    "title": "Toggle Switch SPST Waterproof",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01IYD8SHQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2ZMLZbO",
+    "categories": [
+      {
+        "name": "electronics"
+      }
+    ]
+  },
   "tool-drawer-liner-hf": {
     "id": "tool-drawer-liner-hf",
     "title": "Tool Drawer Liner (Harbor Freight)",
@@ -2197,6 +2341,18 @@
     "categories": [
       {
         "name": "sawing"
+      }
+    ]
+  },
+  "utility-box": {
+    "id": "utility-box",
+    "title": "Utility Box",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B005T5A0W4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2PJQVyy",
+    "categories": [
+      {
+        "name": "electronics"
       }
     ]
   },

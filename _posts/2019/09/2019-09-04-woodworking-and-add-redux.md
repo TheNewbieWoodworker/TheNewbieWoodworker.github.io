@@ -1,6 +1,15 @@
 ---
 title: "Woodworking and ADD (redux)"
 layout: post
+permalink: "/2019/09/04/woodworking-and-add-redux.html"
+redirect_from:
+  - "/add/"
+  - "/ADD/"
+  - "/adhd/"
+  - "/ADHD/"
+category: article
+article-image: "/assets/images-posts/2019/09/2019-09-04.1.01.jpg"
+article-description: "About my issues with ADD while trying to do woodworking, and not kill or main myself."
 ---
 ![](/assets/images-posts/2019/09/2019-09-04.1.01.jpg)
 <br/>

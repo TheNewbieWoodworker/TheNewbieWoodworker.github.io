@@ -5,6 +5,14 @@ permalink: "/sawstop/"
 back_btn_link: "/"
 back_btn_text: "Back to the Main Page"
 ---
+## StupidStop (aka SawStop Light)
+
+[![](/projects/stupidstop/2019-09-04.1.01.jpg){:width="400px"}{: .image-border}](/projects/stupidstop/?from=sawstop){: .align-left}
+Information about [my StupidStop](/projects/stupidstop/?from=sawstop).
+
+{:style="clear: left"}
+
+<br/>
 ## Details on my new PCS
 
 [![](/assets/images-posts/2019/03/2019-03-24.1.01.jpg){:width="400px"}{: .image-border}](pcs/new/){: .align-left}
