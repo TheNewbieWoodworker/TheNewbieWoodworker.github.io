@@ -19,7 +19,7 @@
   {% else %}
     {% assign products = site.data.products-by-video[video.id] %}
     {% if products %}
-      {% capture productsLink %}/video/{{ video.id }}/{% endcapture %}
+      {% capture productsLink %}/video/{{ video.uid }}/{% endcapture %}
     {% else %}
       {% assign productsLink = nil %}
     {% endif %}
