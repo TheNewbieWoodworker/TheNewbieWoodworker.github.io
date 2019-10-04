@@ -19,7 +19,7 @@ So like I said, I bought it because I could. (And I figured out how to fit it in
 
 ## The reasons I almost didn't buy it
 
-I'll quote from [another blog post]({{ site.baseurl }}{% post_url 2019/03/2019-03-19-sawstop-pcs-pt2 %}), where I thought I had decided not to buy it:
+I'll quote from [another blog post](/2019/03/19/sawstop-pcs-pt2), where I thought I had decided not to buy it:
 
 >There's a lot of reasons, one of them being I don't want to deal with a 4" dust collection port.
 >
