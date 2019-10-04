@@ -86,6 +86,16 @@ Lots of good information here on how the SawStop brake logic works. [Check it ou
 {:style="clear: left"}
 
 <br/>
+## NEW! SawStop Service Portal
+
+[![](sawstop_service_portal.jpg){:width="400px"}{: .image-border}](https://www.sawstop.com/support/service-tips){:target="_blank"}{: .align-left}
+SawStop has added a new "[service portal](https://www.sawstop.com/support/service-tips){:target="_blank"}" that has videos and articles with "service tips" for all their table saws.
+
+If you own a SawStop, make sure you check it out.
+
+{:style="clear: left"}
+
+<br/>
 ## Helpful SawStop Links (Trent Davis)
 
 [![](sawstop_logo.jpg){:width="400px"}{: .image-border}](https://www.trentdavis.net/wp/2018/08/06/helpful-sawstop-links/){:target="_blank"}{: .align-left}
