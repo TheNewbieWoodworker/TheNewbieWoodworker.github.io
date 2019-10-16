@@ -37,12 +37,16 @@ layout: default
 {% if page.video-category == "all" %}
   {% for video_hash in site.data.videos  %}
     {% assign video = video_hash[1] %}
-    {% include video-entry.html %}
+    {% if video.hidden != "true" %}
+      {% include video-entry.html %}
+    {% endif %}
   {% endfor %}
 {% else %}
   {% for video-id in site.data.videos-by-category[page.video-category]  %}
     {% assign video = site.data.videos[video-id] %}
-    {% include video-entry.html %}
+    {% if video.hidden != "true" %}
+      {% include video-entry.html %}
+    {% endif %}
   {% endfor %}
 {% endif %}
   </div>

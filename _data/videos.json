@@ -1122,6 +1122,7 @@
     "description": "Quick video to show you how to cut &quot;runners&quot;, aka Miter Bars, on your table saw. Learn how to &quot;sneak up&quot; on a cut!",
     "publishedAt": "2017-12-13T00:20:36.000Z",
     "thumbnailUrl": "https://i.ytimg.com/vi/hbODKq9kuW4/mqdefault.jpg",
+    "hidden": "true",
     "categories": [
       {
         "name": "tips-and-techniques"
