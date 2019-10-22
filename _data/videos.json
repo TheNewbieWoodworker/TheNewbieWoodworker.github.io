@@ -7,7 +7,8 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/AlUCDzM3gzY/mqdefault.jpg",
     "categories": [
       {
-        "name": "crosscut-sleds"
+        "name": "crosscut-sleds",
+        "sortOrder": "01"
       },
       {
         "name": "safety"
@@ -739,7 +740,8 @@
         "name": "sawing"
       },
       {
-        "name": "crosscut-sleds"
+        "name": "crosscut-sleds",
+        "sortOrder": "02"
       }
     ],
     "uid": "45"
@@ -967,7 +969,8 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/mLj1MeWKalI/mqdefault.jpg",
     "categories": [
       {
-        "name": "crosscut-sleds"
+        "name": "crosscut-sleds",
+        "sortOrder": "03"
       },
       {
         "name": "sawing"
