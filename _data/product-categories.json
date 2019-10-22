@@ -1,4 +1,5 @@
 [
+  "Electronics",
   "books",
   "cameras",
   "clamping",
@@ -12,5 +13,6 @@
   "misc",
   "routing",
   "sanding",
-  "sawing"
+  "sawing",
+  "squares"
 ]

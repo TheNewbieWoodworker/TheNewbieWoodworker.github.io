@@ -1,4 +1,7 @@
 {
+  "Electronics": [
+    "soldering-iron-stand"
+  ],
   "books": [
     "care-and-repair-of-shop-machines-book"
   ],
@@ -62,6 +65,7 @@
   "dust-collection": [
     "wen-3410-air-filtration-system",
     "anemometer",
+    "blast-gate-2.5",
     "dust-collection-hose-clear-2-1_2-powertec",
     "dust-collection-hose-clear-4-powertec",
     "dust-deputy",
@@ -73,8 +77,10 @@
     "flexform-hose-only-4-rockler",
     "flexform-hose-kit-2-1_2-rockler",
     "flexform-hose-kit-4-rockler",
+    "flexible-hose-kit-2-1_2-powertec",
     "heat-gun-genesis",
     "heat-gun-steinel",
+    "hose-clamps-10-pack-2.5-glidestore",
     "hose-clamps-5-pack-2-1_2-powertec",
     "lid-opener",
     "remote-control-outlet-switch-westek",
@@ -83,7 +89,17 @@
     "dust-right-vacuum-hose-2-1_2-expandable"
   ],
   "electronics": [
-    "anti-static-mat"
+    "12v-dc-power-supply",
+    "adhesive-pcb-feet",
+    "anti-static-mat",
+    "aviation-connector-3-pin",
+    "aviation-connector-4-pin",
+    "dc-power-jack-socket",
+    "helping-hands",
+    "photoresistor-relay-module",
+    "red-green-light-tower",
+    "toggle-switch-spst-waterproof",
+    "utility-box"
   ],
   "gluing": [
     "epoxy-glue-gorilla",
@@ -129,8 +145,8 @@
     "miter-gauge-incra-v120",
     "miter-gauge-incra-v27",
     "precision-steel-squares-kaufhof",
-    "saw-gauge-igaging",
     "saw-gauge-woodpeckers",
+    "saw-gauge-igaging",
     "speed-squares-7-12-swanson",
     "straight-edge-clamping-guide-36-e.-emerson",
     "t-square-36-alvin",
@@ -156,6 +172,7 @@
     "loctite-threadlocker-blue",
     "magnetic-parts-tray",
     "magnetic-telescoping-flashlight",
+    "neodymium-magnets-dia-1-26x1-8-w-3m-adhesives",
     "johnson-paste-wax",
     "plane-blade",
     "power-tool-switch-rockler",
@@ -234,8 +251,8 @@
     "rotary-tool-kit-wen",
     "router-bit-and-saw-blade-cleaning-kit-rockler",
     "freud-box-joint-cutter-set",
-    "saw-gauge-igaging",
     "saw-gauge-woodpeckers",
+    "saw-gauge-igaging",
     "sawstop-brake-cartridge-10",
     "sawstop-dado-brake-cartridge-8",
     "sawstop-jobsite-saw-dado-zero-clearance-insert-plate",
@@ -244,5 +261,11 @@
     "uhmw-plastic-4-x-24-x-3_8",
     "wen-6-inch-waxer_polisher",
     "wixey-wr700"
+  ],
+  "squares": [
+    "precision-steel-squares-kaufhof",
+    "framing-square-12-1_2-x-8-johnson",
+    "framing-square-24-x-16-johnson",
+    "speed-squares-7-12-swanson"
   ]
 }

@@ -979,6 +979,9 @@
     "categories": [
       {
         "name": "measuring-marking"
+      },
+      {
+        "name": "squares"
       }
     ]
   },
@@ -991,6 +994,9 @@
     "categories": [
       {
         "name": "measuring-marking"
+      },
+      {
+        "name": "squares"
       }
     ]
   },
@@ -1135,7 +1141,7 @@
     "link": "https://amzn.to/2n0bEAJ",
     "categories": [
       {
-        "name": "dust collection"
+        "name": "dust-collection"
       }
     ]
   },
@@ -1541,6 +1547,10 @@
     "categories": [
       {
         "name": "measuring-marking"
+      },
+      {
+        "name": "squares",
+        "sortOrder": "01"
       }
     ]
   },
@@ -2156,6 +2166,9 @@
     "categories": [
       {
         "name": "measuring-marking"
+      },
+      {
+        "name": "squares"
       }
     ]
   },
