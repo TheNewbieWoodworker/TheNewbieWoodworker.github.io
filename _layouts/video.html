@@ -17,6 +17,11 @@ layout: default
 <p></p>
 
 {% assign products = site.data.products-by-video[page.video-id]  %}
+
+{% unless page.hide-description %}
+<p>{{ site.data.videos[page.video-id].description }}</p>
+{% endunless %}
+
 {% if products %}
 <h3 id="products">Products</h3>
 
