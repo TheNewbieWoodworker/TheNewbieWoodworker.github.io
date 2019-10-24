@@ -2,7 +2,12 @@
 layout: post
 title: "Micro-Adjuster for Table Saw Fences"
 permalink: "/projects/microadjuster/"
-redirect_from: "/projects/micro-adjuster/"
+redirect_from:
+  - "/projects/micro-adjuster/"
+  - "/microadjuster/"
+  - "/MicroAdjuster/"
+  - "micro-adjuster"
+  - "Micro-Adjuster/"
 category: project
 project-sort-order: "05"
 project-image: "/projects/microadjuster/2019-07-08.1.02.jpg"
