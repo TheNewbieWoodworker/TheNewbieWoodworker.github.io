@@ -533,7 +533,7 @@
     "id": "forstner-bit-12mm",
     "title": "Drill Bit - Forstner - 12mm",
     "text": "",
-    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000P4HLEY&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "image": "/assets/images-products/cmt-forstner-bit-12mm.jpg",
     "link": "https://amzn.to/2GYCb8q",
     "categories": [
       {
@@ -593,7 +593,7 @@
     "id": "hole-saw-2-dewalt",
     "title": "Drill Bit - Hole Saw - 2\" (DEWALT)",
     "text": "",
-    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00005LEZ9&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "image": "/assets/images-products/dewalt-hole-saw-2-inch.jpg",
     "link": "https://amzn.to/2CzYpsO",
     "categories": [
       {
@@ -959,6 +959,9 @@
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002YHZAM0&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2JrkAnD",
     "categories": [
+      {
+        "name": "miter-and-t-slots"
+      },
       {
         "name": "drilling"
       },
@@ -1348,7 +1351,7 @@
     "id": "mending-plate-10-pack-2",
     "title": "Mending Plate - 10-pack - 2\"",
     "text": "",
-    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074XDS4WQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "image": "/assets/images-products/mending-plate-2-inch.jpg",
     "link": "https://amzn.to/2pJFvuV",
     "categories": [
       {
@@ -1401,11 +1404,20 @@
     "id": "micro-jig-zeroplay-miter-bar",
     "title": "Miter Bar (Micro Jig ZeroPlay)",
     "text": "If you can't <a href=\"https://youtu.be/0gvx-_YipOs\" target=\"_blank\">make your own runners</a>, this is a great option.",
-    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003E601JM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "image": "/assets/images-products/zeroplay-miter-bar.jpg",
     "link": "https://amzn.to/2CaSaeY",
     "categories": [
       {
+        "name": "miter-and-t-slots"
+      },
+      {
         "name": "sawing"
+      },
+      {
+        "name": "hardware"
+      },
+      {
+        "name": "misc"
       }
     ]
   },
@@ -1417,10 +1429,16 @@
     "link": "https://amzn.to/2B3LhdN",
     "categories": [
       {
+        "name": "miter-and-t-slots"
+      },
+      {
         "name": "sawing"
       },
       {
         "name": "routing"
+      },
+      {
+        "name": "misc"
       }
     ]
   },
@@ -1431,6 +1449,9 @@
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001RCTTG6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2CtwxK5",
     "categories": [
+      {
+        "name": "miter-and-t-slots"
+      },
       {
         "name": "measuring-marking"
       },
@@ -1447,6 +1468,9 @@
     "link": "https://amzn.to/2CGlg6T",
     "categories": [
       {
+        "name": "miter-and-t-slots"
+      },
+      {
         "name": "measuring-marking"
       },
       {
@@ -1461,6 +1485,9 @@
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00GWL7LXA&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2BWEq8C",
     "categories": [
+      {
+        "name": "miter-and-t-slots"
+      },
       {
         "name": "sawing"
       },
@@ -1500,7 +1527,7 @@
     "id": "photoresistor-relay-module",
     "title": "Photoresistor Relay Module",
     "text": "",
-    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M67V8AQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "image": "/assets/images-products/photoresistor-relay-module.jpg",
     "link": "https://amzn.to/2Ls06y7",
     "categories": [
       {
@@ -1573,7 +1600,7 @@
     "id": "radius-quick-jigs",
     "title": "Radius Quick-Jigs",
     "text": " Use with a router to cut rounded corners ov various sizes. ",
-    "image": "https://ws-na.amazon-adsystem.com/widgets/q?encoding=UTF8&ASIN=B06XPY6D9Q&Format=_SL160&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "image": "/assets/images-products/radius-quick-jigs.jpg",
     "link": "https://amzn.to/2JnF5om",
     "margin-top": "10",
     "categories": [
@@ -1723,6 +1750,9 @@
     "link": "https://amzn.to/2NWBvSm",
     "categories": [
       {
+        "name": "miter-and-t-slots"
+      },
+      {
         "name": "routing"
       }
     ]
@@ -1770,6 +1800,9 @@
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00KZM1RH8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2KjREhN",
     "categories": [
+      {
+        "name": "miter-and-t-slots"
+      },
       {
         "name": "routing"
       }
@@ -1948,6 +1981,9 @@
     "link": "https://amzn.to/2FIXzQb",
     "categories": [
       {
+        "name": "miter-and-t-slots"
+      },
+      {
         "name": "sawing"
       },
       {
@@ -1962,6 +1998,9 @@
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002VRFM9Y&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2HFd0Wc",
     "categories": [
+      {
+        "name": "miter-and-t-slots"
+      },
       {
         "name": "sawing"
       },
@@ -2124,7 +2163,7 @@
     "id": "skateboard-bearings-reds",
     "title": "Skateboard Bearings (Reds)",
     "text": "8 pack of very reliable skateboard bearings",
-    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000FDRQ1S&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "image": "/assets/images-products/skateboard-bearings-reds.jpg",
     "link": "https://amzn.to/2LfJ05L",
     "categories": [
       {
@@ -2242,6 +2281,9 @@
     "link": "https://amzn.to/2Nhuw5A",
     "categories": [
       {
+        "name": "miter-and-t-slots"
+      },
+      {
         "name": "hardware"
       }
     ]
@@ -2254,6 +2296,9 @@
     "link": "https://amzn.to/2DCANVW",
     "categories": [
       {
+        "name": "miter-and-t-slots"
+      },
+      {
         "name": "hardware"
       }
     ]
@@ -2265,6 +2310,9 @@
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N5WC8BK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2LjRUSN",
     "categories": [
+      {
+        "name": "miter-and-t-slots"
+      },
       {
         "name": "hardware"
       }
@@ -2388,6 +2436,9 @@
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001DSY824&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2DfE80g",
     "categories": [
+      {
+        "name": "miter-and-t-slots"
+      },
       {
         "name": "sawing"
       }
