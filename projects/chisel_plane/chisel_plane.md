@@ -2,7 +2,12 @@
 layout: post
 title: "Chisel Plane & Sheath"
 permalink: "/projects/chisel_plane/"
-redirect_from: "/plans/chisel_plane/"
+redirect_from:
+  - "/projects/chisel-plane/"
+  - "/plans/chisel_plane/"
+  - "/plans/chisel-plane/"
+  - "/chisel_plane/"
+  - "/chisel-plane/"
 category: project
 project-sort-order: "04"
 project-image: "/projects/chisel_plane/chisel_plane_and_sheath_150.png"
