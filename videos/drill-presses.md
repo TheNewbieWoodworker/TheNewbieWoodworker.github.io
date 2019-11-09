@@ -5,4 +5,5 @@ video-category: "drill-presses"
 permalink: "/videos/drill-presses/"
 redirect_from:
   - "/drill-presses/"
+  - "/drill-press/"
 ---
