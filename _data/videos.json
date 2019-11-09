@@ -1,4 +1,26 @@
 {
+  "temp01": {
+    "id": "temp01",
+    "title": "Build: Cross Cut Sleds that work with a Blade Guard!",
+    "description": "This is the build video for the video 'Cross Cut Sleds that work with a Blade Guard!'",
+    "publishedAt": "2019-10-29T20:04:56.000Z",
+    "thumbnailUrl": "/projects/blade-guard-sleds/blade-guard-sleds-thumbnail-320.jpg",
+    "articleLink": "/projects/blade-guard-sleds/",
+    "productsLink": "/projects/blade-guard-sleds/",
+    "categories": [
+      {
+        "name": "crosscut-sleds",
+        "sortOrder": "02"
+      },
+      {
+        "name": "safety"
+      },
+      {
+        "name": "sawing"
+      }
+    ],
+    "uid": "92"
+  },
   "AlUCDzM3gzY": {
     "id": "AlUCDzM3gzY",
     "title": "Cross Cut Sleds that work with a Blade Guard!",
@@ -742,7 +764,7 @@
       },
       {
         "name": "crosscut-sleds",
-        "sortOrder": "02"
+        "sortOrder": "03"
       }
     ],
     "uid": "45"
@@ -913,7 +935,8 @@
         "name": "drill-presses"
       },
       {
-        "name": "dust-collection"
+        "name": "dust-collection",
+        "sortOrder": "04"
       }
     ],
     "uid": "36"
@@ -992,7 +1015,7 @@
     "categories": [
       {
         "name": "crosscut-sleds",
-        "sortOrder": "03"
+        "sortOrder": "04"
       },
       {
         "name": "sawing"
@@ -1128,7 +1151,8 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/8rtSmTIPmVU/mqdefault.jpg",
     "categories": [
       {
-        "name": "dust-collection"
+        "name": "dust-collection",
+        "sortOrder": "02"
       }
     ],
     "uid": "22"
@@ -1201,7 +1225,8 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/c2sWwWbAayM/mqdefault.jpg",
     "categories": [
       {
-        "name": "dust-collection"
+        "name": "dust-collection",
+        "sortOrder": "01"
       }
     ],
     "uid": "17"
@@ -1308,7 +1333,8 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/ugUZYmrqejs/mqdefault.jpg",
     "categories": [
       {
-        "name": "dust-collection"
+        "name": "dust-collection",
+        "sortOrder": "03"
       }
     ],
     "uid": "9"
