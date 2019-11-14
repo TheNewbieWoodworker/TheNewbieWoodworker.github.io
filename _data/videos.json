@@ -1,26 +1,4 @@
 {
-  "temp01": {
-    "id": "temp01",
-    "title": "Build: Cross Cut Sleds that work with a Blade Guard!",
-    "description": "This is the build video for the video 'Cross Cut Sleds that work with a Blade Guard!'",
-    "publishedAt": "2019-10-29T20:04:56.000Z",
-    "thumbnailUrl": "/projects/blade-guard-sleds/blade-guard-sleds-thumbnail-320.jpg",
-    "articleLink": "/projects/blade-guard-sleds/",
-    "productsLink": "/projects/blade-guard-sleds/",
-    "categories": [
-      {
-        "name": "crosscut-sleds",
-        "sortOrder": "02"
-      },
-      {
-        "name": "safety"
-      },
-      {
-        "name": "sawing"
-      }
-    ],
-    "uid": "92"
-  },
   "AlUCDzM3gzY": {
     "id": "AlUCDzM3gzY",
     "title": "Cross Cut Sleds that work with a Blade Guard!",
