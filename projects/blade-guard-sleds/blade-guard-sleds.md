@@ -23,6 +23,10 @@ back_btn_text: "Back to Projects"
    padding-top="10"
    description="Introductory video." %}
 
+{% include video-reference.html video-id="nyNimyc2UeY"
+   padding-top="0"
+   description="Build video for the half-sled." %}
+
 <p style="clear: left"></p>
 
 <hr class="hr-thick">

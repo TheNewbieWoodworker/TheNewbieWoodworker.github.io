@@ -1,4 +1,26 @@
 {
+  "nyNimyc2UeY": {
+    "id": "nyNimyc2UeY",
+    "title": "Build this Cross Cut Sled that works with a Blade Guard (Half Sled)",
+    "description": "This is the build video for the half-sled from my video: <a href='https://youtu.be/AlUCDzM3gzY' target='_blank'>https://youtu.be/AlUCDzM3gzY</a>.",
+    "publishedAt": "2019-11-17T00:45:01.000Z",
+    "thumbnailUrl": "https://i.ytimg.com/vi/nyNimyc2UeY/mqdefault.jpg",
+    "articleLink": "/projects/blade-guard-sleds/",
+    "productsLink": "/projects/blade-guard-sleds/products/",
+    "categories": [
+      {
+        "name": "crosscut-sleds",
+        "sortOrder": "02"
+      },
+      {
+        "name": "safety"
+      },
+      {
+        "name": "sawing"
+      }
+    ],
+    "uid": "92"
+  },
   "AlUCDzM3gzY": {
     "id": "AlUCDzM3gzY",
     "title": "Cross Cut Sleds that work with a Blade Guard!",
