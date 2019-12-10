@@ -1,8 +1,21 @@
 {
+  "UxBlUDKrln8": {
+    "id": "UxBlUDKrln8",
+    "title": "You Won't Believe How Awesome This Saw Is!",
+    "description": "This Irwin pull saw is a thing of beauty. You&#x27;ve got to see it to believe it.",
+    "publishedAt": "2019-12-09T23:56:01.000Z",
+    "thumbnailUrl": "https://i.ytimg.com/vi/UxBlUDKrln8/mqdefault.jpg",
+    "categories": [
+      {
+        "name": "sawing"
+      }
+    ],
+    "uid": "93"
+  },
   "nyNimyc2UeY": {
     "id": "nyNimyc2UeY",
     "title": "Build this Cross Cut Sled that works with a Blade Guard (Half Sled)",
-    "description": "This is the build video for the half-sled from my video: <a href='https://youtu.be/AlUCDzM3gzY' target='_blank'>https://youtu.be/AlUCDzM3gzY</a>.",
+    "description": "This is the build video for the half-sled from my video: <a href='https://youtu.be/AlUCDzM3gzY' target='_blank'>https://youtu.be/AlUCDzM3gzY</a>. It shows how to build a cross-cut sled (half-sled) that works with a blade guard.",
     "publishedAt": "2019-11-17T00:45:01.000Z",
     "thumbnailUrl": "https://i.ytimg.com/vi/nyNimyc2UeY/mqdefault.jpg",
     "articleLink": "/projects/blade-guard-sleds/",
@@ -24,7 +37,7 @@
   "AlUCDzM3gzY": {
     "id": "AlUCDzM3gzY",
     "title": "Cross Cut Sleds that work with a Blade Guard!",
-    "description": "Finally, a way to use cross cut sleds without removing your blade guard. Safety and convenience, all in one.",
+    "description": "**Half-sled build video is out: <a href='https://youtu.be/nyNimyc2UeY' target='_blank'>https://youtu.be/nyNimyc2UeY</a>.** Finally, a way to use cross cut sleds without removing your blade guard. Safety and convenience, all in one.",
     "publishedAt": "2019-10-21T20:04:56.000Z",
     "thumbnailUrl": "https://i.ytimg.com/vi/AlUCDzM3gzY/mqdefault.jpg",
     "articleLink": "/projects/blade-guard-sleds/",
