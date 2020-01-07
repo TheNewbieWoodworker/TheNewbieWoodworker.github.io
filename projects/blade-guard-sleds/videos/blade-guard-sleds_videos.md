@@ -45,36 +45,25 @@ back_btn_text: "Back to the Project"
 
 <p style="clear: left"></p>
 
-<h3 style="margin-bottom: 0px">Attaching Runners...</h3>
-
----
-
-{% include video-reference.html video-id="0gvx-_YipOs" timecode="542"
-   thumbnailUrl="/projects/blade-guard-sleds/gluing-runners.jpg"
-   title="...with Glue"
-   description="Jumps you right to the point in the video where I show how to glue on runners." %}
-
-{% include video-reference.html video-id="bKIXUw7IhlY" timecode="297"
-   thumbnailUrl="/projects/blade-guard-sleds/screwing-runners.jpg"
-   title="...with Screws"
-   description="Even though this video is for tabbed runners, it works for both kinds. The link jumps right to the section of the video on using screws." %}
-
-
-
-
-<p style="clear: left"></p>
-
 <h3 style="margin-bottom: 0px">Other Videos</h3>
 
 ---
 
-{% include video-reference.html video-id="YzfiIdoDgeE"
-   padding-top="10"
-   description=" " %}
+{% include video-reference.html video-id="GUXa37VEZ2o" padding-tip="0" %}
 
-{% include video-reference.html video-id="cjdX4k6rsFI"
-   padding-top="0"
-   description="Shows how I have a vacuum hose next to my workbench." %}
+{% include video-reference.html video-id="UxBlUDKrln8" padding-tip="0" description="Nice pull saw." %}
+
+{% include video-reference.html video-id="YzfiIdoDgeE" padding-top="10" description=" " %}
+
+{% include video-reference.html video-id="cjdX4k6rsFI" padding-top="0" description="Shows how I have a vacuum hose next to my workbench." %}
+
+{% include video-reference.html video-id="BG-HGjoGvhE" padding-top="0" %}
+
+{% include video-reference.html video-id="WFNgPWYDxqw" padding-tip="0" %}
+
+{% include video-reference.html video-id="g5unV5jTNI4" padding-tip="0" description="No lie, you'll be amazed at how often you end up using this tool, once you make it. Simple, and cheap." %}
+
+{% include video-reference.html video-id="IiQ2bv2rH44" padding-tip="0" description="How to build a sheath for the Chisel Plane, so it can be stored safely when you're not using it." %}
 
 
 

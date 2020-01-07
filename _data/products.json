@@ -846,6 +846,21 @@
       }
     ]
   },
+  "featherboard-hedgehog": {
+    "id": "featherboard-hedgehog",
+    "title": "Featherboard (Hedgehog)",
+    "text": "Great featherboard.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B078L82HLT&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2sV9kx8",
+    "categories": [
+      {
+        "name": "sawing"
+      },
+      {
+        "name": "routing"
+      }
+    ]
+  },
   "featherboards-drillpro": {
     "id": "featherboards-drillpro",
     "title": "Featherboards (Drillpro)",
@@ -955,9 +970,10 @@
   "flexible-hose-kit-2-1_2-powertec": {
     "id": "flexible-hose-kit-2-1_2-powertec",
     "title": "Flexible Hose Kit - 2 1/2\" (Powertec)",
-    "text": "",
+    "text": "Ignore the bad reviews. Those are from people who expected the hose to stand up on it's own. It doesn't do that.",
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073ZX47FZ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "http://amzn.to/2FtBc0U",
+    "margin-top": "0",
     "categories": [
       {
         "name": "dust-collection"
@@ -2111,7 +2127,7 @@
   "sawstop-pcs": {
     "id": "sawstop-pcs",
     "title": "SawStop PCS",
-    "text": " No, I don’t expect anyone to buy this from my link, but hey, you never know. ",
+    "text": " No, I don’t expect anyone to buy this from my link, but hey, you never know. By the way, the Amazon price includes shipping. If you're going to get it shipped, then the price on Amazon is the same as anywhere else.",
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?encoding=UTF8&ASIN=B009C7NF0Y&Format=_SL160&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2LM9MFq",
     "margin-top": "0",
@@ -2151,6 +2167,18 @@
     "text": "I either use these or Spax screws, and both are the best.",
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001PCZ7GO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2QOXQmH",
+    "categories": [
+      {
+        "name": "hardware"
+      }
+    ]
+  },
+  "screws-grk-_8-x-2": {
+    "id": "screws-grk-_8-x-2",
+    "title": "Screws - GRK - #8 x 2\"",
+    "text": "I either use these or Spax screws, and both are the best.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001PD0TM0&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/35qoubn",
     "categories": [
       {
         "name": "hardware"

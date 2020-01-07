@@ -1,4 +1,26 @@
 {
+  "cQINXsn2QBk": {
+    "id": "cQINXsn2QBk",
+    "title": "Build this Revolutionary Cross Cut Sled, for Newbies!",
+    "description": "Detailed, step-by-step instructions for building this revolutionary new cross-cit sled that works without having to remove your blade guard. Let's start a blade guard revolution!",
+    "publishedAt": "2020-01-07T00:05:46.000Z",
+    "thumbnailUrl": "https://i.ytimg.com/vi/cQINXsn2QBk/mqdefault.jpg",
+    "articleLink": "/projects/blade-guard-sleds/",
+    "productsLink": "/projects/blade-guard-sleds/products/",
+    "categories": [
+      {
+        "name": "crosscut-sleds",
+        "sortOrder": "01"
+      },
+      {
+        "name": "safety"
+      },
+      {
+        "name": "sawing"
+      }
+    ],
+    "uid": "95"
+  },
   "GUXa37VEZ2o": {
     "id": "GUXa37VEZ2o",
     "title": "Easy! Cut Thin Strips On Your Table Saw!",
@@ -61,7 +83,7 @@
     "categories": [
       {
         "name": "crosscut-sleds",
-        "sortOrder": "01"
+        "sortOrder": "03"
       },
       {
         "name": "safety"
