@@ -163,6 +163,30 @@
       }
     ]
   },
+  "boeshield-t-9": {
+    "id": "boeshield-t-9",
+    "title": "Boeshield T-9",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001447PEK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/38rphdI",
+    "categories": [
+      {
+        "name": "misc,sawing"
+      }
+    ]
+  },
+  "bostik-glidecote-top-cote": {
+    "id": "bostik-glidecote-top-cote",
+    "title": "Bostik GlideCote (Top-Cote)",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000223UD&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2TIWewH",
+    "categories": [
+      {
+        "name": "misc,sawing"
+      }
+    ]
+  },
   "branding-iron": {
     "id": "branding-iron",
     "title": "Branding Iron",
@@ -446,6 +470,18 @@
     "categories": [
       {
         "name": "electronics"
+      }
+    ]
+  },
+  "denatured-alcohol": {
+    "id": "denatured-alcohol",
+    "title": "Denatured Alcohol",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B002MBX2QE&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3aGVxv5",
+    "categories": [
+      {
+        "name": "misc"
       }
     ]
   },
@@ -2137,6 +2173,30 @@
       }
     ]
   },
+  "scotch-brite-7448-pads": {
+    "id": "scotch-brite-7448-pads",
+    "title": "Scotch-Brite 7448 Pads",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00MBPTH56&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/39CFJJH",
+    "categories": [
+      {
+        "name": "misc"
+      }
+    ]
+  },
+  "scott-shop-towels-12-rolls": {
+    "id": "scott-shop-towels-12-rolls",
+    "title": "Scott Shop Towels (12 rolls)",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07HS16Q16&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2PPC0At",
+    "categories": [
+      {
+        "name": "misc"
+      }
+    ]
+  },
   "screwdriver-stanley": {
     "id": "screwdriver-stanley",
     "title": "Screwdriver (Stanley)",
@@ -2568,6 +2628,18 @@
     "categories": [
       {
         "name": "sawing"
+      }
+    ]
+  },
+  "wd-40-non-aerosol-spray": {
+    "id": "wd-40-non-aerosol-spray",
+    "title": "WD-40 Non-Aerosol Spray",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00JIHTNRM&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2uVTbsO",
+    "categories": [
+      {
+        "name": "misc"
       }
     ]
   },
