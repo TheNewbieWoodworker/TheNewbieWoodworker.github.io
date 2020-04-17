@@ -29,16 +29,4 @@ I sell plans on this site, through a company called [Gumroad](https://gumroad.co
 
 ## Disclosure Policy
 
-I make money on this website through affiliate programs. If you click an affiliate link and buy the product, you help support this website because I’ll get a percentage of that sale.
-
-Currently I’m an affiliate for Amazon.
-
-What this means for you:
-
-* I became an affiliate to earn revenue towards the costs of creating YouTube videos, and maintaining this site.
-* I do not and will not recommend a product just for the sake of making money.
-* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website, or in my videos.
-* I respect and value my viewers/readers too much to share anything other than my own genuine and objective opinions and advice.
-
-Just like this website, my Disclosure Policy is a work in progress.
-
+"As an Amazon Associate I earn from qualifying purchases."
