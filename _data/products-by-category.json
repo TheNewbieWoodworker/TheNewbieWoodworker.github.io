@@ -25,6 +25,7 @@
   "cutting": [
     "galax-pro-angle-grinder",
     "diamond-sharpener",
+    "makita-drill-circular-saw-3-piece-kit",
     "plane-blade"
   ],
   "drilling": [
@@ -47,6 +48,7 @@
     "self-centering-drill-bits-bosch",
     "drill-press-return-spring",
     "drill-press-vise-tekton",
+    "makita-drill-circular-saw-3-piece-kit",
     "flexform-hose-kit-2-1_2-rockler",
     "flexform-hose-kit-4-rockler",
     "flip-stop-2-1_4-rockler",
@@ -102,6 +104,8 @@
     "utility-box"
   ],
   "gluing": [
+    "ca-glue-gorilla-super-glue",
+    "ca-glue-activator-stick-fast",
     "epoxy-glue-gorilla",
     "fastcap-glu-bot-glue-bottle-16-ounces",
     "glue-stick-repositionable-elmers",
@@ -120,6 +124,7 @@
     "micro-jig-zeroplay-miter-bar",
     "grk-screws-_8-1-1_2",
     "grk-screws-_8-1-1_4",
+    "screws-grk-_8-x-2",
     "machine-screw-pan-head-1-4x1-2-box-50",
     "t-track-powertec",
     "t-track-2-rockler",
@@ -127,6 +132,7 @@
     "threaded-insert-1-4x1-2-no-flange-zinc-box-100"
   ],
   "measuring-marking": [
+    "angle-finder-protractor-digital-tacklife",
     "caliper-digital",
     "caliper-fractional-dial",
     "center-finder-robert-larson",
@@ -152,6 +158,7 @@
     "saw-gauge-igaging",
     "speed-squares-7-12-swanson",
     "straight-edge-clamping-guide-36-e.-emerson",
+    "straight-edge-clamping-guide-50-e-emerson",
     "t-square-36-alvin",
     "tape-measure",
     "wixey-wr700"
@@ -159,10 +166,13 @@
   "misc": [
     "emerson-air-conditioner",
     "panasonic-battery-charger",
+    "boeshield-t-9",
+    "bostik-glidecote-top-cote",
     "branding-iron",
     "canary-corrugated-cardboard-cutter",
     "low-profile-casters",
     "coupling-nut-1_4-20-x-1-50",
+    "denatured-alcohol",
     "diamond-sharpener",
     "3m-face-shield",
     "flip-stop-2-1_4-rockler",
@@ -183,6 +193,8 @@
     "power-tool-switch-rockler",
     "remote-control-outlet-switch-westek",
     "salad-bowl-finish-general-finishes",
+    "scotch-brite-7448-pads",
+    "scott-shop-towels-12-rolls",
     "screwdriver-stanley",
     "sharpening-hone-double-sided",
     "silicone-project-mat",
@@ -190,6 +202,7 @@
     "scotch-indoor-mounting-tape",
     "tool-drawer-liner-hf",
     "tool-drawer-liner-hd",
+    "wd-40-non-aerosol-spray",
     "workmate-225-black-and-decker"
   ],
   "miter-and-t-slots": [
@@ -253,6 +266,9 @@
   "sawing": [
     "pull-saw-12-irwin",
     "galax-pro-angle-grinder",
+    "boeshield-t-9",
+    "bostik-glidecote-top-cote",
+    "makita-drill-circular-saw-3-piece-kit",
     "featherboard-hedgehog",
     "featherboards-drillpro",
     "fence-clamps-milescraft",
