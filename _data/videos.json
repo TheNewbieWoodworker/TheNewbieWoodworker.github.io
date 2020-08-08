@@ -1,4 +1,17 @@
 {
+  "DzuPo802mV8": {
+    "id": "DzuPo802mV8",
+    "title": "Comparing Ts to Ys for Dust Collection",
+    "description": "I compared T connectors to Y connectors to see how much of a difference they really make, in a dust collection system using a shop vac and 2&quot; PVC pipes. The results might surprise you.",
+    "publishedAt": "2020-06-19T14:35:43Z",
+    "thumbnailUrl": "https://i.ytimg.com/vi/DzuPo802mV8/mqdefault.jpg",
+    "categories": [
+      {
+        "name": "dust-collection"
+      }
+    ],
+    "uid": "99"
+  },
   "wsnLy0Kdc-Y": {
     "id": "wsnLy0Kdc-Y",
     "title": "DIY Shiplap from Plywood",
@@ -58,7 +71,7 @@
   "cQINXsn2QBk": {
     "id": "cQINXsn2QBk",
     "title": "Build this Revolutionary Cross Cut Sled, for Newbies!",
-    "description": "Detailed, step-by-step instructions for building this revolutionary new cross-cit sled that works without having to remove your blade guard. Let&#x27;s start a blade guard revolution!",
+    "description": "(Index is below.) Detailed, step-by-step instructions for building this revolutionary new cross-cit sled that works without having to remove your blade guard. Let&#x27;s start a blade guard revolution!",
     "publishedAt": "2020-01-07T00:05:46.000Z",
     "thumbnailUrl": "https://i.ytimg.com/vi/cQINXsn2QBk/mqdefault.jpg",
     "articleLink": "/projects/blade-guard-sleds/",
@@ -1372,7 +1385,7 @@
   "AignFa1374E": {
     "id": "AignFa1374E",
     "title": "Table Saw Tune-Up 1: Blade Alignment",
-    "description": "In part 1 of this multi-part series, I show how to align your table saw&#x27;s blade to one of your miter tracks. I go into lots of detail, with a lot of tips and a troubleshooting guide. Part 2: <a href='https://youtu.be/AignFa1374E' target='_blank'>https://youtu.be/AignFa1374E</a>",
+    "description": "In part 1 of this multi-part series, I show how to align your table saw&#x27;s blade to one of your miter tracks. I go into lots of detail, with a lot of tips and a troubleshooting guide. Part 2: <a href='https://youtu.be/01R7796JoQo' target='_blank'>https://youtu.be/01R7796JoQo</a>",
     "publishedAt": "2017-10-14T15:51:03.000Z",
     "thumbnailUrl": "https://i.ytimg.com/vi/AignFa1374E/mqdefault.jpg",
     "categories": [
@@ -1446,6 +1459,7 @@
         "sortOrder": "03"
       }
     ],
+    "hidden": "true",
     "uid": "9"
   },
   "cFxjeDvJhew": {
