@@ -351,6 +351,18 @@
       }
     ]
   },
+  "caster-wheels-2-fixed-2-swivel-3": {
+    "id": "caster-wheels-2-fixed-2-swivel-3",
+    "title": "Caster Wheels - 2 Fixed, 2 Swivel - 3\"",
+    "text": "Nice heavy-duty casters.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01LXS330V&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3lYuvEu",
+    "categories": [
+      {
+        "name": "hardware"
+      }
+    ]
+  },
   "low-profile-casters": {
     "id": "low-profile-casters",
     "title": "Casters - Low Profile",
@@ -976,10 +988,13 @@
   "fence-clamps-milescraft": {
     "id": "fence-clamps-milescraft",
     "title": "Fence Clamps (Milescraft)",
-    "text": "I haven't tried these, but they're cheap enough, and have good reviews.",
+    "text": "I haven't tried these, but they're cheaper than the Rockler ones, and they have good reviews.",
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07CJHZ7QL&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
-    "link": "https://amzn.to/2RVqo0T",
+    "link": "https://amzn.to/2W3qp3D",
     "categories": [
+      {
+        "name": "clamping"
+      },
       {
         "name": "sawing"
       }
@@ -993,6 +1008,9 @@
     "link": "https://amzn.to/2CxeMaV",
     "categories": [
       {
+        "name": "clamping"
+      },
+      {
         "name": "sawing"
       }
     ]
@@ -1004,6 +1022,9 @@
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001DSZFMG&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2RYfuYn",
     "categories": [
+      {
+        "name": "clamping"
+      },
       {
         "name": "sawing"
       }
@@ -1747,6 +1768,18 @@
       }
     ]
   },
+  "push-stick-offset-bench-dog": {
+    "id": "push-stick-offset-bench-dog",
+    "title": "Push Stick - Offset (Bench Dog)",
+    "text": "For narrow rip cuts with the blade guard on.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000FW3VQ8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3mTKYLC",
+    "categories": [
+      {
+        "name": "sawing"
+      }
+    ]
+  },
   "radius-quick-jigs": {
     "id": "radius-quick-jigs",
     "title": "Radius Quick-Jigs",
@@ -1781,6 +1814,18 @@
     "categories": [
       {
         "name": "electronics"
+      }
+    ]
+  },
+  "remote-control-outlet-switch-dewenwils": {
+    "id": "remote-control-outlet-switch-dewenwils",
+    "title": "Remote Control Outlet Switch (DEWENWILS)",
+    "text": "I use this for my dust collector",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GXCYWRQ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2VSxsfj",
+    "categories": [
+      {
+        "name": "dust-collection"
       }
     ]
   },
@@ -2318,6 +2363,18 @@
       }
     ]
   },
+  "screws-spax-_8-x-1-1_2": {
+    "id": "screws-spax-_8-x-1-1_2",
+    "title": "Screws - SPAX - #8 x 1 1/2\"",
+    "text": "",
+    "image": "https://images.homedepot-static.com/productImages/32ed55b6-4271-4167-ac1e-3d64ec046393/svn/spax-wood-screws-4191020400406-64_1000.jpg",
+    "link": "https://www.homedepot.com/p/SPAX-8-x-1-1-2-in-T-Star-Plus-Drive-Flat-Head-Partial-Thread-Yellow-Zinc-Coated-Multi-Material-Screw-197-per-Box-4191020400406/202040968",
+    "categories": [
+      {
+        "name": "hardware"
+      }
+    ]
+  },
   "sharpening-hone-double-sided": {
     "id": "sharpening-hone-double-sided",
     "title": "Sharpening Hone - Double-Sided",
@@ -2391,7 +2448,7 @@
     "link": "https://amzn.to/2LxqVBg",
     "categories": [
       {
-        "name": "Electronics"
+        "name": "electronics"
       }
     ]
   },
@@ -2419,6 +2476,22 @@
     "categories": [
       {
         "name": "routing"
+      }
+    ]
+  },
+  "harbor-freight-storage-bin-case": {
+    "id": "harbor-freight-storage-bin-case",
+    "title": "Storage Bin Case (Harbor Freight)",
+    "text": "Great for storing small parts like nuts and bolts",
+    "image": "https://shop.harborfreight.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/3/93928_W3.jpg",
+    "link": "https://www.harborfreight.com/20-bin-medium-portable-parts-storage-case-93928.html",
+    "margin-top": "0",
+    "categories": [
+      {
+        "name": "hardware"
+      },
+      {
+        "name": "misc"
       }
     ]
   },
