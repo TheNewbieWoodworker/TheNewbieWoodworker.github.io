@@ -22,8 +22,8 @@ back_btn_text: "Back to Projects"
 <p></p>
 
 {% include pic-and-link-line.html
-  name="Free Plans - Under Construction"
-  link="#"
+  name="Free Plans & SketchUp Models"
+  link="/projects/snowflakes/plans/"
   image="/assets/images/plans100.png" %}
 
 {% include pic-and-link-line.html
