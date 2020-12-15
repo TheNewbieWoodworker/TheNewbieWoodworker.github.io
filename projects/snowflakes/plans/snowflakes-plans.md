@@ -11,6 +11,8 @@ back_btn_text: "Back to the Project"
 
 [Imperial (inches) Plans](/assets/downloads/snowflake-holiday-decorations-plans-imperial.pdf)
 
+[Metric Plans](/assets/downloads/snowflake-holiday-decorations-plans-metric.pdf)
+
 ## SketchUp Models
 
 Available at my [3D Warehouse](https://3dwarehouse.sketchup.com/by/TheNewbieWoodworker){:target="_blank"} page.
