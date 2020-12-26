@@ -4,7 +4,8 @@ layout: post
 permalink: "/articles/circular-saw-safety/"
 redirect_from:
   - "/circular-saw-safety/"
-  - "/circular-saw-tips"
+  - "/circilar-saw-safety/"
+  - "/circular-saw-tips/"
 category: article
 article-image: "/projects/articles/circular-saw-safety/circular-saw-safety-320.jpg"
 article-description: "Links to a great video about circular saw safety."
