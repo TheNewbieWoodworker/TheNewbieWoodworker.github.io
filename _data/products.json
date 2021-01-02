@@ -954,6 +954,18 @@
       }
     ]
   },
+  "epoxy-glue-2-pack-gorilla": {
+    "id": "epoxy-glue-2-pack-gorilla",
+    "title": "Epoxy Glue 2-Pack (Gorilla)",
+    "text": "The only kind of epoxy glue I use.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01M7VD07W&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3o9JSMm",
+    "categories": [
+      {
+        "name": "gluing"
+      }
+    ]
+  },
   "3m-face-shield": {
     "id": "3m-face-shield",
     "title": "Face Shield",
@@ -2424,12 +2436,42 @@
       }
     ]
   },
-  "silicone-project-mat": {
-    "id": "silicone-project-mat",
-    "title": "Silicone Project Mat (Rockler)",
+  "silicone-project-mat-amazon": {
+    "id": "silicone-project-mat-amazon",
+    "title": "Silicone Project Mat (Rockler), Amazon link",
     "text": "Great mat for gluing, or just protecting a surface.",
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06X1GCF7D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2DdhhST",
+    "categories": [
+      {
+        "name": "gluing"
+      },
+      {
+        "name": "misc"
+      }
+    ]
+  },
+  "silicone-project-mat-rockler": {
+    "id": "silicone-project-mat-rockler",
+    "title": "Silicone Project Mat (Rockler)",
+    "text": "Great mat for gluing, or just protecting a surface.",
+    "image": "https://www.rockler.com/media/catalog/product/cache/5c5edcf249a74e99ece620285918bb9b/5/6/56209-01-1000.jpg",
+    "link": "https://www.rockler.com/rockler-silicone-project-mat",
+    "categories": [
+      {
+        "name": "gluing"
+      },
+      {
+        "name": "misc"
+      }
+    ]
+  },
+  "silicone-project-mat-xl": {
+    "id": "silicone-project-mat-xl",
+    "title": "Silicone Project Mat XL (Rockler)",
+    "text": "Large size. Great mat for gluing, or just protecting a surface.",
+    "image": "https://www.rockler.com/media/catalog/product/cache/5c5edcf249a74e99ece620285918bb9b/5/9/59282-02-1000_1.jpg",
+    "link": "https://www.rockler.com/rockler-silicone-project-mat-xl",
     "categories": [
       {
         "name": "gluing"
