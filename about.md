@@ -2,6 +2,7 @@
 layout: about
 title: About
 permalink: /about/
+show_build_timestamp: "Y"
 ---
 My name is Dan Thomas". I'm a retired software engineer, and I get my engineering fix nowadays in the workshop.
 

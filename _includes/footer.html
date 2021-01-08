@@ -4,7 +4,10 @@
     {% if site.copyright %}
       {{ site.copyright | markdownify }}
     {% else %}
-      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.</p>
+      <p>&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</p>
+      {% if page.show_build_timestamp == "Y" %}
+        <p>Built: {{ site.time | date: '%x %R %Z' }}</p>
+      {% endif %}
     {% endif %}
     </div>
   </div>
