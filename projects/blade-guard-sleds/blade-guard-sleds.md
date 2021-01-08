@@ -11,7 +11,7 @@ redirect_from:
   - "/bladeguardsled/"
   - "/BladeGuardSled/"
 category: project
-project-sort-order: "07"
+project-sort-order: "01"
 project-image: "/projects/blade-guard-sleds/blade-guard-sleds-thumbnail-320.jpg"
 project-description: "Introduction and Builds for my 'Cross Cut Sleds that work with a Blade Guard'"
 back_btn_link: "/projects/"

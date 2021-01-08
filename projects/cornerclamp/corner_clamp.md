@@ -2,9 +2,14 @@
 layout: post
 title: "Corner Clamp"
 permalink: "/projects/cornerclamp/"
-redirect_from: "/plans/cornerclamp"
+redirect_from:
+  - "/cornerclamp"
+  - "/cornerclamps"
+  - "/corner-clamp"
+  - "/corner-clamps"
+  - "/plans/cornerclamp"
 category: project
-project-sort-order: "02"
+project-sort-order: "03"
 project-image: "/projects/cornerclamp/corner_clamp_150.png"
 project-description: "How to build my corner clamp, including plans."
 back_btn_link: "/projects/"

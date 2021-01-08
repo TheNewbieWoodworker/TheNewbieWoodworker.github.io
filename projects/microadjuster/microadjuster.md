@@ -9,7 +9,7 @@ redirect_from:
   - "micro-adjuster"
   - "Micro-Adjuster/"
 category: project
-project-sort-order: "05"
+project-sort-order: "06"
 project-image: "/projects/microadjuster/2019-07-08.1.02.jpg"
 project-description: "How to use a dial indicator to adjust your table saw's fence by small amounts."
 back_btn_link: "/projects/"

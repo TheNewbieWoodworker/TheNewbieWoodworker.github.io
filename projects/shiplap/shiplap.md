@@ -8,7 +8,7 @@ redirect_from:
   - "/Shiplap/"
   - "/ShipLap/"
 category: project
-#project-sort-order: "07"
+project-sort-order: "10"
 project-image: "/projects/shiplap/shiplap-thumbnail-320.jpg"
 project-description: "How I built my DIY Shiplap from Plywood"
 back_btn_link: "/projects/"

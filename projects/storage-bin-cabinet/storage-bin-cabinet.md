@@ -7,7 +7,7 @@ redirect_from:
   - "/storagebincabinet/"
   - "/StorageBinCabinet/"
 category: project
-#project-sort-order: "07"
+project-sort-order: "04"
 project-image: "/projects/storage-bin-cabinet/storage-bin-cabinet-thumbnail-320.jpg"
 #project-description: "How I built my DIY Shiplap from Plywood"
 back_btn_link: "/projects/"

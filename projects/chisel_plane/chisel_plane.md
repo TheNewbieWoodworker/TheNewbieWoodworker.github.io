@@ -8,8 +8,9 @@ redirect_from:
   - "/plans/chisel-plane/"
   - "/chisel_plane/"
   - "/chisel-plane/"
+  - "/chiselplane/"
 category: project
-project-sort-order: "04"
+project-sort-order: "05"
 project-image: "/projects/chisel_plane/chisel_plane_and_sheath_150.png"
 project-description: "Really useful tool for getting to hard-to-reach areas."
 back_btn_link: "/projects/"
