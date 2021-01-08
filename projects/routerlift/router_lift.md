@@ -3,9 +3,9 @@ layout: post
 title: "Router Lift"
 permalink: "/projects/routerlift/"
 redirect_from:
-  - "/plans/routerlift"
-  - "router-lift"
-  - "routerlift"
+  - "/plans/routerlift/"
+  - "/router-lift/"
+  - "/routerlift/"
 category: project
 project-sort-order: "02"
 project-image: "/projects/routerlift/router_lift_150.png"

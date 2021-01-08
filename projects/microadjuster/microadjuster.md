@@ -6,8 +6,8 @@ redirect_from:
   - "/projects/micro-adjuster/"
   - "/microadjuster/"
   - "/MicroAdjuster/"
-  - "micro-adjuster"
-  - "Micro-Adjuster/"
+  - "/micro-adjuster/"
+  - "/Micro-Adjuster/"
 category: project
 project-sort-order: "06"
 project-image: "/projects/microadjuster/2019-07-08.1.02.jpg"

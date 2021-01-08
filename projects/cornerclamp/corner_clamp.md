@@ -3,11 +3,11 @@ layout: post
 title: "Corner Clamp"
 permalink: "/projects/cornerclamp/"
 redirect_from:
-  - "/cornerclamp"
-  - "/cornerclamps"
-  - "/corner-clamp"
-  - "/corner-clamps"
-  - "/plans/cornerclamp"
+  - "/cornerclamp/"
+  - "/cornerclamps/"
+  - "/corner-clamp/"
+  - "/corner-clamps/"
+  - "/plans/cornerclamp/"
 category: project
 project-sort-order: "03"
 project-image: "/projects/cornerclamp/corner_clamp_150.png"
