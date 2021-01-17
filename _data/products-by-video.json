@@ -498,5 +498,71 @@
 			"id": "socket-set-stanley-99-piece",
 			"text": ""
 		}
+	],
+	"Di_xHYgCE88": [
+		{
+			"id": "coupling-nut-1_4-20-x-1-50",
+			"text": ""
+		},
+		{
+			"id": "insert-nut-type-d-1_4-20-x-20mm-12-hillman",
+			"text": ""
+		},
+		{
+			"id": "insert-nut-type-e-1_4-20-x-20mm-50-e-z-lok",
+			"text": ""
+		},
+		{
+			"id": "wen-belt-and-disc-sander",
+			"text": ""
+		},
+		{
+			"id": "center-finder-robert-larson",
+			"text": ""
+		},
+		{
+			"id": "drill-press-vise-tekton",
+			"text": ""
+		},
+		{
+			"id": "emerson-air-conditioner",
+			"text": ""
+		},
+		{
+			"id": "epoxy-glue-gorilla",
+			"text": ""
+		},
+		{
+			"id": "remote-control-outlet-switch-dewenwils",
+			"text": ""
+		},
+		{
+			"id": "rotary-tool-dremel",
+			"text": ""
+		},
+		{
+			"id": "sanding-block-blue-preppin-weapon",
+			"text": ""
+		},
+		{
+			"id": "sanding-block-red-preppin’-weapon",
+			"text": ""
+		},
+		{
+			"id": "sanding-block-yellow-preppin-weapon",
+			"text": ""
+		},
+		{
+			"id": "sanding-drum-kit-big-horn",
+			"text": ""
+		},
+		{
+			"id": "sanding-drum-kit-powertec",
+			"text": ""
+		},
+		{
+			"id": "workmate-225-black-and-decker",
+			"text": ""
+		}
 	]
 }

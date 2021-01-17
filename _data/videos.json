@@ -846,9 +846,14 @@
     "description": "Detailed, step-by-step instructions. Why spend money to buy knobs for shop jigs? This is how I make my own knobs. I show you 5 different knob shapes, and a couple of different attaching options. And I even take a stab at putting a finish on one knob.",
     "publishedAt": "2018-06-22T17:10:24.000Z",
     "thumbnailUrl": "https://i.ytimg.com/vi/Di_xHYgCE88/mqdefault.jpg",
+    "articleLink": "/projects/knobs/",
+    "productsLink": "/projects/knobs/products/",
     "categories": [
       {
         "name": "tips-and-techniques"
+      },
+      {
+        "name": "misc"
       },
       {
         "name": "humor"
