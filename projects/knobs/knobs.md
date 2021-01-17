@@ -7,6 +7,7 @@ redirect_from:
 category: project
 project-sort-order: "04"
 project-image: "/projects/knobs/knobs-320.jpg"
+project-description: "Why spend money to buy knobs for shop jigs? This is how I make my own knobs."
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---

@@ -9,7 +9,7 @@ redirect_from:
 category: project
 project-sort-order: "04"
 project-image: "/projects/storage-bin-cabinet/storage-bin-cabinet-thumbnail-320.jpg"
-#project-description: "How I built my DIY Shiplap from Plywood"
+project-description: "Simple steps for building a cabinet for Harbor Freight Storage Bin Cases, either rolling or stationary."
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---

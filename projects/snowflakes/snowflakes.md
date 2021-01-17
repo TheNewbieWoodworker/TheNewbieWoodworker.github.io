@@ -8,7 +8,7 @@ redirect_from:
 category: project
 project-sort-order: "09"
 project-image: "/projects/snowflakes/snowflakes-320.jpg"
-#project-description: "How I built my DIY Shiplap from Plywood"
+project-description: "See how to make this wooden snowflake."
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---
