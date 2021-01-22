@@ -467,6 +467,30 @@
       }
     ]
   },
+  "jorgensen-clamp-12-2-pack": {
+    "id": "jorgensen-clamp-12-2-pack",
+    "title": "Clamp - 12\" 2 pack (Jorgensen)",
+    "text": "I love these clamps! This 2-pack is a good value.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07W85CK6P&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://thenewbiewoodworker.com/products/",
+    "categories": [
+      {
+        "name": "clamping"
+      }
+    ]
+  },
+  "jorgensen-clamp-24-2-pack": {
+    "id": "jorgensen-clamp-24-2-pack",
+    "title": "Clamp - 24\" 2 pack (Jorgensen)",
+    "text": "I love these clamps! This 2-pack is a good value.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07K9ZV8MZ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3qKm4Q4",
+    "categories": [
+      {
+        "name": "clamping"
+      }
+    ]
+  },
   "collet-extension": {
     "id": "collet-extension",
     "title": "Collet Extension",
@@ -1702,6 +1726,18 @@
       }
     ]
   },
+  "oops-jumbo-eraser": {
+    "id": "oops-jumbo-eraser",
+    "title": "OOPS Jumbo Eraser",
+    "text": "Best eraser I've ever used.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01K5RJS1O&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3c3NBYI",
+    "categories": [
+      {
+        "name": "measuring-marking"
+      }
+    ]
+  },
   "johnson-paste-wax": {
     "id": "johnson-paste-wax",
     "title": "Paste Wax (Johnson)",
@@ -2436,12 +2472,12 @@
       }
     ]
   },
-  "silicone-project-mat-amazon": {
-    "id": "silicone-project-mat-amazon",
-    "title": "Silicone Project Mat (Rockler), Amazon link",
+  "silicone-project-mat-rockler": {
+    "id": "silicone-project-mat-rockler",
+    "title": "Silicone Project Mat (Rockler)",
     "text": "Great mat for gluing, or just protecting a surface.",
-    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06X1GCF7D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
-    "link": "https://amzn.to/2DdhhST",
+    "image": "https://www.rockler.com/media/catalog/product/cache/5c5edcf249a74e99ece620285918bb9b/5/6/56209-01-1000.jpg",
+    "link": "https://www.rockler.com/rockler-silicone-project-mat",
     "categories": [
       {
         "name": "gluing"
@@ -2451,12 +2487,12 @@
       }
     ]
   },
-  "silicone-project-mat-rockler": {
-    "id": "silicone-project-mat-rockler",
-    "title": "Silicone Project Mat (Rockler)",
+  "silicone-project-mat-amazon": {
+    "id": "silicone-project-mat-amazon",
+    "title": "Silicone Project Mat (Rockler), Amazon link",
     "text": "Great mat for gluing, or just protecting a surface.",
-    "image": "https://www.rockler.com/media/catalog/product/cache/5c5edcf249a74e99ece620285918bb9b/5/6/56209-01-1000.jpg",
-    "link": "https://www.rockler.com/rockler-silicone-project-mat",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B06X1GCF7D&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2DdhhST",
     "categories": [
       {
         "name": "gluing"
@@ -2735,6 +2771,18 @@
     "text": "",
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0000223US&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2ITLF2V",
+    "categories": [
+      {
+        "name": "gluing"
+      }
+    ]
+  },
+  "titebond-3": {
+    "id": "titebond-3",
+    "title": "Titebond 3",
+    "text": "Longer set time, and for outdoor use.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0001YS16U&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2LYAP2X",
     "categories": [
       {
         "name": "gluing"
