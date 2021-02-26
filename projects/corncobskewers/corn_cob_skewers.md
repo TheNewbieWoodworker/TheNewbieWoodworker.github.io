@@ -10,6 +10,7 @@ category: project
 project-sort-order: "08"
 project-image: "/projects/corncobskewers/corn_cob_skewers_150.jpg"
 project-description: "Corn Cobb Skewers make a great Christmas gift."
+project-has-plans: "true"
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---

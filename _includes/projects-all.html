@@ -1,5 +1,18 @@
 {% assign projects = site.pages | where: "category", "project" | sort: "project-sort-order" %}
 {% for project in projects %}
+  {% if include.has-plans == nil %}
+    {% assign qualifies = true %}
+  {% elsif include.has-plans == "true" %}
+    {% assign qualifies = project.project-has-plans == "true" %}
+  {% else %}
+    {% if project.project-has-plans == "true" %}
+      {% assign qualifies = false %}
+    {% else %}
+      {% assign qualifies = true %}
+    {% endif %}
+  {% endif %}
+
+  {% if qualifies %}
   <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
 
   <a href="{{ project.url }}" class="align-left"><img src="{{ project.project-image }}" alt="" width="150px"></a>
@@ -7,4 +20,5 @@
   <p>{{ project.project-description }}</p>
 
   <hr style="clear: left" />
+  {% endif %}
 {% endfor %}

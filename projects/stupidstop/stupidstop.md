@@ -14,6 +14,7 @@ category: project
 project-sort-order: "07"
 project-image: "/projects/stupidstop/2019-09-04.1.01.jpg"
 project-description: "Details about how I built my StupidStop. 😄"
+project-has-plans: "true"
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---

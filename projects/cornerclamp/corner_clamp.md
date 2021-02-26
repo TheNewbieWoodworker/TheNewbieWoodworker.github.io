@@ -12,6 +12,7 @@ category: project
 project-sort-order: "03"
 project-image: "/projects/cornerclamp/corner_clamp_150.png"
 project-description: "How to build my corner clamp, including plans."
+project-has-plans: "true"
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---

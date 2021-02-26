@@ -9,6 +9,7 @@ category: project
 project-sort-order: "09"
 project-image: "/projects/snowflakes/snowflakes-320.jpg"
 project-description: "See how to make this wooden snowflake."
+project-has-plans: "true"
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---

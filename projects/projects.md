@@ -16,6 +16,12 @@ back_btn_text: "Back to the Main Page"
 
 <hr class="hr-thick">
 
-<h2 style="margin-top: 40px">Projects (that may have plans)</h2>
+<h2 style="margin-top: 40px">Projects With Plans or Build Articles</h2>
 
-{% include projects-all.html %}
+{% include projects-all.html has-plans="true" %}
+
+<hr class="hr-thick">
+
+<h2 style="margin-top: 40px">Other Projects</h2>
+
+{% include projects-all.html has-plans="false" %}

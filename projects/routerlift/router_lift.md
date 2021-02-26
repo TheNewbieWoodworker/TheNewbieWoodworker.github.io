@@ -10,6 +10,7 @@ category: project
 project-sort-order: "02"
 project-image: "/projects/routerlift/router_lift_150.png"
 project-description: "How to build my lever-operated router lift, including plans."
+project-has-plans: "true"
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---
@@ -30,15 +31,14 @@ If you have comments, questions, or suggestions, you can either use the [comment
 <p></p>
 
 {% include pic-and-link-line.html
-  name="Parts"
-  link="/projects/routerlift/parts/"
-  image="/projects/routerlift/router_lift_parts_150.jpg"
-  border=true %}
-
-{% include pic-and-link-line.html
   name="Plans"
   link="/projects/routerlift/plans/"
-  image="/projects/routerlift/router_lift_plans_150.jpg"
+  image="/assets/images/plans100.png" %}
+
+{% include pic-and-link-line.html
+  name="Products"
+  link="/projects/routerlift/products/"
+  image="/assets/images/products100.png"
   border=true %}
 
 <hr class="hr-thick">

@@ -13,6 +13,7 @@ category: project
 project-sort-order: "05"
 project-image: "/projects/chisel_plane/chisel_plane_and_sheath_150.png"
 project-description: "Really useful tool for getting to hard-to-reach areas."
+project-has-plans: "true"
 back_btn_link: "/projects/"
 back_btn_text: "Back to Projects"
 ---

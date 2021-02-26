@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Parts: Router Lift"
-permalink: "/projects/routerlift/parts/"
+title: "Products: Router Lift"
+permalink: "/projects/routerlift/products/"
+redirect_from:
+  - "/projects/routerlift/parts/"
 back_btn_link: "/projects/routerlift"
 back_btn_text: "Back to the Project"
 ---

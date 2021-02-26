@@ -1,14 +1,17 @@
 ---
 layout: post
-title: "Parts & Tools: Micro-Adjuster for Table Saw Fences"
-permalink: "/projects/microadjuster/parts/"
-redirect_from: "/projects/micro-adjuster/parts"
+title: "Products: Micro-Adjuster for Table Saw Fences"
+permalink: "/projects/microadjuster/products/"
+redirect_from:
+  - "/projects/microadjuster/parts/"
+  - "/projects/micro-adjuster/products/"
+  - "/projects/micro-adjuster/parts/"
 back_btn_link: "/projects/microadjuster"
 back_btn_text: "Back to the Project"
 ---
 ## Here's the basic parts list:
 
-![](/projects/microadjuster/parts/2019-07-09.1.01.jpg){: width="150px"}{: .align-left}
+![](/projects/microadjuster/products/2019-07-09.1.01.jpg){: width="150px"}{: .align-left}
 Wood, obviously.
 
 I used a scrap piece if maple. See the [beginning of the build article](/projects/microadjuster/build/) for more information.
@@ -34,7 +37,7 @@ I used a scrap piece if maple. See the [beginning of the build article](/project
 
 {::comment}-------------------------------------Screws-------------------------------------{:/comment}
 <br/>
-![](/projects/microadjuster/parts/2019-07-09.1.02.jpg){: width="150px"}{: .image-border}{: .align-left}
+![](/projects/microadjuster/products/2019-07-09.1.02.jpg){: width="150px"}{: .image-border}{: .align-left}
 <span style="display: inline-block; font-size: 115%; color: teal">Screws</span>
 <br/>
 You need a couple of screws to attach the switch. I just used some I found in a drawer of mixed screws.
@@ -105,9 +108,6 @@ You need a couple of screws to attach the switch. I just used some I found in a 
 
 {::comment}----------------------------------Makita Drill----------------------------------{:/comment}
 {% include product-link-from-data.html data=site.data.products.makita-drill %}
-
-{::comment}-----------------------------------SawStop PCS-----------------------------------{:/comment}
-{% include product-link-from-data.html data=site.data.products.sawstop-pcs %}
 
 <p></p>
 
