@@ -670,5 +670,23 @@
 			"id": "pull-saw-12-irwin",
 			"text": ""
 		}
+	],
+	"m0zNdCmehTI": [
+		{
+			"id": "dust-deputy",
+			"text": ""
+		},
+		{
+			"id": "dust-deputy-plus",
+			"text": ""
+		},
+		{
+			"id": "dust-cyclone-generic",
+			"text": ""
+		},
+		{
+			"id": "anemometer-btmeter",
+			"text": ""
+		}
 	]
 }
