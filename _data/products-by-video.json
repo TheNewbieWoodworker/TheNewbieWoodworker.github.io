@@ -688,5 +688,23 @@
 			"id": "anemometer-btmeter",
 			"text": ""
 		}
+	],
+	"ral2jDOa2rM": [
+		{
+			"id": "dust-deputy",
+			"text": ""
+		},
+		{
+			"id": "dust-deputy-plus",
+			"text": ""
+		},
+		{
+			"id": "dust-cyclone-generic",
+			"text": ""
+		},
+		{
+			"id": "anemometer-btmeter",
+			"text": ""
+		}
 	]
 }
