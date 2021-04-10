@@ -830,6 +830,9 @@
     "thumbnailUrl": "https://i.ytimg.com/vi/PxNS9ulGlpo/mqdefault.jpg",
     "categories": [
       {
+        "name": "t-tracks"
+      },
+      {
         "name": "tips-and-techniques"
       }
     ],
