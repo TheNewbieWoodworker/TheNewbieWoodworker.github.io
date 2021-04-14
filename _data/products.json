@@ -95,12 +95,12 @@
       }
     ]
   },
-  "galax-pro-angle-grinder": {
-    "id": "galax-pro-angle-grinder",
-    "title": "Angle Grinder",
-    "text": "This isn't the one I use, bit it seems to be highly rated, and it's inexpensive.",
-    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07GRGBBH1&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
-    "link": "https://amzn.to/2TaBkGj",
+  "angle-grinder-makita": {
+    "id": "angle-grinder-makita",
+    "title": "Angle Grinder (Makita)",
+    "text": "Nice angle grinder",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B0010DHFTK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2PV7qc5",
     "categories": [
       {
         "name": "cutting"
@@ -435,7 +435,7 @@
     "title": "Clamp - 12\" 2 pack (Jorgensen)",
     "text": "I love these clamps! This 2-pack is a good value.",
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07W85CK6P&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
-    "link": "https://thenewbiewoodworker.com/products/",
+    "link": "https://amzn.to/3uOdPV4",
     "categories": [
       {
         "name": "clamping"
@@ -807,10 +807,10 @@
   },
   "countersink-drill-bits-snappy": {
     "id": "countersink-drill-bits-snappy",
-    "title": "Drill Bit Set - Countersink (Snappy)",
-    "text": "A friend of mine recommends these - he swears by them.",
-    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000XXZME8&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
-    "link": "https://amzn.to/2F1vWOh",
+    "title": "Drill Bit Set - Countersink with Depth Stop (Snappy)",
+    "text": "I love this set.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01G4B7ZHO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3snu8X7",
     "categories": [
       {
         "name": "drilling"
@@ -820,7 +820,7 @@
   "forstner-bits-14-piece-porter-cable": {
     "id": "forstner-bits-14-piece-porter-cable",
     "title": "Drill Bit Set - Forstner - 14 Piece (Porter-Cable)",
-    "text": "I haven't tried these, but it looks like a good set.",
+    "text": "I love these bits, and the case is nice, although the bit sizes are upside down",
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B004TSZEB4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2FnSpFr",
     "categories": [
@@ -1271,9 +1271,9 @@
   "hack-saw-stanely": {
     "id": "hack-saw-stanely",
     "title": "Hack Saw (Stanely)",
-    "text": "I could only find a 2-pack for this, but at least it's not very expensive.",
-    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B077TZDQ83&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
-    "link": "https://amzn.to/2Smh5F1",
+    "text": "Great hack saw.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B009CPGHH4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2RrkqpY",
     "categories": [
       {
         "name": "sawing"
@@ -2007,6 +2007,18 @@
       }
     ]
   },
+  "router-makita-xtr01z-cordless-compact": {
+    "id": "router-makita-xtr01z-cordless-compact",
+    "title": "Router - Makita XTR01Z Cordless Compact",
+    "text": "This is a great cordless router, and I highly recommend it.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074BYS49M&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/32hriIG",
+    "categories": [
+      {
+        "name": "routing"
+      }
+    ]
+  },
   "router-bit-and-saw-blade-cleaning-kit-rockler": {
     "id": "router-bit-and-saw-blade-cleaning-kit-rockler",
     "title": "Router Bit & Saw Blade Cleaning Kit (Rockler)",
@@ -2056,6 +2068,18 @@
       {
         "name": "miter-and-t-slots"
       },
+      {
+        "name": "routing"
+      }
+    ]
+  },
+  "router-bit-1_4-shank-1_4-spiral-upcut-whiteside": {
+    "id": "router-bit-1_4-shank-1_4-spiral-upcut-whiteside",
+    "title": "Router Bit - 1/4\" Shank - 1/4\" Spiral Upcut (Whiteside)",
+    "text": "Great spiral upcut router bit.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000K2BGNS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2QjsBnP",
+    "categories": [
       {
         "name": "routing"
       }
@@ -2118,6 +2142,18 @@
     "text": "See <a href=\"https://youtu.be/dc15zOyLQwg\" target=\"_blank\">my video</a> for a review of these bits.",
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00006XMTT&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2NKgpai",
+    "categories": [
+      {
+        "name": "routing"
+      }
+    ]
+  },
+  "router-dust-nozzle-for-makita-xtr01z": {
+    "id": "router-dust-nozzle-for-makita-xtr01z",
+    "title": "Router Dust Nozzle for Makita XTR01Z",
+    "text": "Dust shroud for the Makita XTR01Z cordless compact router.",
+    "image": "https://www.toolnut.com/media/catalog/product/e/4/e4585baf-e89c-48c3-92ec-96bafeb0e0cc_195559-1_p_1500px.jpg?quality=100&bg-color=255,255,255&fit=bounds&height=700&width=700&canvas=700:700",
+    "link": "https://www.toolnut.com/makita-195559-1-dust-nozzle-fixed-base.html",
     "categories": [
       {
         "name": "routing"
@@ -2483,6 +2519,18 @@
       }
     ]
   },
+  "self-centering-punch-general-tools": {
+    "id": "self-centering-punch-general-tools",
+    "title": "Self-Centering Punch (General Tools)",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00004T7OX&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2PU4Ym5",
+    "categories": [
+      {
+        "name": "measuring-marking"
+      }
+    ]
+  },
   "sharpening-hone-double-sided": {
     "id": "sharpening-hone-double-sided",
     "title": "Sharpening Hone - Double-Sided",
@@ -2785,6 +2833,18 @@
     "categories": [
       {
         "name": "measuring-marking"
+      }
+    ]
+  },
+  "thread-checker": {
+    "id": "thread-checker",
+    "title": "Thread Checker",
+    "text": "Check screw and nut threads sizes",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B003FJW0GK&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/32i5e0J",
+    "categories": [
+      {
+        "name": "misc"
       }
     ]
   },
