@@ -1,7 +1,7 @@
 ---
 title: "Products: Custom Router Baseplates"
 layout: post
-video-id: "KF2W6v-ueVY"
+video-id: "BcUbORX5T1A"
 permalink: "/projects/router-base/products/"
 back_btn_link: "/projects/workbench-drawer/"
 back_btn_text: "Back to the Project"
