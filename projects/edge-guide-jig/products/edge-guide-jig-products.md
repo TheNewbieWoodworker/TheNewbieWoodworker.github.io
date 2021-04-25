@@ -1,9 +1,9 @@
 ---
-title: "Products: Custom Router Baseplates"
+title: "Products: Edge Guide Jig"
 layout: post
-video-id: "BcUbORX5T1A"
-permalink: "/projects/router-base/products/"
-back_btn_link: "/projects/router-base/"
+video-id: "-Gh08iho1lw"
+permalink: "/projects/edge-guide-jig/products/"
+back_btn_link: "/projects/edge-guide-jig/"
 back_btn_text: "Back to the Project"
 ---
 {% assign products = site.data.products-by-video[page.video-id]  %}

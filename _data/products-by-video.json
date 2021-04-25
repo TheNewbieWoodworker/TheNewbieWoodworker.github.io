@@ -708,11 +708,11 @@
 		}
 	],
 	"BcUbORX5T1A": [
-    {
+		{
 			"id": "center-finder-robert-larson",
 			"text": ""
 		},
-    {
+		{
 			"id": "ca-glue-gorilla-super-glue",
 			"text": ""
 		},
@@ -720,19 +720,19 @@
 			"id": "ca-glue-activator-stick-fast",
 			"text": ""
 		},
-    {
+		{
 			"id": "self-centering-punch-general-tools",
 			"text": ""
 		},
-    {
-      "id": "thread-checker",
-      "text": ""
-    },
-    {
+		{
+			"id": "thread-checker",
+			"text": ""
+		},
+		{
 			"id": "center-hole-punch",
 			"text": ""
 		},
-    {
+		{
 			"id": "router-makita-xtr01z-cordless-compact",
 			"text": ""
 		},
@@ -798,6 +798,48 @@
 		},
 		{
 			"id": "workmate-225-black-and-decker",
+			"text": ""
+		}
+	],
+	"-Gh08iho1lw": [
+		{
+			"id": "self-centering-drill-bits-bosch",
+			"text": ""
+		},
+		{
+			"id": "caliper-digital",
+			"text": ""
+		},
+		{
+			"id": "caliper-fractional-dial",
+			"text": ""
+		},
+		{
+			"id": "router-makita-xtr01z-cordless-compact",
+			"text": ""
+		},
+		{
+			"id": "router-dust-nozzle-for-makita-xtr01z",
+			"text": ""
+		},
+		{
+			"id": "makita-drill-circular-saw-3-piece-kit",
+			"text": ""
+		},
+		{
+			"id": "makita-drill",
+			"text": ""
+		},
+		{
+			"id": "jorgensen-clamp-12-2-pack",
+			"text": ""
+		},
+		{
+			"id": "remote-control-outlet-switch-dewenwils",
+			"text": ""
+		},
+		{
+			"id": "micro-jig-grr-ripper",
 			"text": ""
 		}
 	]
