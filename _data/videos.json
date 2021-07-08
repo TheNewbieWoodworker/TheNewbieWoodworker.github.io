@@ -1,4 +1,25 @@
 {
+  "rSv1CA7aoeE": {
+    "id": "rSv1CA7aoeE",
+    "title": "Adjustable Router Template Jig",
+    "description": "This easy-to-build adjustable router jig makes it easy to cut dados and other rectangular cut-outs.",
+    "publishedAt": "2021-04-25T14:35:43Z",
+    "thumbnailUrl": "https://i.ytimg.com/vi/rSv1CA7aoeE/mqdefault.jpg",
+    "articleLink": "/projects/adjustable-router-template/",
+    "productsLink": "/projects/adjustable-router-template/products/",
+    "categories": [
+      {
+        "name": "projects"
+      },
+      {
+        "name": "routers"
+      },
+      {
+        "name": "measuring-and-marking"
+      }
+    ],
+    "uid": "111"
+  },
   "-Gh08iho1lw": {
     "id": "-Gh08iho1lw",
     "title": "Edge Guide Jig for Router or Circular Saw",
@@ -8,6 +29,9 @@
     "articleLink": "/projects/edge-guide-jig/",
     "productsLink": "/projects/edge-guide-jig/products/",
     "categories": [
+      {
+        "name": "projects"
+      },
       {
         "name": "routers"
       },
@@ -26,6 +50,9 @@
     "articleLink": "/projects/router-base/",
     "productsLink": "/projects/router-base/products/",
     "categories": [
+      {
+        "name": "projects"
+      },
       {
         "name": "routers"
       }
