@@ -83,18 +83,6 @@
       }
     ]
   },
-  "angle-finder-protractor-digital-tacklife": {
-    "id": "angle-finder-protractor-digital-tacklife",
-    "title": "Angle Finder Protractor - Digital (Tacklife)",
-    "text": "",
-    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074GNVMCJ&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
-    "link": "https://amzn.to/2Ko3zh2",
-    "categories": [
-      {
-        "name": "measuring-marking"
-      }
-    ]
-  },
   "angle-grinder-makita": {
     "id": "angle-grinder-makita",
     "title": "Angle Grinder (Makita)",
@@ -120,6 +108,33 @@
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DFJRQQ7&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2LrUeoz",
     "categories": [
+      {
+        "name": "electronics"
+      }
+    ]
+  },
+  "audio-cable-3.5mm-right-angle-1.5": {
+    "id": "audio-cable-3.5mm-right-angle-1.5",
+    "title": "Audio Cable (3.5mm) - Right Angle 1.5'",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00LM0U8I6&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3AEfS0W",
+    "categories": [
+      {
+        "name": "audio"
+      }
+    ]
+  },
+  "audio-jack-panel-mount-3.5mm": {
+    "id": "audio-jack-panel-mount-3.5mm",
+    "title": "Audio Jack - Panel Mount (3.5mm)",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B073MSCPPR&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3m4WzKd",
+    "categories": [
+      {
+        "name": "audio"
+      },
       {
         "name": "electronics"
       }
@@ -454,6 +469,18 @@
       }
     ]
   },
+  "clamp-24-harbor-freight": {
+    "id": "clamp-24-harbor-freight",
+    "title": "Clamp - 24\" (Harbor Freight)",
+    "text": "",
+    "image": "https://shop.harborfreight.com/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/i/m/image_14722.jpg",
+    "link": "https://www.harborfreight.com/24-inch-bar-clamp-96213.html",
+    "categories": [
+      {
+        "name": "clamping"
+      }
+    ]
+  },
   "jorgensen-clamp-24-2-pack": {
     "id": "jorgensen-clamp-24-2-pack",
     "title": "Clamp - 24\" 2 pack (Jorgensen)",
@@ -578,6 +605,37 @@
       }
     ]
   },
+  "crossover-board-pair-parts-express": {
+    "id": "crossover-board-pair-parts-express",
+    "title": "Crossover Board Pair (Parts Express)",
+    "text": "",
+    "image": "https://www.parts-express.com/SSP%20Applications/PartsExpress@SuiteCentric/SCA%202019.1/img/260-184_HR_0.default.jpg",
+    "link": "https://www.parts-express.com/Blue-Perforated-Large-Hole-Crossover-Board-Pair-3.5-x-5-260-184",
+    "margin-top": "0",
+    "categories": [
+      {
+        "name": "audio"
+      },
+      {
+        "name": "electronics"
+      }
+    ]
+  },
+  "led-charging-light-kit-for-dayton-audio-lbb-3v2": {
+    "id": "led-charging-light-kit-for-dayton-audio-lbb-3v2",
+    "title": "Dayton Audio LBB-5CL LED Light Kit for LBB-3v2",
+    "text": "This is for v2 of the charging board. Make sure that's what you have.",
+    "image": "https://www.parts-express.com/SSP%20Applications/PartsExpress@SuiteCentric/SCA%202019.1/img/325-142_HR_0.default.jpg",
+    "link": "https://www.parts-express.com/Dayton-Audio-LBB-5CL-DC-Charging-Power-Cables-and-LED-Light-Kit-for-LBB-5-and-LBB-5S-Batter-325-142",
+    "categories": [
+      {
+        "name": "audio"
+      },
+      {
+        "name": "electronics"
+      }
+    ]
+  },
   "dc-power-jack-socket": {
     "id": "dc-power-jack-socket",
     "title": "DC Power Jack Socket",
@@ -585,6 +643,9 @@
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07LF1193N&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2LiLZw8",
     "categories": [
+      {
+        "name": "audio"
+      },
       {
         "name": "electronics"
       }
@@ -654,6 +715,18 @@
       },
       {
         "name": "misc"
+      }
+    ]
+  },
+  "digital-angle-finder-protractor-gemred": {
+    "id": "digital-angle-finder-protractor-gemred",
+    "title": "Digital Angle Finder Protractor (GemRed)",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00W395R5E&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3CUYKGc",
+    "categories": [
+      {
+        "name": "measuring-marking"
       }
     ]
   },
@@ -893,6 +966,18 @@
       }
     ]
   },
+  "duratex-black-1-pint-with-roller-acry-tech": {
+    "id": "duratex-black-1-pint-with-roller-acry-tech",
+    "title": "DuraTex - Black 1 Pint with Roller (Acry-Tech)",
+    "text": "The Amazon picture shows a plastic bag, but mine came in a can.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B00M28DUSC&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2W1jVFj",
+    "categories": [
+      {
+        "name": "audio"
+      }
+    ]
+  },
   "dust-collection-hose-clear-2-1_2-powertec": {
     "id": "dust-collection-hose-clear-2-1_2-powertec",
     "title": "Dust Collection Hose - 2 1/2\" (POWERTEC)",
@@ -1026,6 +1111,21 @@
     "categories": [
       {
         "name": "gluing"
+      }
+    ]
+  },
+  "executive-200-watt-portable-bluetooth-speaker-kit": {
+    "id": "executive-200-watt-portable-bluetooth-speaker-kit",
+    "title": "Executive 200 Watt Portable Bluetooth Speaker Kit",
+    "text": "",
+    "image": "https://www.parts-express.com/SSP%20Applications/PartsExpress@SuiteCentric/SCA%202019.1/img/300-7164_HR_0.default.jpg",
+    "link": "https://www.parts-express.com/Executive-Portable-Bluetooth-Speaker-Kit-300-7164",
+    "categories": [
+      {
+        "name": "audio"
+      },
+      {
+        "name": "electronics"
       }
     ]
   },
@@ -1295,6 +1395,18 @@
     "categories": [
       {
         "name": "sawing"
+      }
+    ]
+  },
+  "handle-black-vintage-guitar-amp": {
+    "id": "handle-black-vintage-guitar-amp",
+    "title": "Handle - Black Vintage Guitar Amp",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01JLT99D4&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3jWTgSB",
+    "categories": [
+      {
+        "name": "audio"
       }
     ]
   },
@@ -2631,6 +2743,21 @@
       }
     ]
   },
+  "silicone-soldering-mat-voniry": {
+    "id": "silicone-soldering-mat-voniry",
+    "title": "Silicone Soldering Mat (Voniry)",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07DFJRQQ7&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/37NGAI1",
+    "categories": [
+      {
+        "name": "misc"
+      },
+      {
+        "name": "electronics"
+      }
+    ]
+  },
   "skateboard-bearings-reds": {
     "id": "skateboard-bearings-reds",
     "title": "Skateboard Bearings (Reds)",
@@ -2656,6 +2783,30 @@
       }
     ]
   },
+  "solder-rosin-core": {
+    "id": "solder-rosin-core",
+    "title": "Solder - Rosin Core",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08RHMPJW3&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2W3Qoew",
+    "categories": [
+      {
+        "name": "electronics"
+      }
+    ]
+  },
+  "soldering-iron-digital-lcd": {
+    "id": "soldering-iron-digital-lcd",
+    "title": "Soldering Iron - Digital LCD",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B089SKWMPT&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/2XC2NqR",
+    "categories": [
+      {
+        "name": "electronics"
+      }
+    ]
+  },
   "soldering-iron-stand": {
     "id": "soldering-iron-stand",
     "title": "Soldering Iron Stand",
@@ -2665,6 +2816,30 @@
     "categories": [
       {
         "name": "electronics"
+      }
+    ]
+  },
+  "speaker-grill-6-parts-express": {
+    "id": "speaker-grill-6-parts-express",
+    "title": "Speaker Grill - 6\" (Parts Express)",
+    "text": "",
+    "image": "https://www.parts-express.com/SSP%20Applications/PartsExpress@SuiteCentric/SCA%202019.1/img/260-418_HR_0.default.jpg",
+    "link": "https://www.parts-express.com/Steel-Mesh-2-Piece-Grill-for-6-Speaker-Black-260-418",
+    "categories": [
+      {
+        "name": "audio"
+      }
+    ]
+  },
+  "speaker-grills-4.88-2": {
+    "id": "speaker-grills-4.88-2",
+    "title": "Speaker Grills - 4.88\" (2)",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B074XS14CN&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3k60jIS",
+    "categories": [
+      {
+        "name": "audio"
       }
     ]
   },
@@ -3040,6 +3215,36 @@
     "categories": [
       {
         "name": "misc"
+      }
+    ]
+  },
+  "wire-cutters-irwin": {
+    "id": "wire-cutters-irwin",
+    "title": "Wire Cutters (Irwin)",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000A0S4YO&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3jWR7Gx",
+    "categories": [
+      {
+        "name": "cutting"
+      },
+      {
+        "name": "electronics"
+      }
+    ]
+  },
+  "wire-strippers-irwin": {
+    "id": "wire-strippers-irwin",
+    "title": "Wire Strippers (Irwin)",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B000OQ21CA&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/37Uv9y5",
+    "categories": [
+      {
+        "name": "electronics"
+      },
+      {
+        "name": "cutting"
       }
     ]
   },

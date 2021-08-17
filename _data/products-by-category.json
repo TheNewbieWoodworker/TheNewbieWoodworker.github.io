@@ -1,4 +1,16 @@
 {
+  "audio": [
+    "audio-cable-3.5mm-right-angle-1.5",
+    "audio-jack-panel-mount-3.5mm",
+    "crossover-board-pair-parts-express",
+    "dc-power-jack-socket",
+    "led-charging-light-kit-for-dayton-audio-lbb-3v2",
+    "duratex-black-1-pint-with-roller-acry-tech",
+    "executive-200-watt-portable-bluetooth-speaker-kit",
+    "handle-black-vintage-guitar-amp",
+    "speaker-grill-6-parts-express",
+    "speaker-grills-4.88-2"
+  ],
   "books": [
     "care-and-repair-of-shop-machines-book"
   ],
@@ -13,6 +25,7 @@
     "jorgensen-clamp-12",
     "jorgensen-clamp-12-2-pack",
     "jorgensen-clamp-18",
+    "clamp-24-harbor-freight",
     "jorgensen-clamp-24-2-pack",
     "wood-clamp-10",
     "rockler-clamp-it-corner-clamping-jig",
@@ -29,7 +42,9 @@
     "angle-grinder-makita",
     "diamond-sharpener",
     "makita-drill-circular-saw-3-piece-kit",
-    "plane-blade"
+    "plane-blade",
+    "wire-cutters-irwin",
+    "wire-strippers-irwin"
   ],
   "drilling": [
     "center-hole-punch",
@@ -101,15 +116,24 @@
     "12v-dc-power-supply",
     "adhesive-pcb-feet",
     "anti-static-mat",
+    "audio-jack-panel-mount-3.5mm",
     "aviation-connector-3-pin",
     "aviation-connector-4-pin",
+    "crossover-board-pair-parts-express",
     "dc-power-jack-socket",
+    "led-charging-light-kit-for-dayton-audio-lbb-3v2",
+    "executive-200-watt-portable-bluetooth-speaker-kit",
     "helping-hands",
     "photoresistor-relay-module",
     "red-green-light-tower",
+    "silicone-soldering-mat-voniry",
+    "solder-rosin-core",
+    "soldering-iron-digital-lcd",
     "soldering-iron-stand",
     "toggle-switch-spst-waterproof",
-    "utility-box"
+    "utility-box",
+    "wire-cutters-irwin",
+    "wire-strippers-irwin"
   ],
   "gluing": [
     "ca-glue-gorilla-super-glue",
@@ -152,7 +176,6 @@
     "threaded-insert-1-4x1-2-no-flange-zinc-box-100"
   ],
   "measuring-marking": [
-    "angle-finder-protractor-digital-tacklife",
     "caliper-digital",
     "caliper-fractional-dial",
     "center-finder-robert-larson",
@@ -160,6 +183,7 @@
     "analog-dial-indicator",
     "analog-dial-indicator-and-base",
     "digital-dial-indicator",
+    "digital-angle-finder-protractor-gemred",
     "framing-square-12-1_2-x-8-johnson",
     "framing-square-24-x-16-johnson",
     "digital-height-gauge-wixey",
@@ -224,6 +248,7 @@
     "silicone-project-mat-rockler",
     "silicone-project-mat-amazon",
     "silicone-project-mat-xl",
+    "silicone-soldering-mat-voniry",
     "socket-set-stanley-99-piece",
     "harbor-freight-storage-bin-case",
     "scotch-indoor-mounting-tape",
