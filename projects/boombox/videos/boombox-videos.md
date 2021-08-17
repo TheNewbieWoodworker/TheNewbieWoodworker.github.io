@@ -15,11 +15,16 @@ back_btn_text: "Back to the Project"
   title="What's This World Coming To?"
   description="Chicago cover by Leonid & Friends" %}
 
+{% include youtube-video-reference.html video-id="wBWFZ6IxeYg"
+  padding-top="0"
+  title="All About That Bass - Avi Kaplan"
+  description="Meghan Trainor cover by Avi Kaplan" %}
+
 {% include youtube-video-reference.html video-id="7Qa8pta6AGM"
   padding-top="0"
   title="You Are On My Mind"
   description="Chicago cover by Leonid & Friends" %}
-  
+
 {% include youtube-video-reference.html video-id="7kQ1llzPiB4"
   padding-top="0"
   title="Beginnings"
