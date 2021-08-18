@@ -30,6 +30,13 @@ back_btn_text: "Back to Projects"
   name="Related Videos"
   link="/projects/boombox/videos/"
   image="/assets/images/videos100.png" %}
+  
+{% include pic-and-link-line.html
+  name="SketchUp Model"
+  link="https://3dwarehouse.sketchup.com/model/c611ba32-8f5b-4ed1-b521-b3f63d549095/BoomBox-Executive-200-Watt-Portable-Bluetooth-Speaker-Kit"
+  image="/assets/images/sketchup100.png" %}
+
+
 
 <hr class="hr-thick">
 
