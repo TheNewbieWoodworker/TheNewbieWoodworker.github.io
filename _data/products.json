@@ -180,7 +180,7 @@
   "wen-belt-and-disc-sander": {
     "id": "wen-belt-and-disc-sander",
     "title": "Belt & Disc Sander (Wen)",
-    "text": " If you get one of these, see <a href=\"https://youtu.be/PKOLf9SPRQ8\" target=\"_blank\">my video on changing the original sanding disc</a>. ",
+    "text": "",
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?encoding=UTF8&ASIN=B07KL4QGSQ&Format=_SL160&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2XxE3iu",
     "margin-top": "0",
@@ -1989,6 +1989,18 @@
       }
     ]
   },
+  "psa-to-hook-adaptor-for-disc-sanders": {
+    "id": "psa-to-hook-adaptor-for-disc-sanders",
+    "title": "PSA to Hook Adaptor for Disc Sanders (2Sand)",
+    "text": "",
+    "image": "https://cdn11.bigcommerce.com/s-3dst0o7rfa/images/stencil/1280x1280/products/5830/6282/psahookselect__78233.1551676691.jpg",
+    "link": "https://2sand.com/2sand-psa-to-hook-adaptor-for-disc-sanders/",
+    "categories": [
+      {
+        "name": "sanding"
+      }
+    ]
+  },
   "pull-saw-12-irwin": {
     "id": "pull-saw-12-irwin",
     "title": "Pull Saw - 12\" (Irwin)",
@@ -2329,6 +2341,21 @@
       }
     ]
   },
+  "rubber-roller": {
+    "id": "rubber-roller",
+    "title": "Rubber Roller",
+    "text": "Great for applying sanding discs.",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B01N9AL149&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3lsfXyJ",
+    "categories": [
+      {
+        "name": "sanding"
+      },
+      {
+        "name": "misc"
+      }
+    ]
+  },
   "salad-bowl-finish-general-finishes": {
     "id": "salad-bowl-finish-general-finishes",
     "title": "Salad Bowl Finish (General Finishes)",
@@ -2383,6 +2410,18 @@
     "text": "",
     "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B001DDWQ6Y&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
     "link": "https://amzn.to/2lupM0G",
+    "categories": [
+      {
+        "name": "sanding"
+      }
+    ]
+  },
+  "sanding-discs-hook-&-loop-6-x-80-dura-gold": {
+    "id": "sanding-discs-hook-&-loop-6-x-80-dura-gold",
+    "title": "Sanding Discs (Hook & Loop) - 6\" x 80 (Dura-Gold)",
+    "text": "",
+    "image": "https://ws-na.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B07JFDJDMS&Format=_SL160_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=thenewbiewood-20&language=en_US",
+    "link": "https://amzn.to/3Ep7u80",
     "categories": [
       {
         "name": "sanding"
