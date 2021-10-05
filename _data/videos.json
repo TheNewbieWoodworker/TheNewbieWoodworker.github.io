@@ -1345,6 +1345,9 @@
         "name": "reviews"
       },
       {
+        "name": "sawstop"
+      },
+      {
         "name": "sawing"
       }
     ],
@@ -1714,6 +1717,9 @@
     "categories": [
       {
         "name": "sawing"
+      },
+      {
+        "name": "sawstop"
       },
       {
         "name": "tips-and-techniques"
