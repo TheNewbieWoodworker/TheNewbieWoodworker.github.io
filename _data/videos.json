@@ -426,6 +426,7 @@
     "description": "CutList Optimizer is a free website that creates cut lists and cut sheets for you automatically, with the click of a button. Learn all about it in this video. Index below.",
     "publishedAt": "2019-08-28T23:09:28.000Z",
     "thumbnailUrl": "https://i.ytimg.com/vi/kbfnTOzh7_4/mqdefault.jpg",
+    "hidden": "true",
     "categories": [
       {
         "name": "reviews"
